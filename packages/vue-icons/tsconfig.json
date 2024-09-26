@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["es6", "esnext", "es2016", "dom", "dom.iterable", "scripthost"],
+    "allowJs": true,
+    "declaration": true,
+    "sourceMap": false,
+    "outDir": "dist",
+    "rootDir": "",
+    "importHelpers": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "removeComments": false,
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": false,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "types": [],
+    "typeRoots": [],
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["./src/**/*.ts", "./src/**/*.vue", "./src/**/*.d.ts"],
+  "exclude": ["node_modules", "dist", "./TbdcIcon.vue"]
+}

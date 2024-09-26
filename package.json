@@ -3,19 +3,23 @@
   "version": "0.0.1",
   "description": "A simple SVG icons library",
   "license": "MIT",
+  "type": "module",
   "homepage": "https://github.com/TBDC-Agro-Softwares/icons#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TBDC-Agro-Softwares/icons.git"
   },
   "files": [
-    "/dist"
+    "/icons",
+    "/packages/vue-icons/dist"
   ],
   "exports": {
-    "./dist/*": "./dist/*"
+    "./vue/*": "./packages/vue-icons/dist/*",
+    "./*": "./icons/*"
   },
   "scripts": {
-    "build": "rimraf dist & svgo -rf icons -o dist"
+    "build": "pnpm -r build",
+    "optimize": "rimraf icons/dist && svgo -rf icons -o icons/dist"
   },
   "keywords": [
     "icon",
@@ -25,9 +29,6 @@
   ],
   "devDependencies": {
     "rimraf": "^6.0.1",
-    "svgo": "^3.3.2"
-  },
-  "peerDependencies": {
-    "vue": "^3"
+    "sass": "^1.79.3"
   }
 }

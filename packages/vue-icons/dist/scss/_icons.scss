@@ -1,0 +1,55 @@
+@import './colors';
+
+$available-sizes: (
+  12: 12px,
+  14: 14px,
+  26: 26px,
+  28: 28px,
+  36: 36px
+);
+
+.icon {
+  fill: currentColor;
+  vertical-align: middle;
+
+  &.is-small {
+    width: 20px;
+    height: 20px;
+  }
+
+  &.is-default {
+    width: 24px;
+    height: 24px;
+  }
+
+  &.is-medium {
+    width: 32px;
+    height: 32px;
+  }
+
+  &.is-large {
+    width: 40px;
+    height: 40px;
+  }
+
+  &.is-clickable {
+    cursor: pointer;
+  }
+
+  @each $name, $color in $icon-colors-list {
+    &.is-#{'' + $name} {
+      color: $color !important;
+    }
+  }
+
+  @each $name, $pair in $available-sizes {
+    $size: nth($pair, 1);
+    .is-#{'' + $name} {
+      width: $size;
+      max-width: $size;
+
+      height: $size;
+      max-height: $size;
+    }
+  }
+}

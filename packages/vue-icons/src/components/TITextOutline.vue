@@ -1,0 +1,45 @@
+<template>
+  <svg :class="className" :style="color ? `color: ${color} !important` : undefined" width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M166.826 89.9709C161.404 76.5407 142.162 76.6778 137.023 90.382L59.1525 298.037C59.0605 298.266 58.9736 298.498 58.8919 298.732L17.0231 410.382L16.9115 410.689C14.0245 418.883 18.2146 427.917 26.3864 430.981L26.6932 431.093C34.8871 433.98 43.9212 429.79 46.9856 421.618L85.0923 320H218.916L257.023 421.618L257.141 421.923C260.353 429.994 269.451 434.046 277.622 430.981C285.896 427.879 290.088 418.656 286.986 410.382L245.117 298.732C245.035 298.498 244.948 298.266 244.856 298.037L166.986 90.382L166.826 89.9709ZM206.916 288L152.004 141.568L97.0923 288H206.916ZM400.004 176C454.938 176 495.193 215.009 495.992 270.319L496.004 272V296V311V416C496.004 424.837 488.841 432 480.004 432C471.273 432 464.175 425.006 464.007 416.315L464.004 416V402.621C463.034 403.586 462.042 404.53 461.029 405.453C440.501 424.153 412.529 433 380.004 433C336.822 433 304.004 402.775 304.004 359C304.004 335.433 314.301 316.638 332.466 303.767C346.818 293.599 365.431 287.548 386.135 285.11C410.302 282.266 438.702 280.647 464.004 280.159V272C464.004 233.602 437.945 208 400.004 208C373.998 208 350.994 222.89 341.028 245.567L340.73 246.257C337.275 254.39 327.88 258.181 319.747 254.726C311.615 251.27 307.823 241.876 311.278 233.743C326.122 198.807 360.958 176 400.004 176ZM464 312.166L463.994 312.986C463.652 345.229 454.956 367.699 439.479 381.797C425.453 394.575 405.137 401 380.004 401C353.934 401 336.004 384.487 336.004 359C336.004 346.11 341.046 336.906 350.965 329.878C360.397 323.195 374.064 318.753 389.876 316.89C412.298 314.252 438.869 312.705 462.727 312.192L464 312.166Z" fill="currentColor"/>
+</svg>
+</template>
+
+<script lang="ts" setup>
+import { computed, type PropType } from 'vue';
+import type { IconColorClasses, IconsSize } from '@/types';
+
+const props = defineProps({
+  size: {
+    type: String as PropType<IconsSize>,
+    default: 'is-default',
+    validator(value: string) {
+      return ['is-small', 'is-medium', 'is-large', 'is-default', 'is-12', 'is-14', 'is-26', 'is-28', 'is-36'].indexOf(value) > -1;
+    }
+  },
+  type: {
+    type: String as PropType<IconColorClasses>,
+    default: undefined
+  },
+  title: {
+    type: String,
+    default: undefined
+  },
+  color: {
+    type: String,
+    default: undefined
+  },
+  clickable: {
+    type: Boolean,
+    default: false
+  }
+});
+
+const className = computed(() => [
+  'icon',
+  props.size,
+  {
+    [props.type as string]: props.type && !props.color,
+    'is-clickable': props.clickable
+  }
+]);
+</script>
