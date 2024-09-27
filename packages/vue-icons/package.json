@@ -1,9 +1,7 @@
 {
     "name": "vue-icons",
     "type": "module",
-    "main": "./dist/vue/index.cjs",
-    "module": "./dist/vue/index.js",
-    "types": "./dist/vue/index.js",
+    "types": "./dist/index.d.ts",
     "scripts": {
         "build": "node generate.vue.js && vite build && rimraf dist/index.cjs && rimraf dist/index.js && vue-tsc --declaration --emitDeclarationOnly --outDir dist && copyfiles -f dist/src/components/*.vue.d.ts dist && rimraf dist/src/components && resolve-tspaths && node generate.types.js"
     },

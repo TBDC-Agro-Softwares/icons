@@ -7,7 +7,7 @@ export function TbdcIconVueResolver() {
     type: 'component',
     resolve: (name) => {
       if (name.startsWith('TI')) {
-        return { name, from: `@tbdc-agro-softwares/icons/vue/${name}.js` };
+        return { name, from: `@tbdc-agro-softwares/icons/vue/${name}` };
       }
     }
   };
