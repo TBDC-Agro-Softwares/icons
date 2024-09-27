@@ -11,10 +11,12 @@
   },
   "files": [
     "/icons",
+    "/resolvers",
     "/packages/vue-icons/dist"
   ],
   "exports": {
     "./vue/*": "./packages/vue-icons/dist/*",
+    "./resolvers/*": "./resolvers/*",
     "./*": "./icons/*"
   },
   "scripts": {
