@@ -4,10 +4,10 @@
  */
 export function TbdcIconVueResolver() {
   return {
-    type: 'component',
-    resolve: (name) => {
+    type: 'component' as 'component' | 'directive',
+    resolve: (name: string) => {
       if (name.startsWith('TI')) {
-        return { name, from: `@tbdc-agro-softwares/icons/vue/${name}` };
+        return { name, from: `@tbdc-agro-softwares/icons/vue` };
       }
     }
   };

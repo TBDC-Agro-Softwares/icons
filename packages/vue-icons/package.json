@@ -1,9 +1,8 @@
 {
     "name": "vue-icons",
     "type": "module",
-    "types": "./dist/index.d.ts",
     "scripts": {
-        "build": "node generate.vue.js && vite build && rimraf dist/index.cjs && rimraf dist/index.js && vue-tsc --declaration --emitDeclarationOnly --outDir dist && copyfiles -f dist/src/components/*.vue.d.ts dist && rimraf dist/src/components && resolve-tspaths && node generate.types.js"
+        "build": "node generate.vue.js && node generate.types.js && vite build && vue-tsc --declaration --emitDeclarationOnly --outDir dist"
     },
     "devDependencies": {
         "@types/node": "^18.19.52",

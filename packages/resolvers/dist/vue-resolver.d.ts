@@ -3,9 +3,9 @@
  * Docs: https://github.com/unplugin/unplugin-vue-components
  */
 export declare function TbdcIconVueResolver(): {
-    type: string;
-    resolve: (name: any) => {
-        name: any;
+    type: "component" | "directive";
+    resolve: (name: string) => {
+        name: string;
         from: string;
     } | undefined;
 };
