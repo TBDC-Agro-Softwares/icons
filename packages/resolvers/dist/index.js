@@ -1,1 +1,1 @@
-export { TbdcIconVueResolver } from './vue-resolver';
+export { TbdcIconVueResolver } from './vue-resolver.js';

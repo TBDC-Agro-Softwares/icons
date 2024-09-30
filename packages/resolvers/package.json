@@ -5,7 +5,7 @@
     "types": "./dist/index.d.ts",
     "type": "module",
     "scripts": {
-        "build": "rimraf dist && tsc -b tsconfig.cjs.json tsconfig.esm.json && node merge.builds.js"
+        "build": "rimraf dist && tsc -b tsconfig.cjs.json tsconfig.esm.json && node fix.extension.js && node merge.builds.js"
     },
     "devDependencies": {
         "typescript": "^5.4.2"
