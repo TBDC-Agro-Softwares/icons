@@ -2,7 +2,7 @@
     "name": "vue-icons",
     "type": "module",
     "scripts": {
-        "build": "node generate.vue.js && node generate.types.js && vite build && vue-tsc --declaration --emitDeclarationOnly --outDir dist"
+        "build": "node generate.vue.js && node generate.types.js && vite build && vue-tsc --declaration --emitDeclarationOnly --outDir dist && resolve-tspaths"
     },
     "devDependencies": {
         "@types/node": "^18.19.52",

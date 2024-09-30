@@ -1,5 +1,5 @@
 import { type PropType } from 'vue';
-import type { IconColorClasses, IconsSize } from '@/types';
+import type { IconColorClasses, IconsSize } from '../types';
 declare const _default: import("vue").DefineComponent<import("vue").ExtractPropTypes<{
     size: {
         type: PropType<IconsSize>;

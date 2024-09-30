@@ -1,5 +1,3 @@
-import '@/scss/_icons.scss';
-
 export * from './components/index-0';
 export * from './components/index-1';
 export * from './components/index-2';

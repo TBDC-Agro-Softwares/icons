@@ -32,9 +32,7 @@ import { join } from 'path';
     exportLines.push(`export * from './components/index-${index}';`);
   });
 
-  const template = `import '@/scss/_icons.scss';
-
-${exportLines.join('\n')}`;
+  const template = exportLines.join('\n');
 
   writeFileSync(join(import.meta.dirname, 'src', 'index.ts'), template);
 })();

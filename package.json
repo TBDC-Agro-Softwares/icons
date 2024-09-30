@@ -35,6 +35,8 @@
         "types": "./packages/vue-icons/dist/src/index.d.ts"
       }
     },
+    "./vue/css/*": "./packages/vue-icons/dist/css/*",
+    "./vue/scss/*": "./packages/vue-icons/dist/scss/*",
     "./*": "./icons/*"
   },
   "scripts": {

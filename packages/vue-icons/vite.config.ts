@@ -18,12 +18,20 @@ export default defineConfig({
   build: {
     cssCodeSplit: true,
     lib: {
-      entry: [...files.map((fileName) => join(__dirname, 'src', 'components', fileName)), join(__dirname, 'src', 'index.ts')]
+      entry: [
+        ...files.map((fileName) => join(__dirname, 'src', 'components', fileName)),
+        join(__dirname, 'src', 'scss', '_main.scss'),
+        join(__dirname, 'src', 'index.ts')
+      ]
     },
     rollupOptions: {
       external: ['vue'],
       output: {
         exports: 'named',
+        assetFileNames: (assetInfo) => {
+          if (assetInfo.name === '_main.css') return 'css/index.css';
+          return assetInfo.name || '';
+        },
         globals: { vue: 'Vue' }
       }
     }
