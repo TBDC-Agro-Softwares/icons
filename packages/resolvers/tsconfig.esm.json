@@ -1,11 +1,14 @@
 {
   "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
     "lib": ["es6", "esnext", "es2016", "dom", "dom.iterable", "scripthost"],
     "outDir": "dist",
     "strict": true,
     "removeComments": false,
     "declaration": true,
-    "esModuleInterop": true,
+    "esModuleInterop": false,
     "skipLibCheck": true
   },
   "include": ["index.ts"],

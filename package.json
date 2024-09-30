@@ -16,8 +16,14 @@
   ],
   "exports": {
     "./resolvers": {
-      "default": "./packages/resolvers/dist/index.js",
-      "types": "./packages/resolvers/dist/index.d.ts"
+      "import": {
+        "default": "./packages/resolvers/dist/index.js",
+        "types": "./packages/resolvers/dist/index.d.ts"
+      },
+      "require": {
+        "default": "./packages/resolvers/dist/index.cjs",
+        "types": "./packages/resolvers/dist/index.d.ts"
+      }
     },
     "./vue": {
       "import": {

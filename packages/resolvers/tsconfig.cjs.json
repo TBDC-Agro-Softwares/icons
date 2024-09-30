@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "lib": ["es6", "esnext", "es2016", "dom", "dom.iterable", "scripthost"],
+    "outDir": "build",
+    "strict": true,
+    "removeComments": false,
+    "declaration": false,
+    "esModuleInterop": false,
+    "skipLibCheck": true
+  },
+  "include": ["index.ts"],
+  "exclude": ["node_modules", "dist"]
+}
