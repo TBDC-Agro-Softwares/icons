@@ -135,140 +135,138 @@
   --tbdc-white: #ffffff;
 }
 
-$tbdc-primary-100: var(--brand-primary-100);
-$tbdc-primary-200: var(--brand-primary-200);
-$tbdc-primary-300: var(--brand-primary-300);
-$tbdc-primary-400: var(--brand-primary-400);
-$tbdc-primary-500: var(--brand-primary-500);
-$tbdc-primary-600: var(--brand-primary-600);
-$tbdc-primary-700: var(--brand-primary-700);
-$tbdc-primary-800: var(--brand-primary-800);
-$tbdc-primary-900: var(--brand-primary-900);
+$tbdc-primary-100: var(--brand-primary-100) !default;
+$tbdc-primary-200: var(--brand-primary-200) !default;
+$tbdc-primary-300: var(--brand-primary-300) !default;
+$tbdc-primary-400: var(--brand-primary-400) !default;
+$tbdc-primary-500: var(--brand-primary-500) !default;
+$tbdc-primary-600: var(--brand-primary-600) !default;
+$tbdc-primary-700: var(--brand-primary-700) !default;
+$tbdc-primary-800: var(--brand-primary-800) !default;
+$tbdc-primary-900: var(--brand-primary-900) !default;
 
-$tbdc-secondary-100: var(--brand-secondary-100);
-$tbdc-secondary-200: var(--brand-secondary-200);
-$tbdc-secondary-300: var(--brand-secondary-300);
-$tbdc-secondary-400: var(--brand-secondary-400);
-$tbdc-secondary-500: var(--brand-secondary-500);
-$tbdc-secondary-600: var(--brand-secondary-600);
-$tbdc-secondary-700: var(--brand-secondary-700);
-$tbdc-secondary-800: var(--brand-secondary-800);
-$tbdc-secondary-900: var(--brand-secondary-900);
+$tbdc-secondary-100: var(--brand-secondary-100) !default;
+$tbdc-secondary-200: var(--brand-secondary-200) !default;
+$tbdc-secondary-300: var(--brand-secondary-300) !default;
+$tbdc-secondary-400: var(--brand-secondary-400) !default;
+$tbdc-secondary-500: var(--brand-secondary-500) !default;
+$tbdc-secondary-600: var(--brand-secondary-600) !default;
+$tbdc-secondary-700: var(--brand-secondary-700) !default;
+$tbdc-secondary-800: var(--brand-secondary-800) !default;
+$tbdc-secondary-900: var(--brand-secondary-900) !default;
 
-$tbdc-tertiary-100: var(--brand-tertiary-100);
-$tbdc-tertiary-200: var(--brand-tertiary-200);
-$tbdc-tertiary-300: var(--brand-tertiary-300);
-$tbdc-tertiary-400: var(--brand-tertiary-400);
-$tbdc-tertiary-500: var(--brand-tertiary-500);
-$tbdc-tertiary-600: var(--brand-tertiary-600);
-$tbdc-tertiary-700: var(--brand-tertiary-700);
-$tbdc-tertiary-800: var(--brand-tertiary-800);
-$tbdc-tertiary-900: var(--brand-tertiary-900);
+$tbdc-tertiary-100: var(--brand-tertiary-100) !default;
+$tbdc-tertiary-200: var(--brand-tertiary-200) !default;
+$tbdc-tertiary-300: var(--brand-tertiary-300) !default;
+$tbdc-tertiary-400: var(--brand-tertiary-400) !default;
+$tbdc-tertiary-500: var(--brand-tertiary-500) !default;
+$tbdc-tertiary-600: var(--brand-tertiary-600) !default;
+$tbdc-tertiary-700: var(--brand-tertiary-700) !default;
+$tbdc-tertiary-800: var(--brand-tertiary-800) !default;
+$tbdc-tertiary-900: var(--brand-tertiary-900) !default;
 
-$tbdc-gray-100: var(--brand-gray-100);
-$tbdc-gray-200: var(--brand-gray-200);
-$tbdc-gray-300: var(--brand-gray-300);
-$tbdc-gray-400: var(--brand-gray-400);
-$tbdc-gray-500: var(--brand-gray-500);
-$tbdc-gray-600: var(--brand-gray-600);
-$tbdc-gray-700: var(--brand-gray-700);
-$tbdc-gray-800: var(--brand-gray-800);
-$tbdc-gray-900: var(--brand-gray-900);
+$tbdc-gray-100: var(--brand-gray-100) !default;
+$tbdc-gray-200: var(--brand-gray-200) !default;
+$tbdc-gray-300: var(--brand-gray-300) !default;
+$tbdc-gray-400: var(--brand-gray-400) !default;
+$tbdc-gray-500: var(--brand-gray-500) !default;
+$tbdc-gray-600: var(--brand-gray-600) !default;
+$tbdc-gray-700: var(--brand-gray-700) !default;
+$tbdc-gray-800: var(--brand-gray-800) !default;
+$tbdc-gray-900: var(--brand-gray-900) !default;
 
-$tbdc-red-100: var(--brand-red-100);
-$tbdc-red-200: var(--brand-red-200);
-$tbdc-red-300: var(--brand-red-300);
-$tbdc-red-400: var(--brand-red-400);
-$tbdc-red-500: var(--brand-red-500);
-$tbdc-red-600: var(--brand-red-600);
-$tbdc-red-700: var(--brand-red-700);
-$tbdc-red-800: var(--brand-red-800);
-$tbdc-red-900: var(--brand-red-900);
+$tbdc-red-100: var(--brand-red-100) !default;
+$tbdc-red-200: var(--brand-red-200) !default;
+$tbdc-red-300: var(--brand-red-300) !default;
+$tbdc-red-400: var(--brand-red-400) !default;
+$tbdc-red-500: var(--brand-red-500) !default;
+$tbdc-red-600: var(--brand-red-600) !default;
+$tbdc-red-700: var(--brand-red-700) !default;
+$tbdc-red-800: var(--brand-red-800) !default;
+$tbdc-red-900: var(--brand-red-900) !default;
 
-$tbdc-orange-100: var(--brand-orange-100);
-$tbdc-orange-200: var(--brand-orange-200);
-$tbdc-orange-300: var(--brand-orange-300);
-$tbdc-orange-400: var(--brand-orange-400);
-$tbdc-orange-500: var(--brand-orange-500);
-$tbdc-orange-600: var(--brand-orange-600);
-$tbdc-orange-700: var(--brand-orange-700);
-$tbdc-orange-800: var(--brand-orange-800);
-$tbdc-orange-900: var(--brand-orange-900);
+$tbdc-orange-100: var(--brand-orange-100) !default;
+$tbdc-orange-200: var(--brand-orange-200) !default;
+$tbdc-orange-300: var(--brand-orange-300) !default;
+$tbdc-orange-400: var(--brand-orange-400) !default;
+$tbdc-orange-500: var(--brand-orange-500) !default;
+$tbdc-orange-600: var(--brand-orange-600) !default;
+$tbdc-orange-700: var(--brand-orange-700) !default;
+$tbdc-orange-800: var(--brand-orange-800) !default;
+$tbdc-orange-900: var(--brand-orange-900) !default;
 
-$tbdc-yellow-100: var(--brand-yellow-100);
-$tbdc-yellow-200: var(--brand-yellow-200);
-$tbdc-yellow-300: var(--brand-yellow-300);
-$tbdc-yellow-400: var(--brand-yellow-400);
-$tbdc-yellow-500: var(--brand-yellow-500);
-$tbdc-yellow-600: var(--brand-yellow-600);
-$tbdc-yellow-700: var(--brand-yellow-700);
-$tbdc-yellow-800: var(--brand-yellow-800);
-$tbdc-yellow-900: var(--brand-yellow-900);
+$tbdc-yellow-100: var(--brand-yellow-100) !default;
+$tbdc-yellow-200: var(--brand-yellow-200) !default;
+$tbdc-yellow-300: var(--brand-yellow-300) !default;
+$tbdc-yellow-400: var(--brand-yellow-400) !default;
+$tbdc-yellow-500: var(--brand-yellow-500) !default;
+$tbdc-yellow-600: var(--brand-yellow-600) !default;
+$tbdc-yellow-700: var(--brand-yellow-700) !default;
+$tbdc-yellow-800: var(--brand-yellow-800) !default;
+$tbdc-yellow-900: var(--brand-yellow-900) !default;
 
-$tbdc-green-100: var(--brand-green-100);
-$tbdc-green-200: var(--brand-green-200);
-$tbdc-green-300: var(--brand-green-300);
-$tbdc-green-400: var(--brand-green-400);
-$tbdc-green-500: var(--brand-green-500);
-$tbdc-green-600: var(--brand-green-600);
-$tbdc-green-700: var(--brand-green-700);
-$tbdc-green-800: var(--brand-green-800);
-$tbdc-green-900: var(--brand-green-900);
+$tbdc-green-100: var(--brand-green-100) !default;
+$tbdc-green-200: var(--brand-green-200) !default;
+$tbdc-green-300: var(--brand-green-300) !default;
+$tbdc-green-400: var(--brand-green-400) !default;
+$tbdc-green-500: var(--brand-green-500) !default;
+$tbdc-green-600: var(--brand-green-600) !default;
+$tbdc-green-700: var(--brand-green-700) !default;
+$tbdc-green-800: var(--brand-green-800) !default;
+$tbdc-green-900: var(--brand-green-900) !default;
 
-$tbdc-teal-100: var(--brand-teal-100);
-$tbdc-teal-200: var(--brand-teal-200);
-$tbdc-teal-300: var(--brand-teal-300);
-$tbdc-teal-400: var(--brand-teal-400);
-$tbdc-teal-500: var(--brand-teal-500);
-$tbdc-teal-600: var(--brand-teal-600);
-$tbdc-teal-700: var(--brand-teal-700);
-$tbdc-teal-800: var(--brand-teal-800);
-$tbdc-teal-900: var(--brand-teal-900);
+$tbdc-teal-100: var(--brand-teal-100) !default;
+$tbdc-teal-200: var(--brand-teal-200) !default;
+$tbdc-teal-300: var(--brand-teal-300) !default;
+$tbdc-teal-400: var(--brand-teal-400) !default;
+$tbdc-teal-500: var(--brand-teal-500) !default;
+$tbdc-teal-600: var(--brand-teal-600) !default;
+$tbdc-teal-700: var(--brand-teal-700) !default;
+$tbdc-teal-800: var(--brand-teal-800) !default;
+$tbdc-teal-900: var(--brand-teal-900) !default;
 
-$tbdc-blue-100: var(--brand-blue-100);
-$tbdc-blue-200: var(--brand-blue-200);
-$tbdc-blue-300: var(--brand-blue-300);
-$tbdc-blue-400: var(--brand-blue-400);
-$tbdc-blue-500: var(--brand-blue-500);
-$tbdc-blue-600: var(--brand-blue-600);
-$tbdc-blue-700: var(--brand-blue-700);
-$tbdc-blue-800: var(--brand-blue-800);
-$tbdc-blue-900: var(--brand-blue-900);
+$tbdc-blue-100: var(--brand-blue-100) !default;
+$tbdc-blue-200: var(--brand-blue-200) !default;
+$tbdc-blue-300: var(--brand-blue-300) !default;
+$tbdc-blue-400: var(--brand-blue-400) !default;
+$tbdc-blue-500: var(--brand-blue-500) !default;
+$tbdc-blue-600: var(--brand-blue-600) !default;
+$tbdc-blue-700: var(--brand-blue-700) !default;
+$tbdc-blue-800: var(--brand-blue-800) !default;
+$tbdc-blue-900: var(--brand-blue-900) !default;
 
-$tbdc-indigo-100: var(--brand-indigo-100);
-$tbdc-indigo-200: var(--brand-indigo-200);
-$tbdc-indigo-300: var(--brand-indigo-300);
-$tbdc-indigo-400: var(--brand-indigo-400);
-$tbdc-indigo-500: var(--brand-indigo-500);
-$tbdc-indigo-600: var(--brand-indigo-600);
-$tbdc-indigo-700: var(--brand-indigo-700);
-$tbdc-indigo-800: var(--brand-indigo-800);
-$tbdc-indigo-900: var(--brand-indigo-900);
+$tbdc-indigo-100: var(--brand-indigo-100) !default;
+$tbdc-indigo-200: var(--brand-indigo-200) !default;
+$tbdc-indigo-300: var(--brand-indigo-300) !default;
+$tbdc-indigo-400: var(--brand-indigo-400) !default;
+$tbdc-indigo-500: var(--brand-indigo-500) !default;
+$tbdc-indigo-600: var(--brand-indigo-600) !default;
+$tbdc-indigo-700: var(--brand-indigo-700) !default;
+$tbdc-indigo-800: var(--brand-indigo-800) !default;
+$tbdc-indigo-900: var(--brand-indigo-900) !default;
 
-$tbdc-purple-100: var(--brand-purple-100);
-$tbdc-purple-200: var(--brand-purple-200);
-$tbdc-purple-300: var(--brand-purple-300);
-$tbdc-purple-400: var(--brand-purple-400);
-$tbdc-purple-500: var(--brand-purple-500);
-$tbdc-purple-600: var(--brand-purple-600);
-$tbdc-purple-700: var(--brand-purple-700);
-$tbdc-purple-800: var(--brand-purple-800);
-$tbdc-purple-900: var(--brand-purple-900);
+$tbdc-purple-100: var(--brand-purple-100) !default;
+$tbdc-purple-200: var(--brand-purple-200) !default;
+$tbdc-purple-300: var(--brand-purple-300) !default;
+$tbdc-purple-400: var(--brand-purple-400) !default;
+$tbdc-purple-500: var(--brand-purple-500) !default;
+$tbdc-purple-600: var(--brand-purple-600) !default;
+$tbdc-purple-700: var(--brand-purple-700) !default;
+$tbdc-purple-800: var(--brand-purple-800) !default;
+$tbdc-purple-900: var(--brand-purple-900) !default;
 
-$tbdc-pink-100: var(--brand-pink-100);
-$tbdc-pink-200: var(--brand-pink-200);
-$tbdc-pink-300: var(--brand-pink-300);
-$tbdc-pink-400: var(--brand-pink-400);
-$tbdc-pink-500: var(--brand-pink-500);
-$tbdc-pink-600: var(--brand-pink-600);
-$tbdc-pink-700: var(--brand-pink-700);
-$tbdc-pink-800: var(--brand-pink-800);
-$tbdc-pink-900: var(--brand-pink-900);
+$tbdc-pink-100: var(--brand-pink-100) !default;
+$tbdc-pink-200: var(--brand-pink-200) !default;
+$tbdc-pink-300: var(--brand-pink-300) !default;
+$tbdc-pink-400: var(--brand-pink-400) !default;
+$tbdc-pink-500: var(--brand-pink-500) !default;
+$tbdc-pink-600: var(--brand-pink-600) !default;
+$tbdc-pink-700: var(--brand-pink-700) !default;
+$tbdc-pink-800: var(--brand-pink-800) !default;
+$tbdc-pink-900: var(--brand-pink-900) !default;
 
-$tbdc-black: var(--tbdc-black);
-$tbdc-white: var(--tbdc-white);
-
-$tbdc-background: var(--brand-background);
+$tbdc-black: var(--tbdc-black) !default;
+$tbdc-white: var(--tbdc-white) !default;
 
 $icon-colors-list: (
   primary-100: $tbdc-primary-100,
@@ -390,4 +388,12 @@ $icon-colors-list: (
   pink-900: $tbdc-pink-900,
   black: $tbdc-black,
   white: $tbdc-white
-);
+) !default;
+
+$available-sizes: (
+  12: 12px,
+  14: 14px,
+  26: 26px,
+  28: 28px,
+  36: 36px
+) !default;

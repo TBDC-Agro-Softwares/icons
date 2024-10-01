@@ -7,6 +7,14 @@ import { viteStaticCopy } from 'vite-plugin-static-copy';
 const files = readdirSync(join(__dirname, 'src', 'components'));
 
 export default defineConfig({
+  css: {
+    preprocessorOptions: {
+      scss: {
+        api: 'modern-compiler',
+        additionalData: [`@import "@/scss/_variables.scss";`]
+      }
+    }
+  },
   base: '/',
   resolve: {
     alias: {
