@@ -44,10 +44,9 @@ $available-sizes: (
 
   @each $name, $pair in $available-sizes {
     $size: nth($pair, 1);
-    .is-#{'' + $name} {
+    &.is-#{'' + $name} {
       width: $size;
       max-width: $size;
-
       height: $size;
       max-height: $size;
     }
