@@ -1,3 +1,9 @@
+@use 'sass:list';
+@use './variables' as variables;
+
+$available-sizes: variables.$available-sizes !default;
+$icon-colors-list: variables.$icon-colors-list !default;
+
 .icon {
   fill: currentColor;
   vertical-align: middle;
@@ -33,7 +39,7 @@
   }
 
   @each $name, $pair in $available-sizes {
-    $size: nth($pair, 1);
+    $size: list.nth($pair, 1);
     &.is-#{'' + $name} {
       width: $size;
       max-width: $size;
