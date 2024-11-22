@@ -1,3 +1,4 @@
+export { default as TIPlaySkipForwardFill } from './TIPlaySkipForwardFill.vue';
 export { default as TIPlaySkipForwardOutline } from './TIPlaySkipForwardOutline.vue';
 export { default as TIPlaySkipForwardSharp } from './TIPlaySkipForwardSharp.vue';
 export { default as TIPodiumFill } from './TIPodiumFill.vue';
@@ -17,4 +18,3 @@ export { default as TIPrintFill } from './TIPrintFill.vue';
 export { default as TIPrintOutline } from './TIPrintOutline.vue';
 export { default as TIPrintSharp } from './TIPrintSharp.vue';
 export { default as TIProduct } from './TIProduct.vue';
-export { default as TIProductivity } from './TIProductivity.vue';

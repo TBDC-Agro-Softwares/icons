@@ -1,3 +1,4 @@
+export { default as TITabletLandscapeSharp } from './TITabletLandscapeSharp.vue';
 export { default as TITabletPortraitFill } from './TITabletPortraitFill.vue';
 export { default as TITabletPortraitOutline } from './TITabletPortraitOutline.vue';
 export { default as TITabletPortraitSharp } from './TITabletPortraitSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIThumbsDownFill } from './TIThumbsDownFill.vue';
 export { default as TIThumbsDownOutline } from './TIThumbsDownOutline.vue';
 export { default as TIThumbsDownSharp } from './TIThumbsDownSharp.vue';
 export { default as TIThumbsUpFill } from './TIThumbsUpFill.vue';
-export { default as TIThumbsUpOutline } from './TIThumbsUpOutline.vue';

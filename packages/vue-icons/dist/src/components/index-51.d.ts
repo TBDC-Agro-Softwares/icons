@@ -1,3 +1,4 @@
+export { default as TIRibbonOutline } from './TIRibbonOutline.vue';
 export { default as TIRibbonSharp } from './TIRibbonSharp.vue';
 export { default as TIRocketFill } from './TIRocketFill.vue';
 export { default as TIRocketOutline } from './TIRocketOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIScanCircleSharp } from './TIScanCircleSharp.vue';
 export { default as TIScanFill } from './TIScanFill.vue';
 export { default as TIScanOutline } from './TIScanOutline.vue';
 export { default as TIScanSharp } from './TIScanSharp.vue';
-export { default as TISchoolFill } from './TISchoolFill.vue';

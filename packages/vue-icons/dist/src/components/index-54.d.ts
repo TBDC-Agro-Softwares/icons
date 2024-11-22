@@ -1,3 +1,4 @@
+export { default as TISnowSharp } from './TISnowSharp.vue';
 export { default as TISoilAnalysis } from './TISoilAnalysis.vue';
 export { default as TISpecie } from './TISpecie.vue';
 export { default as TISpecieStage } from './TISpecieStage.vue';
@@ -17,4 +18,3 @@ export { default as TIStampUnsolicited } from './TIStampUnsolicited.vue';
 export { default as TIStantReportFill } from './TIStantReportFill.vue';
 export { default as TIStarFill } from './TIStarFill.vue';
 export { default as TIStarHalfFill } from './TIStarHalfFill.vue';
-export { default as TIStarHalfOutline } from './TIStarHalfOutline.vue';
