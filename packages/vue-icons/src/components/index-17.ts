@@ -1,3 +1,4 @@
+export { default as TIConstructFill } from './TIConstructFill.vue';
 export { default as TIConstructOutline } from './TIConstructOutline.vue';
 export { default as TIConstructSharp } from './TIConstructSharp.vue';
 export { default as TIContentMention } from './TIContentMention.vue';
@@ -17,4 +18,3 @@ export { default as TICreateOutline } from './TICreateOutline.vue';
 export { default as TICreateSharp } from './TICreateSharp.vue';
 export { default as TICropFill } from './TICropFill.vue';
 export { default as TICropOutline } from './TICropOutline.vue';
-export { default as TICropSharp } from './TICropSharp.vue';

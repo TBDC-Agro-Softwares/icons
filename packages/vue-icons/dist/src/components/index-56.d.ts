@@ -1,3 +1,4 @@
+export { default as TISubtilteIcon } from './TISubtilteIcon.vue';
 export { default as TISunnyFill } from './TISunnyFill.vue';
 export { default as TISunnyOutline } from './TISunnyOutline.vue';
 export { default as TISunnySharp } from './TISunnySharp.vue';
@@ -17,4 +18,3 @@ export { default as TISyncSharp } from './TISyncSharp.vue';
 export { default as TITableHeader } from './TITableHeader.vue';
 export { default as TITableStyle } from './TITableStyle.vue';
 export { default as TITabletLandscapeFill } from './TITabletLandscapeFill.vue';
-export { default as TITabletLandscapeOutline } from './TITabletLandscapeOutline.vue';

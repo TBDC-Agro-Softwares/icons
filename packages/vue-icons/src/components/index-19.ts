@@ -1,3 +1,4 @@
+export { default as TIDocumentOutline } from './TIDocumentOutline.vue';
 export { default as TIDocumentsFill } from './TIDocumentsFill.vue';
 export { default as TIDocumentSharp } from './TIDocumentSharp.vue';
 export { default as TIDocumentsOutline } from './TIDocumentsOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIDuplicateOutline } from './TIDuplicateOutline.vue';
 export { default as TIDuplicateSharp } from './TIDuplicateSharp.vue';
 export { default as TIEarthFill } from './TIEarthFill.vue';
 export { default as TIEarthOutline } from './TIEarthOutline.vue';
-export { default as TIEarthSharp } from './TIEarthSharp.vue';

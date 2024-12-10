@@ -1,3 +1,4 @@
+export { default as TIThumbsUpFill } from './TIThumbsUpFill.vue';
 export { default as TIThumbsUpOutline } from './TIThumbsUpOutline.vue';
 export { default as TIThumbsUpSharp } from './TIThumbsUpSharp.vue';
 export { default as TIThunderstormFill } from './TIThunderstormFill.vue';
@@ -17,4 +18,3 @@ export { default as TITodayFill } from './TITodayFill.vue';
 export { default as TITodayOutline } from './TITodayOutline.vue';
 export { default as TITodaySharp } from './TITodaySharp.vue';
 export { default as TIToggleFill } from './TIToggleFill.vue';
-export { default as TIToggleOutline } from './TIToggleOutline.vue';

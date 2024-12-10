@@ -1,3 +1,4 @@
+export { default as TIPhoneLandscapeFill } from './TIPhoneLandscapeFill.vue';
 export { default as TIPhoneLandscapeOutline } from './TIPhoneLandscapeOutline.vue';
 export { default as TIPhoneLandscapeSharp } from './TIPhoneLandscapeSharp.vue';
 export { default as TIPhonePortraitFill } from './TIPhonePortraitFill.vue';
@@ -17,4 +18,3 @@ export { default as TIPlayBackCircleSharp } from './TIPlayBackCircleSharp.vue';
 export { default as TIPlayBackFill } from './TIPlayBackFill.vue';
 export { default as TIPlayBackOutline } from './TIPlayBackOutline.vue';
 export { default as TIPlayBackSharp } from './TIPlayBackSharp.vue';
-export { default as TIPlayCircleFill } from './TIPlayCircleFill.vue';

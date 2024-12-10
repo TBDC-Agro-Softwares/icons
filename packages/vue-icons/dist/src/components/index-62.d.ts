@@ -1,3 +1,4 @@
+export { default as TIWalletFill } from './TIWalletFill.vue';
 export { default as TIWalletOutline } from './TIWalletOutline.vue';
 export { default as TIWalletSharp } from './TIWalletSharp.vue';
 export { default as TIWarningFill } from './TIWarningFill.vue';

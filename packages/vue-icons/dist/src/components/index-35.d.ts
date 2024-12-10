@@ -1,3 +1,4 @@
+export { default as TILogoInstagramCircle } from './TILogoInstagramCircle.vue';
 export { default as TILogoIonic } from './TILogoIonic.vue';
 export { default as TILogoIonitron } from './TILogoIonitron.vue';
 export { default as TILogoJavascript } from './TILogoJavascript.vue';
@@ -17,4 +18,3 @@ export { default as TILogoReact } from './TILogoReact.vue';
 export { default as TILogoReddit } from './TILogoReddit.vue';
 export { default as TILogoRss } from './TILogoRss.vue';
 export { default as TILogoSass } from './TILogoSass.vue';
-export { default as TILogoSkype } from './TILogoSkype.vue';

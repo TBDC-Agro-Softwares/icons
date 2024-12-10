@@ -1,3 +1,4 @@
+export { default as TIEyeOffSharp } from './TIEyeOffSharp.vue';
 export { default as TIEyeOutline } from './TIEyeOutline.vue';
 export { default as TIEyeSharp } from './TIEyeSharp.vue';
 export { default as TIFacebookColor } from './TIFacebookColor.vue';
@@ -17,4 +18,3 @@ export { default as TIFilmSharp } from './TIFilmSharp.vue';
 export { default as TIFilterFill } from './TIFilterFill.vue';
 export { default as TIFilterOutline } from './TIFilterOutline.vue';
 export { default as TIFilterSharp } from './TIFilterSharp.vue';
-export { default as TIFingerPrintFill } from './TIFingerPrintFill.vue';

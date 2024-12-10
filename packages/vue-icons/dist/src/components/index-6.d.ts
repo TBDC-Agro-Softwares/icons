@@ -1,3 +1,4 @@
+export { default as TIBodyOutline } from './TIBodyOutline.vue';
 export { default as TIBodySharp } from './TIBodySharp.vue';
 export { default as TIBold } from './TIBold.vue';
 export { default as TIBookFill } from './TIBookFill.vue';
@@ -17,4 +18,3 @@ export { default as TIBrowsersFill } from './TIBrowsersFill.vue';
 export { default as TIBrowsersMinimizedOutline } from './TIBrowsersMinimizedOutline.vue';
 export { default as TIBrowsersOutline } from './TIBrowsersOutline.vue';
 export { default as TIBrowsersSharp } from './TIBrowsersSharp.vue';
-export { default as TIBrushFill } from './TIBrushFill.vue';

@@ -1,3 +1,4 @@
+export { default as TITriangleSharp } from './TITriangleSharp.vue';
 export { default as TITrophyFill } from './TITrophyFill.vue';
 export { default as TITrophyOutline } from './TITrophyOutline.vue';
 export { default as TITrophySharp } from './TITrophySharp.vue';
@@ -17,4 +18,3 @@ export { default as TIVerticalAlignBottom } from './TIVerticalAlignBottom.vue';
 export { default as TIVerticalAlignMiddle } from './TIVerticalAlignMiddle.vue';
 export { default as TIVerticalAlignTop } from './TIVerticalAlignTop.vue';
 export { default as TIVideocamFill } from './TIVideocamFill.vue';
-export { default as TIVideocamOutline } from './TIVideocamOutline.vue';

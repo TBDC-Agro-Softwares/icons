@@ -1,3 +1,4 @@
+export { default as TIBrushFill } from './TIBrushFill.vue';
 export { default as TIBrushOutline } from './TIBrushOutline.vue';
 export { default as TIBrushSharp } from './TIBrushSharp.vue';
 export { default as TIBugFill } from './TIBugFill.vue';
@@ -17,4 +18,3 @@ export { default as TICalculatorFill } from './TICalculatorFill.vue';
 export { default as TICalculatorOutline } from './TICalculatorOutline.vue';
 export { default as TICalculatorSharp } from './TICalculatorSharp.vue';
 export { default as TICalendarCheckOutline } from './TICalendarCheckOutline.vue';
-export { default as TICalendarFill } from './TICalendarFill.vue';

@@ -1,3 +1,4 @@
+export { default as TIGitBranchOutline } from './TIGitBranchOutline.vue';
 export { default as TIGitBranchSharp } from './TIGitBranchSharp.vue';
 export { default as TIGitCommitFill } from './TIGitCommitFill.vue';
 export { default as TIGitCommitOutline } from './TIGitCommitOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIGitPullRequestSharp } from './TIGitPullRequestSharp.vue';
 export { default as TIGlobeFill } from './TIGlobeFill.vue';
 export { default as TIGlobeOutline } from './TIGlobeOutline.vue';
 export { default as TIGlobeSharp } from './TIGlobeSharp.vue';
-export { default as TIGoalFill } from './TIGoalFill.vue';

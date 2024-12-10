@@ -1,3 +1,4 @@
+export { default as TICropSharp } from './TICropSharp.vue';
 export { default as TICubeFill } from './TICubeFill.vue';
 export { default as TICubeOutline } from './TICubeOutline.vue';
 export { default as TICubeSharp } from './TICubeSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIDocumentAttachOutline } from './TIDocumentAttachOutline.vu
 export { default as TIDocumentAttachSharp } from './TIDocumentAttachSharp.vue';
 export { default as TIDocumentEdit } from './TIDocumentEdit.vue';
 export { default as TIDocumentFill } from './TIDocumentFill.vue';
-export { default as TIDocumentOutline } from './TIDocumentOutline.vue';

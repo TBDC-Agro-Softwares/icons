@@ -1,3 +1,4 @@
+export { default as TICloudCircleSharp } from './TICloudCircleSharp.vue';
 export { default as TICloudDoneFill } from './TICloudDoneFill.vue';
 export { default as TICloudDoneOutline } from './TICloudDoneOutline.vue';
 export { default as TICloudDoneSharp } from './TICloudDoneSharp.vue';
@@ -17,4 +18,3 @@ export { default as TICloudyFill } from './TICloudyFill.vue';
 export { default as TICloudyNightFill } from './TICloudyNightFill.vue';
 export { default as TICloudyNightOutline } from './TICloudyNightOutline.vue';
 export { default as TICloudyNightSharp } from './TICloudyNightSharp.vue';
-export { default as TICloudyOutline } from './TICloudyOutline.vue';

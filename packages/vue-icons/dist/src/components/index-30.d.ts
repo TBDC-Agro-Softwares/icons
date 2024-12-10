@@ -1,3 +1,4 @@
+export { default as TIInformationCircleFill } from './TIInformationCircleFill.vue';
 export { default as TIInformationCircleOutline } from './TIInformationCircleOutline.vue';
 export { default as TIInformationCircleSharp } from './TIInformationCircleSharp.vue';
 export { default as TIInformationFill } from './TIInformationFill.vue';
@@ -17,4 +18,3 @@ export { default as TIJournalOutline } from './TIJournalOutline.vue';
 export { default as TIJournalSharp } from './TIJournalSharp.vue';
 export { default as TIKanban } from './TIKanban.vue';
 export { default as TIKeyFill } from './TIKeyFill.vue';
-export { default as TIKeyOutline } from './TIKeyOutline.vue';

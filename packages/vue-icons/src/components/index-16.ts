@@ -1,3 +1,4 @@
+export { default as TIColorFillFill } from './TIColorFillFill.vue';
 export { default as TIColorFillOutline } from './TIColorFillOutline.vue';
 export { default as TIColorFillSharp } from './TIColorFillSharp.vue';
 export { default as TIColorFilterFill } from './TIColorFilterFill.vue';
@@ -17,4 +18,3 @@ export { default as TIComparativeOutline } from './TIComparativeOutline.vue';
 export { default as TICompassFill } from './TICompassFill.vue';
 export { default as TICompassOutline } from './TICompassOutline.vue';
 export { default as TICompassSharp } from './TICompassSharp.vue';
-export { default as TIConstructFill } from './TIConstructFill.vue';

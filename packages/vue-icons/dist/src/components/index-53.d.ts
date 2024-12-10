@@ -1,3 +1,4 @@
+export { default as TIShareOutline } from './TIShareOutline.vue';
 export { default as TIShareSharp } from './TIShareSharp.vue';
 export { default as TIShareSocialFill } from './TIShareSocialFill.vue';
 export { default as TIShareSocialOutline } from './TIShareSocialOutline.vue';
@@ -17,4 +18,3 @@ export { default as TISidebarShow } from './TISidebarShow.vue';
 export { default as TISideBySide } from './TISideBySide.vue';
 export { default as TISideBySideFill } from './TISideBySideFill.vue';
 export { default as TISnowFill } from './TISnowFill.vue';
-export { default as TISnowOutline } from './TISnowOutline.vue';

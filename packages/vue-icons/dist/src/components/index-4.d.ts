@@ -1,3 +1,4 @@
+export { default as TIAtOutline } from './TIAtOutline.vue';
 export { default as TIAtSharp } from './TIAtSharp.vue';
 export { default as TIAttachFill } from './TIAttachFill.vue';
 export { default as TIAttachOutline } from './TIAttachOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIBarcodeOutline } from './TIBarcodeOutline.vue';
 export { default as TIBarcodeSharp } from './TIBarcodeSharp.vue';
 export { default as TIBasketFill } from './TIBasketFill.vue';
 export { default as TIBasketOutline } from './TIBasketOutline.vue';
-export { default as TIBasketSharp } from './TIBasketSharp.vue';

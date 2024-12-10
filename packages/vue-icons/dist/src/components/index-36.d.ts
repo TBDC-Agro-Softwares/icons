@@ -1,3 +1,4 @@
+export { default as TILogoSkype } from './TILogoSkype.vue';
 export { default as TILogoSlack } from './TILogoSlack.vue';
 export { default as TILogoSnapchat } from './TILogoSnapchat.vue';
 export { default as TILogoStackoverflow } from './TILogoStackoverflow.vue';
@@ -17,4 +18,3 @@ export { default as TILogoVimeo } from './TILogoVimeo.vue';
 export { default as TILogoVk } from './TILogoVk.vue';
 export { default as TILogoVue } from './TILogoVue.vue';
 export { default as TILogoWebComponent } from './TILogoWebComponent.vue';
-export { default as TILogoWhatsapp } from './TILogoWhatsapp.vue';

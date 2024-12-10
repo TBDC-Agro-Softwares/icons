@@ -1,3 +1,4 @@
+export { default as TILogoCodepen } from './TILogoCodepen.vue';
 export { default as TILogoCss3 } from './TILogoCss3.vue';
 export { default as TILogoDesignernews } from './TILogoDesignernews.vue';
 export { default as TILogoDribbble } from './TILogoDribbble.vue';
@@ -17,4 +18,3 @@ export { default as TILogoGooglePlaystore } from './TILogoGooglePlaystore.vue';
 export { default as TILogoHackernews } from './TILogoHackernews.vue';
 export { default as TILogoHtml5 } from './TILogoHtml5.vue';
 export { default as TILogoInstagram } from './TILogoInstagram.vue';
-export { default as TILogoInstagramCircle } from './TILogoInstagramCircle.vue';

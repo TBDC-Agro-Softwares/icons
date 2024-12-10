@@ -1,3 +1,4 @@
+export { default as TIGoalFill } from './TIGoalFill.vue';
 export { default as TIGolfFill } from './TIGolfFill.vue';
 export { default as TIGolfOutline } from './TIGolfOutline.vue';
 export { default as TIGolfSharp } from './TIGolfSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIHandLeftFill } from './TIHandLeftFill.vue';
 export { default as TIHandLeftOutline } from './TIHandLeftOutline.vue';
 export { default as TIHandLeftSharp } from './TIHandLeftSharp.vue';
 export { default as TIHandRightFill } from './TIHandRightFill.vue';
-export { default as TIHandRightOutline } from './TIHandRightOutline.vue';

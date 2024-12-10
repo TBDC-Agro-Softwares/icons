@@ -1,3 +1,4 @@
+export { default as TICarrotOutline } from './TICarrotOutline.vue';
 export { default as TICartFill } from './TICartFill.vue';
 export { default as TICartOutline } from './TICartOutline.vue';
 export { default as TICartSharp } from './TICartSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIChatbubbleEllipsesFill } from './TIChatbubbleEllipsesFill.
 export { default as TIChatbubbleEllipsesOutline } from './TIChatbubbleEllipsesOutline.vue';
 export { default as TIChatbubbleEllipsesSharp } from './TIChatbubbleEllipsesSharp.vue';
 export { default as TIChatbubbleFill } from './TIChatbubbleFill.vue';
-export { default as TIChatbubbleOutline } from './TIChatbubbleOutline.vue';

@@ -1,3 +1,4 @@
+export { default as TIMusicalNoteOutline } from './TIMusicalNoteOutline.vue';
 export { default as TIMusicalNotesFill } from './TIMusicalNotesFill.vue';
 export { default as TIMusicalNoteSharp } from './TIMusicalNoteSharp.vue';
 export { default as TIMusicalNotesOutline } from './TIMusicalNotesOutline.vue';
@@ -17,4 +18,3 @@ export { default as TINoLocationFill } from './TINoLocationFill.vue';
 export { default as TINoLocationOutline } from './TINoLocationOutline.vue';
 export { default as TINoReactionOutline } from './TINoReactionOutline.vue';
 export { default as TINotificationsCircleFill } from './TINotificationsCircleFill.vue';
-export { default as TINotificationsCircleOutline } from './TINotificationsCircleOutline.vue';

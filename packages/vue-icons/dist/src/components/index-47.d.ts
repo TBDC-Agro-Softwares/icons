@@ -1,3 +1,4 @@
+export { default as TIProduct } from './TIProduct.vue';
 export { default as TIProductivity } from './TIProductivity.vue';
 export { default as TIProductPet } from './TIProductPet.vue';
 export { default as TIProducts } from './TIProducts.vue';
@@ -17,4 +18,3 @@ export { default as TIRadioFill } from './TIRadioFill.vue';
 export { default as TIRadioOutline } from './TIRadioOutline.vue';
 export { default as TIRadioSharp } from './TIRadioSharp.vue';
 export { default as TIRainyFill } from './TIRainyFill.vue';
-export { default as TIRainyOutline } from './TIRainyOutline.vue';

@@ -1,3 +1,4 @@
+export { default as TIEllipsisVerticalSharp } from './TIEllipsisVerticalSharp.vue';
 export { default as TIEnterFill } from './TIEnterFill.vue';
 export { default as TIEnterOutline } from './TIEnterOutline.vue';
 export { default as TIEnterSharp } from './TIEnterSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIEyedropSharp } from './TIEyedropSharp.vue';
 export { default as TIEyeFill } from './TIEyeFill.vue';
 export { default as TIEyeOffFill } from './TIEyeOffFill.vue';
 export { default as TIEyeOffOutline } from './TIEyeOffOutline.vue';
-export { default as TIEyeOffSharp } from './TIEyeOffSharp.vue';

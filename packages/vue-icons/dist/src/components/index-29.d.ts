@@ -1,3 +1,4 @@
+export { default as TIHourglassFill } from './TIHourglassFill.vue';
 export { default as TIHourglassOutline } from './TIHourglassOutline.vue';
 export { default as TIHourglassSharp } from './TIHourglassSharp.vue';
 export { default as TIICircleOutline } from './TIICircleOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIImagesSharp } from './TIImagesSharp.vue';
 export { default as TIInfiniteFill } from './TIInfiniteFill.vue';
 export { default as TIInfiniteOutline } from './TIInfiniteOutline.vue';
 export { default as TIInfiniteSharp } from './TIInfiniteSharp.vue';
-export { default as TIInformationCircleFill } from './TIInformationCircleFill.vue';

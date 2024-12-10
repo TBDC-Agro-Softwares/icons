@@ -1,4 +1,5 @@
 export { default as TIArrowRedoSharp } from './TIArrowRedoSharp.vue';
+export { default as TIArrowReprocess } from './TIArrowReprocess.vue';
 export { default as TIArrowsFullscreen } from './TIArrowsFullscreen.vue';
 export { default as TIArrowUndoCircleFill } from './TIArrowUndoCircleFill.vue';
 export { default as TIArrowUndoCircleOutline } from './TIArrowUndoCircleOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIAtCircleFill } from './TIAtCircleFill.vue';
 export { default as TIAtCircleOutline } from './TIAtCircleOutline.vue';
 export { default as TIAtCircleSharp } from './TIAtCircleSharp.vue';
 export { default as TIAtFill } from './TIAtFill.vue';
-export { default as TIAtOutline } from './TIAtOutline.vue';

@@ -1,3 +1,4 @@
+export { default as TICloudyOutline } from './TICloudyOutline.vue';
 export { default as TICloudySharp } from './TICloudySharp.vue';
 export { default as TICodeDownloadFill } from './TICodeDownloadFill.vue';
 export { default as TICodeDownloadOutline } from './TICodeDownloadOutline.vue';
@@ -17,4 +18,3 @@ export { default as TICogOutline } from './TICogOutline.vue';
 export { default as TICogSharp } from './TICogSharp.vue';
 export { default as TICoinFill } from './TICoinFill.vue';
 export { default as TICoinOutline } from './TICoinOutline.vue';
-export { default as TIColorFillFill } from './TIColorFillFill.vue';

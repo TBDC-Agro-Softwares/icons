@@ -1,3 +1,4 @@
+export { default as TIChevronBackCircleFill } from './TIChevronBackCircleFill.vue';
 export { default as TIChevronBackCircleOutline } from './TIChevronBackCircleOutline.vue';
 export { default as TIChevronBackCircleSharp } from './TIChevronBackCircleSharp.vue';
 export { default as TIChevronBackFill } from './TIChevronBackFill.vue';
@@ -17,4 +18,3 @@ export { default as TIChevronForwardCircleSharp } from './TIChevronForwardCircle
 export { default as TIChevronForwardFill } from './TIChevronForwardFill.vue';
 export { default as TIChevronForwardOutline } from './TIChevronForwardOutline.vue';
 export { default as TIChevronForwardSharp } from './TIChevronForwardSharp.vue';
-export { default as TIChevronUpCircleFill } from './TIChevronUpCircleFill.vue';

@@ -1,3 +1,4 @@
+export { default as TIVideocamOutline } from './TIVideocamOutline.vue';
 export { default as TIVideocamSharp } from './TIVideocamSharp.vue';
 export { default as TIVolumeHighFill } from './TIVolumeHighFill.vue';
 export { default as TIVolumeHighOutline } from './TIVolumeHighOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIVolumeOffSharp } from './TIVolumeOffSharp.vue';
 export { default as TIWalkFill } from './TIWalkFill.vue';
 export { default as TIWalkOutline } from './TIWalkOutline.vue';
 export { default as TIWalkSharp } from './TIWalkSharp.vue';
-export { default as TIWalletFill } from './TIWalletFill.vue';

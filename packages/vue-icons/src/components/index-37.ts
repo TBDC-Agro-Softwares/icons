@@ -1,3 +1,4 @@
+export { default as TILogoWhatsapp } from './TILogoWhatsapp.vue';
 export { default as TILogoWhatsappCircle } from './TILogoWhatsappCircle.vue';
 export { default as TILogoWindows } from './TILogoWindows.vue';
 export { default as TILogoWordpress } from './TILogoWordpress.vue';
@@ -17,4 +18,3 @@ export { default as TIMailLockOutline } from './TIMailLockOutline.vue';
 export { default as TIMailOpenFill } from './TIMailOpenFill.vue';
 export { default as TIMailOpenOutline } from './TIMailOpenOutline.vue';
 export { default as TIMailOpenSharp } from './TIMailOpenSharp.vue';
-export { default as TIMailOutline } from './TIMailOutline.vue';

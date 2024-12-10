@@ -1,3 +1,4 @@
+export { default as TICalendarFill } from './TICalendarFill.vue';
 export { default as TICalendarOutline } from './TICalendarOutline.vue';
 export { default as TICalendarScheduleOutline } from './TICalendarScheduleOutline.vue';
 export { default as TICalendarSharp } from './TICalendarSharp.vue';
@@ -17,4 +18,3 @@ export { default as TICaretBackCircleFill } from './TICaretBackCircleFill.vue';
 export { default as TICaretBackCircleOutline } from './TICaretBackCircleOutline.vue';
 export { default as TICaretBackCircleSharp } from './TICaretBackCircleSharp.vue';
 export { default as TICaretBackFill } from './TICaretBackFill.vue';
-export { default as TICaretBackOutline } from './TICaretBackOutline.vue';

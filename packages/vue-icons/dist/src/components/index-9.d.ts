@@ -1,3 +1,4 @@
+export { default as TICaretBackOutline } from './TICaretBackOutline.vue';
 export { default as TICaretBackSharp } from './TICaretBackSharp.vue';
 export { default as TICaretDownCircleFill } from './TICaretDownCircleFill.vue';
 export { default as TICaretDownCircleOutline } from './TICaretDownCircleOutline.vue';
@@ -17,4 +18,3 @@ export { default as TICaretUpCircleSharp } from './TICaretUpCircleSharp.vue';
 export { default as TICaretUpFill } from './TICaretUpFill.vue';
 export { default as TICaretUpOutline } from './TICaretUpOutline.vue';
 export { default as TICaretUpSharp } from './TICaretUpSharp.vue';
-export { default as TICarrotOutline } from './TICarrotOutline.vue';

@@ -1,3 +1,4 @@
+export { default as TIHandRightOutline } from './TIHandRightOutline.vue';
 export { default as TIHandRightSharp } from './TIHandRightSharp.vue';
 export { default as TIHappyFill } from './TIHappyFill.vue';
 export { default as TIHappyOutline } from './TIHappyOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIHeartDislikeFill } from './TIHeartDislikeFill.vue';
 export { default as TIHeartDislikeOutline } from './TIHeartDislikeOutline.vue';
 export { default as TIHeartDislikeSharp } from './TIHeartDislikeSharp.vue';
 export { default as TIHeartFill } from './TIHeartFill.vue';
-export { default as TIHeartHalfFill } from './TIHeartHalfFill.vue';

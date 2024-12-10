@@ -1,3 +1,4 @@
+export { default as TIChevronUpCircleFill } from './TIChevronUpCircleFill.vue';
 export { default as TIChevronUpCircleOutline } from './TIChevronUpCircleOutline.vue';
 export { default as TIChevronUpCircleSharp } from './TIChevronUpCircleSharp.vue';
 export { default as TIChevronUpFill } from './TIChevronUpFill.vue';
@@ -17,4 +18,3 @@ export { default as TICloseOutline } from './TICloseOutline.vue';
 export { default as TICloseSharp } from './TICloseSharp.vue';
 export { default as TICloudCircleFill } from './TICloudCircleFill.vue';
 export { default as TICloudCircleOutline } from './TICloudCircleOutline.vue';
-export { default as TICloudCircleSharp } from './TICloudCircleSharp.vue';

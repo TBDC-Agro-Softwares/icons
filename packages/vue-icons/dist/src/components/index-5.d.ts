@@ -1,3 +1,4 @@
+export { default as TIBasketSharp } from './TIBasketSharp.vue';
 export { default as TIBatteryChargingFill } from './TIBatteryChargingFill.vue';
 export { default as TIBatteryChargingOutline } from './TIBatteryChargingOutline.vue';
 export { default as TIBatteryChargingSharp } from './TIBatteryChargingSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIBluetoothFill } from './TIBluetoothFill.vue';
 export { default as TIBluetoothOutline } from './TIBluetoothOutline.vue';
 export { default as TIBluetoothSharp } from './TIBluetoothSharp.vue';
 export { default as TIBodyFill } from './TIBodyFill.vue';
-export { default as TIBodyOutline } from './TIBodyOutline.vue';

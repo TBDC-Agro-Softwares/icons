@@ -1,3 +1,4 @@
+export { default as TILockClosedOutline } from './TILockClosedOutline.vue';
 export { default as TILockClosedSharp } from './TILockClosedSharp.vue';
 export { default as TILockOpenFill } from './TILockOpenFill.vue';
 export { default as TILockOpenOutline } from './TILockOpenOutline.vue';
@@ -17,4 +18,3 @@ export { default as TILogoBuffer } from './TILogoBuffer.vue';
 export { default as TILogoCapacitor } from './TILogoCapacitor.vue';
 export { default as TILogoChrome } from './TILogoChrome.vue';
 export { default as TILogoClosedCaptioning } from './TILogoClosedCaptioning.vue';
-export { default as TILogoCodepen } from './TILogoCodepen.vue';
