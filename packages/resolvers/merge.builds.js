@@ -1,18 +1,22 @@
 import { readdirSync, renameSync, rmSync } from 'fs';
-import { join } from 'path';
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
 
 (function () {
-  const files = readdirSync(join(import.meta.dirname, 'build'));
+  const __filename = fileURLToPath(import.meta.url);
+  const __dirname = dirname(__filename);
+
+  const files = readdirSync(join(__dirname, 'build'));
 
   files.map((fileName) => {
     if (fileName.endsWith('.js')) {
       const fileNameWithoutExtension = fileName.split('.')[0];
-      const oldPath = join(import.meta.dirname, 'build', fileName);
-      const newPath = join(import.meta.dirname, 'dist', `${fileNameWithoutExtension}.cjs`);
+      const oldPath = join(__dirname, 'build', fileName);
+      const newPath = join(__dirname, 'dist', `${fileNameWithoutExtension}.cjs`);
       renameSync(oldPath, newPath);
     }
   });
 
-  rmSync(join(import.meta.dirname, 'build'), { recursive: true, force: true });
-  rmSync(join(import.meta.dirname, 'dist', 'tsconfig.esm.tsbuildinfo'));
+  rmSync(join(__dirname, 'build'), { recursive: true, force: true });
+  rmSync(join(__dirname, 'dist', 'tsconfig.esm.tsbuildinfo'));
 })();

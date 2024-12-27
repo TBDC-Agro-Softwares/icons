@@ -1,8 +1,12 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { join } from 'path';
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
 
 (function () {
-  const pathToFile = join(import.meta.dirname, 'dist', 'index.js');
+  const __filename = fileURLToPath(import.meta.url);
+  const __dirname = dirname(__filename);
+
+  const pathToFile = join(__dirname, 'dist', 'index.js');
 
   const file = readFileSync(pathToFile);
 
