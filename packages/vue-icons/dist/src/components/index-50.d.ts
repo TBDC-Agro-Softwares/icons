@@ -1,3 +1,4 @@
+export { default as TIRepeatFill } from './TIRepeatFill.vue';
 export { default as TIRepeatOutline } from './TIRepeatOutline.vue';
 export { default as TIRepeatSharp } from './TIRepeatSharp.vue';
 export { default as TIReplaceImage } from './TIReplaceImage.vue';
@@ -17,4 +18,3 @@ export { default as TIReturnUpBackOutline } from './TIReturnUpBackOutline.vue';
 export { default as TIReturnUpBackSharp } from './TIReturnUpBackSharp.vue';
 export { default as TIReturnUpForwardFill } from './TIReturnUpForwardFill.vue';
 export { default as TIReturnUpForwardOutline } from './TIReturnUpForwardOutline.vue';
-export { default as TIReturnUpForwardSharp } from './TIReturnUpForwardSharp.vue';

@@ -1,3 +1,7 @@
+export { default as TILogoReact } from './TILogoReact.vue';
+export { default as TILogoReddit } from './TILogoReddit.vue';
+export { default as TILogoRss } from './TILogoRss.vue';
+export { default as TILogoSass } from './TILogoSass.vue';
 export { default as TILogoSkype } from './TILogoSkype.vue';
 export { default as TILogoSlack } from './TILogoSlack.vue';
 export { default as TILogoSnapchat } from './TILogoSnapchat.vue';
@@ -10,10 +14,6 @@ export { default as TILogoTwitch } from './TILogoTwitch.vue';
 export { default as TILogoTwitter } from './TILogoTwitter.vue';
 export { default as TILogoTwitterCircle } from './TILogoTwitterCircle.vue';
 export { default as TILogoUsd } from './TILogoUsd.vue';
-export { default as TILogout } from './TILogout.vue';
-export { default as TILogOutFill } from './TILogOutFill.vue';
-export { default as TILogOutOutline } from './TILogOutOutline.vue';
-export { default as TILogOutSharp } from './TILogOutSharp.vue';
 export { default as TILogoVimeo } from './TILogoVimeo.vue';
 export { default as TILogoVk } from './TILogoVk.vue';
 export { default as TILogoVue } from './TILogoVue.vue';

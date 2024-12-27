@@ -1,3 +1,4 @@
+export { default as TIPeopleCircleFill } from './TIPeopleCircleFill.vue';
 export { default as TIPeopleCircleOutline } from './TIPeopleCircleOutline.vue';
 export { default as TIPeopleCircleSharp } from './TIPeopleCircleSharp.vue';
 export { default as TIPeopleFill } from './TIPeopleFill.vue';
@@ -17,4 +18,3 @@ export { default as TIPersonRemoveOutline } from './TIPersonRemoveOutline.vue';
 export { default as TIPersonRemoveSharp } from './TIPersonRemoveSharp.vue';
 export { default as TIPersonSharp } from './TIPersonSharp.vue';
 export { default as TIPhenologicalEvent } from './TIPhenologicalEvent.vue';
-export { default as TIPhenologicalStage } from './TIPhenologicalStage.vue';

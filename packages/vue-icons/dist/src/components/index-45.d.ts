@@ -1,3 +1,4 @@
+export { default as TIPlayBackSharp } from './TIPlayBackSharp.vue';
 export { default as TIPlayCircleFill } from './TIPlayCircleFill.vue';
 export { default as TIPlayCircleOutline } from './TIPlayCircleOutline.vue';
 export { default as TIPlayCircleSharp } from './TIPlayCircleSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIPlaySkipBackFill } from './TIPlaySkipBackFill.vue';
 export { default as TIPlaySkipBackOutline } from './TIPlaySkipBackOutline.vue';
 export { default as TIPlaySkipBackSharp } from './TIPlaySkipBackSharp.vue';
 export { default as TIPlaySkipForwardCircleFill } from './TIPlaySkipForwardCircleFill.vue';
-export { default as TIPlaySkipForwardCircleOutline } from './TIPlaySkipForwardCircleOutline.vue';

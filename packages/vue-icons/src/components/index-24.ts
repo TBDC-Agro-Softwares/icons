@@ -1,3 +1,4 @@
+export { default as TIFlaskOutline } from './TIFlaskOutline.vue';
 export { default as TIFlaskSharp } from './TIFlaskSharp.vue';
 export { default as TIFolderFill } from './TIFolderFill.vue';
 export { default as TIFolderOpenFill } from './TIFolderOpenFill.vue';
@@ -17,4 +18,3 @@ export { default as TIGameControllerOutline } from './TIGameControllerOutline.vu
 export { default as TIGiftFill } from './TIGiftFill.vue';
 export { default as TIGiftOutline } from './TIGiftOutline.vue';
 export { default as TIGiftSharp } from './TIGiftSharp.vue';
-export { default as TIGitBranchFill } from './TIGitBranchFill.vue';

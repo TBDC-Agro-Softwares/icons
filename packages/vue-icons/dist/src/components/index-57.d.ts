@@ -1,3 +1,4 @@
+export { default as TITabletLandscapeFill } from './TITabletLandscapeFill.vue';
 export { default as TITabletLandscapeOutline } from './TITabletLandscapeOutline.vue';
 export { default as TITabletLandscapeSharp } from './TITabletLandscapeSharp.vue';
 export { default as TITabletPortraitFill } from './TITabletPortraitFill.vue';
@@ -17,4 +18,3 @@ export { default as TIThermometerOutline } from './TIThermometerOutline.vue';
 export { default as TIThermometerSharp } from './TIThermometerSharp.vue';
 export { default as TIThumbsDownFill } from './TIThumbsDownFill.vue';
 export { default as TIThumbsDownOutline } from './TIThumbsDownOutline.vue';
-export { default as TIThumbsDownSharp } from './TIThumbsDownSharp.vue';

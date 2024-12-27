@@ -1,3 +1,4 @@
+export { default as TIHeartFill } from './TIHeartFill.vue';
 export { default as TIHeartHalfFill } from './TIHeartHalfFill.vue';
 export { default as TIHeartHalfOutline } from './TIHeartHalfOutline.vue';
 export { default as TIHeartHalfSharp } from './TIHeartHalfSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIHierarchyOutline } from './TIHierarchyOutline.vue';
 export { default as TIHomeFill } from './TIHomeFill.vue';
 export { default as TIHomeOutline } from './TIHomeOutline.vue';
 export { default as TIHomeSharp } from './TIHomeSharp.vue';
-export { default as TIHorizontal } from './TIHorizontal.vue';

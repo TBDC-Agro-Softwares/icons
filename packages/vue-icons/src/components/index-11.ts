@@ -1,6 +1,6 @@
 export { default as TIChatbubbleOutline } from './TIChatbubbleOutline.vue';
-export { default as TIChatbubblesFill } from './TIChatbubblesFill.vue';
 export { default as TIChatbubbleSharp } from './TIChatbubbleSharp.vue';
+export { default as TIChatbubblesFill } from './TIChatbubblesFill.vue';
 export { default as TIChatbubblesOutline } from './TIChatbubblesOutline.vue';
 export { default as TIChatbubblesSharp } from './TIChatbubblesSharp.vue';
 export { default as TICheckboxFill } from './TICheckboxFill.vue';

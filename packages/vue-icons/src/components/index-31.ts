@@ -1,8 +1,9 @@
+export { default as TIKeyFill } from './TIKeyFill.vue';
 export { default as TIKeyOutline } from './TIKeyOutline.vue';
+export { default as TIKeySharp } from './TIKeySharp.vue';
 export { default as TIKeypadFill } from './TIKeypadFill.vue';
 export { default as TIKeypadOutline } from './TIKeypadOutline.vue';
 export { default as TIKeypadSharp } from './TIKeypadSharp.vue';
-export { default as TIKeySharp } from './TIKeySharp.vue';
 export { default as TILanguageFill } from './TILanguageFill.vue';
 export { default as TILanguageOutline } from './TILanguageOutline.vue';
 export { default as TILanguageSharp } from './TILanguageSharp.vue';
@@ -17,4 +18,3 @@ export { default as TILeafFill } from './TILeafFill.vue';
 export { default as TILeafFillNdviOutline } from './TILeafFillNdviOutline.vue';
 export { default as TILeafOutline } from './TILeafOutline.vue';
 export { default as TILeafSharp } from './TILeafSharp.vue';
-export { default as TILibraryFill } from './TILibraryFill.vue';

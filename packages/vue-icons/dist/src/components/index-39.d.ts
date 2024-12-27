@@ -1,3 +1,4 @@
+export { default as TIMenuSharp } from './TIMenuSharp.vue';
 export { default as TIMicCircleFill } from './TIMicCircleFill.vue';
 export { default as TIMicCircleOutline } from './TIMicCircleOutline.vue';
 export { default as TIMicCircleSharp } from './TIMicCircleSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIMoonSharp } from './TIMoonSharp.vue';
 export { default as TIMouseOutline } from './TIMouseOutline.vue';
 export { default as TIMoveGrabber } from './TIMoveGrabber.vue';
 export { default as TIMoveSharp } from './TIMoveSharp.vue';
-export { default as TIMusicalNoteFill } from './TIMusicalNoteFill.vue';

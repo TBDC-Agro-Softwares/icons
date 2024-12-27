@@ -1,3 +1,4 @@
+export { default as TILibraryFill } from './TILibraryFill.vue';
 export { default as TILibraryOutline } from './TILibraryOutline.vue';
 export { default as TILibrarySharp } from './TILibrarySharp.vue';
 export { default as TILineHeight } from './TILineHeight.vue';
@@ -17,4 +18,3 @@ export { default as TILocateSharp } from './TILocateSharp.vue';
 export { default as TILocationFill } from './TILocationFill.vue';
 export { default as TILocationOutline } from './TILocationOutline.vue';
 export { default as TILocationSharp } from './TILocationSharp.vue';
-export { default as TILockClosedFill } from './TILockClosedFill.vue';

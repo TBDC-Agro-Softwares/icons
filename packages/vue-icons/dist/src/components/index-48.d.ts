@@ -1,3 +1,4 @@
+export { default as TIRainyFill } from './TIRainyFill.vue';
 export { default as TIRainyOutline } from './TIRainyOutline.vue';
 export { default as TIRainySharp } from './TIRainySharp.vue';
 export { default as TIReaderFill } from './TIReaderFill.vue';
@@ -17,4 +18,3 @@ export { default as TIRefreshFill } from './TIRefreshFill.vue';
 export { default as TIRefreshOutline } from './TIRefreshOutline.vue';
 export { default as TIRefreshSharp } from './TIRefreshSharp.vue';
 export { default as TIReloadCircleFill } from './TIReloadCircleFill.vue';
-export { default as TIReloadCircleOutline } from './TIReloadCircleOutline.vue';

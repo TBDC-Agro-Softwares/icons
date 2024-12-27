@@ -1,3 +1,4 @@
+export { default as TIMailOpenSharp } from './TIMailOpenSharp.vue';
 export { default as TIMailOutline } from './TIMailOutline.vue';
 export { default as TIMailSharp } from './TIMailSharp.vue';
 export { default as TIMailUnreadFill } from './TIMailUnreadFill.vue';
@@ -17,4 +18,3 @@ export { default as TIMedkitOutline } from './TIMedkitOutline.vue';
 export { default as TIMedkitSharp } from './TIMedkitSharp.vue';
 export { default as TIMenuFill } from './TIMenuFill.vue';
 export { default as TIMenuOutline } from './TIMenuOutline.vue';
-export { default as TIMenuSharp } from './TIMenuSharp.vue';

@@ -1,3 +1,4 @@
+export { default as TIToggleFill } from './TIToggleFill.vue';
 export { default as TIToggleOutline } from './TIToggleOutline.vue';
 export { default as TIToggleSharp } from './TIToggleSharp.vue';
 export { default as TITractor } from './TITractor.vue';
@@ -17,4 +18,3 @@ export { default as TITrendingUpFill } from './TITrendingUpFill.vue';
 export { default as TITrendingUpOutline } from './TITrendingUpOutline.vue';
 export { default as TITrendingUpSharp } from './TITrendingUpSharp.vue';
 export { default as TITriangleFill } from './TITriangleFill.vue';
-export { default as TITriangleOutline } from './TITriangleOutline.vue';

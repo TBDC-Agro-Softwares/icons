@@ -1,14 +1,18 @@
 import { readdirSync, writeFileSync, rmSync } from 'fs';
-import { join } from 'path';
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
 
 (async function () {
-  const files = readdirSync(join(import.meta.dirname, 'src', 'components'));
+  const __filename = fileURLToPath(import.meta.url);
+  const __dirname = dirname(__filename);
+
+  const files = readdirSync(join(__dirname, 'src', 'components'));
 
   const tsFiles = files.filter((fileName) => fileName.endsWith('.ts'));
   const vueComponentFiles = files.filter((fileName) => fileName.endsWith('.vue'));
 
   tsFiles.forEach((fileName) => {
-    rmSync(join(import.meta.dirname, 'src', 'components', fileName));
+    rmSync(join(__dirname, 'src', 'components', fileName));
   });
 
   const dtsLines = vueComponentFiles.map((fileName) => {
@@ -28,11 +32,11 @@ import { join } from 'path';
   const exportLines = [];
 
   groupedLines.forEach((groupedLine, index) => {
-    writeFileSync(join(import.meta.dirname, 'src', 'components', `index-${index}.ts`), groupedLine.join('\n'));
+    writeFileSync(join(__dirname, 'src', 'components', `index-${index}.ts`), groupedLine.join('\n'));
     exportLines.push(`export * from './components/index-${index}';`);
   });
 
   const template = exportLines.join('\n');
 
-  writeFileSync(join(import.meta.dirname, 'src', 'index.ts'), template);
+  writeFileSync(join(__dirname, 'src', 'index.ts'), template);
 })();

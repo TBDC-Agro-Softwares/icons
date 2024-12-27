@@ -1,3 +1,4 @@
+export { default as TINotificationsCircleFill } from './TINotificationsCircleFill.vue';
 export { default as TINotificationsCircleOutline } from './TINotificationsCircleOutline.vue';
 export { default as TINotificationsCircleSharp } from './TINotificationsCircleSharp.vue';
 export { default as TINotificationsFill } from './TINotificationsFill.vue';
@@ -17,4 +18,3 @@ export { default as TIOptionsFill } from './TIOptionsFill.vue';
 export { default as TIOptionsOutline } from './TIOptionsOutline.vue';
 export { default as TIOptionsSharp } from './TIOptionsSharp.vue';
 export { default as TIOrderedList } from './TIOrderedList.vue';
-export { default as TIPackage } from './TIPackage.vue';

@@ -1,3 +1,4 @@
+export { default as TIReloadCircleOutline } from './TIReloadCircleOutline.vue';
 export { default as TIReloadCircleSharp } from './TIReloadCircleSharp.vue';
 export { default as TIReloadFill } from './TIReloadFill.vue';
 export { default as TIReloadOutline } from './TIReloadOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIReorderThreeSharp } from './TIReorderThreeSharp.vue';
 export { default as TIReorderTwoFill } from './TIReorderTwoFill.vue';
 export { default as TIReorderTwoOutline } from './TIReorderTwoOutline.vue';
 export { default as TIReorderTwoSharp } from './TIReorderTwoSharp.vue';
-export { default as TIRepeatFill } from './TIRepeatFill.vue';

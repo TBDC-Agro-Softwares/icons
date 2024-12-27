@@ -1,3 +1,4 @@
+export { default as TIScanOutline } from './TIScanOutline.vue';
 export { default as TIScanSharp } from './TIScanSharp.vue';
 export { default as TISchoolFill } from './TISchoolFill.vue';
 export { default as TISchoolOutline } from './TISchoolOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIServerSharp } from './TIServerSharp.vue';
 export { default as TISettingsFill } from './TISettingsFill.vue';
 export { default as TISettingsOutline } from './TISettingsOutline.vue';
 export { default as TISettingsSharp } from './TISettingsSharp.vue';
-export { default as TIShareFill } from './TIShareFill.vue';

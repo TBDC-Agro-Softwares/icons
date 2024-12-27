@@ -1,3 +1,5 @@
+export { default as TIInfiniteOutline } from './TIInfiniteOutline.vue';
+export { default as TIInfiniteSharp } from './TIInfiniteSharp.vue';
 export { default as TIInformationCircleFill } from './TIInformationCircleFill.vue';
 export { default as TIInformationCircleOutline } from './TIInformationCircleOutline.vue';
 export { default as TIInformationCircleSharp } from './TIInformationCircleSharp.vue';
@@ -11,10 +13,8 @@ export { default as TIInsertFile } from './TIInsertFile.vue';
 export { default as TIInsertImage } from './TIInsertImage.vue';
 export { default as TIInsertTable } from './TIInsertTable.vue';
 export { default as TIInsertVideo } from './TIInsertVideo.vue';
-export { default as TIISquareOutline } from './TIISquareOutline.vue';
 export { default as TIItalic } from './TIItalic.vue';
 export { default as TIJournalFill } from './TIJournalFill.vue';
 export { default as TIJournalOutline } from './TIJournalOutline.vue';
 export { default as TIJournalSharp } from './TIJournalSharp.vue';
 export { default as TIKanban } from './TIKanban.vue';
-export { default as TIKeyFill } from './TIKeyFill.vue';
