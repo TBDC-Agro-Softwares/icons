@@ -1,38 +1,38 @@
-import { _ as a } from "./TILogoWhatsapp.vue_vue_type_script_setup_true_lang-C90lzyG7.js";
-import { _ as t } from "./TILogoWhatsappCircle.vue_vue_type_script_setup_true_lang-B_1mLF8K.js";
-import { _ as s } from "./TILogoWindows.vue_vue_type_script_setup_true_lang-3VDwxXUf.js";
-import { _ as f } from "./TILogoWordpress.vue_vue_type_script_setup_true_lang-_wkW_BtC.js";
-import { _ as I } from "./TILogoXbox.vue_vue_type_script_setup_true_lang-b5XLsQBE.js";
-import { _ } from "./TILogoXing.vue_vue_type_script_setup_true_lang-CN9j6t5h.js";
-import { _ as i } from "./TILogoYahoo.vue_vue_type_script_setup_true_lang-BTtvPgvL.js";
-import { _ as L } from "./TILogoYen.vue_vue_type_script_setup_true_lang-C8z6d75F.js";
-import { _ as M } from "./TILogoYoutube.vue_vue_type_script_setup_true_lang-Jh0pLK4A.js";
-import { _ as O } from "./TILogoYoutubeCircle.vue_vue_type_script_setup_true_lang-9tB9MBhT.js";
-import { _ as h } from "./TILogout.vue_vue_type_script_setup_true_lang-kajh-Ndn.js";
-import { _ as W } from "./TIMagazine.vue_vue_type_script_setup_true_lang-CnBeSzVa.js";
-import { _ as b } from "./TIMagnetFill.vue_vue_type_script_setup_true_lang-D0wv3x2G.js";
-import { _ as k } from "./TIMagnetOutline.vue_vue_type_script_setup_true_lang-DFXUKGgV.js";
-import { _ as X } from "./TIMagnetSharp.vue_vue_type_script_setup_true_lang-CpJJ-v1V.js";
-import { _ as z } from "./TIMailFill.vue_vue_type_script_setup_true_lang-DaBDykwQ.js";
-import { _ as j } from "./TIMailLockFill.vue_vue_type_script_setup_true_lang-_eVsodmK.js";
-import { _ as v } from "./TIMailLockOutline.vue_vue_type_script_setup_true_lang-CeTRJT6n.js";
-import { _ as A } from "./TIMailOpenFill.vue_vue_type_script_setup_true_lang-Cu3uOZ0t.js";
-import { _ as D } from "./TIMailOpenOutline.vue_vue_type_script_setup_true_lang-CEmojT8V.js";
+import { _ as e } from "./TILogoWebComponent.vue_vue_type_script_setup_true_lang-CvHP1C97.js";
+import { _ as t } from "./TILogoWhatsapp.vue_vue_type_script_setup_true_lang-CWudApt9.js";
+import { _ as s } from "./TILogoWhatsappCircle.vue_vue_type_script_setup_true_lang-Bc25y7ah.js";
+import { _ as x } from "./TILogoWindows.vue_vue_type_script_setup_true_lang-DBLZD6Kp.js";
+import { _ as I } from "./TILogoWordpress.vue_vue_type_script_setup_true_lang-B8s1VwZ1.js";
+import { _ } from "./TILogoXbox.vue_vue_type_script_setup_true_lang-D135FYRq.js";
+import { _ as i } from "./TILogoXing.vue_vue_type_script_setup_true_lang-Sxg0Hh2a.js";
+import { _ as n } from "./TILogoYahoo.vue_vue_type_script_setup_true_lang-n4cXq1cU.js";
+import { _ as M } from "./TILogoYen.vue_vue_type_script_setup_true_lang-BtEK3Azo.js";
+import { _ as O } from "./TILogoYoutube.vue_vue_type_script_setup_true_lang-Bgre4zQd.js";
+import { _ as b } from "./TILogoYoutubeCircle.vue_vue_type_script_setup_true_lang-7lnlOEuI.js";
+import { _ as h } from "./TIMagazine.vue_vue_type_script_setup_true_lang-BPGeR6LX.js";
+import { _ as Y } from "./TIMagnetFill.vue_vue_type_script_setup_true_lang-DA3g5UEY.js";
+import { _ as d } from "./TIMagnetOutline.vue_vue_type_script_setup_true_lang-q18TOQHo.js";
+import { _ as X } from "./TIMagnetSharp.vue_vue_type_script_setup_true_lang-CiyTdzkb.js";
+import { _ as z } from "./TIMailFill.vue_vue_type_script_setup_true_lang-o_DcqBdf.js";
+import { _ as j } from "./TIMailLockFill.vue_vue_type_script_setup_true_lang-DCpoel0d.js";
+import { _ as v } from "./TIMailLockOutline.vue_vue_type_script_setup_true_lang-BihbiryQ.js";
+import { _ as A } from "./TIMailOpenFill.vue_vue_type_script_setup_true_lang-ztSc_ph1.js";
+import { _ as D } from "./TIMailOpenOutline.vue_vue_type_script_setup_true_lang-IiB-Xjkr.js";
 export {
-  a as TILogoWhatsapp,
-  t as TILogoWhatsappCircle,
-  s as TILogoWindows,
-  f as TILogoWordpress,
-  I as TILogoXbox,
-  _ as TILogoXing,
-  i as TILogoYahoo,
-  L as TILogoYen,
-  M as TILogoYoutube,
-  O as TILogoYoutubeCircle,
-  h as TILogout,
-  W as TIMagazine,
-  b as TIMagnetFill,
-  k as TIMagnetOutline,
+  e as TILogoWebComponent,
+  t as TILogoWhatsapp,
+  s as TILogoWhatsappCircle,
+  x as TILogoWindows,
+  I as TILogoWordpress,
+  _ as TILogoXbox,
+  i as TILogoXing,
+  n as TILogoYahoo,
+  M as TILogoYen,
+  O as TILogoYoutube,
+  b as TILogoYoutubeCircle,
+  h as TIMagazine,
+  Y as TIMagnetFill,
+  d as TIMagnetOutline,
   X as TIMagnetSharp,
   z as TIMailFill,
   j as TIMailLockFill,

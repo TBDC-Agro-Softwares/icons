@@ -1,12 +1,12 @@
 export { default as TIDocumentOutline } from './TIDocumentOutline.vue';
+export { default as TIDocumentsFill } from './TIDocumentsFill.vue';
 export { default as TIDocumentSharp } from './TIDocumentSharp.vue';
+export { default as TIDocumentsOutline } from './TIDocumentsOutline.vue';
+export { default as TIDocumentsSharp } from './TIDocumentsSharp.vue';
 export { default as TIDocumentTextFill } from './TIDocumentTextFill.vue';
 export { default as TIDocumentTextOutline } from './TIDocumentTextOutline.vue';
 export { default as TIDocumentTextPdf } from './TIDocumentTextPdf.vue';
 export { default as TIDocumentTextSharp } from './TIDocumentTextSharp.vue';
-export { default as TIDocumentsFill } from './TIDocumentsFill.vue';
-export { default as TIDocumentsOutline } from './TIDocumentsOutline.vue';
-export { default as TIDocumentsSharp } from './TIDocumentsSharp.vue';
 export { default as TIDoubleChevronBackFill } from './TIDoubleChevronBackFill.vue';
 export { default as TIDoubleChevronForwardFill } from './TIDoubleChevronForwardFill.vue';
 export { default as TIDownloadFill } from './TIDownloadFill.vue';

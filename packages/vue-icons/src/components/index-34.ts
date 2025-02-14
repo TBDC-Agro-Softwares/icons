@@ -1,6 +1,3 @@
-export { default as TILogoBuffer } from './TILogoBuffer.vue';
-export { default as TILogoCapacitor } from './TILogoCapacitor.vue';
-export { default as TILogoChrome } from './TILogoChrome.vue';
 export { default as TILogoClosedCaptioning } from './TILogoClosedCaptioning.vue';
 export { default as TILogoCodepen } from './TILogoCodepen.vue';
 export { default as TILogoCss3 } from './TILogoCss3.vue';
@@ -18,3 +15,6 @@ export { default as TILogoFlickr } from './TILogoFlickr.vue';
 export { default as TILogoFoursquare } from './TILogoFoursquare.vue';
 export { default as TILogoGithub } from './TILogoGithub.vue';
 export { default as TILogoGoogle } from './TILogoGoogle.vue';
+export { default as TILogoGooglePlaystore } from './TILogoGooglePlaystore.vue';
+export { default as TILogoHackernews } from './TILogoHackernews.vue';
+export { default as TILogoHtml5 } from './TILogoHtml5.vue';

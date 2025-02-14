@@ -9,6 +9,10 @@
     "type": "git",
     "url": "git+https://github.com/TBDC-Agro-Softwares/icons.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "files": [
     "/icons",
     "/packages/resolvers/dist",

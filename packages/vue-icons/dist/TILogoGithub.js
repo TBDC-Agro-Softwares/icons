@@ -1,4 +1,4 @@
-import { _ as f } from "./TILogoGithub.vue_vue_type_script_setup_true_lang-DuccW183.js";
+import { _ as f } from "./TILogoGithub.vue_vue_type_script_setup_true_lang-CUA8dKSG.js";
 export {
   f as default
 };

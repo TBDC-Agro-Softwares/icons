@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TITrashSharp.vue_vue_type_script_setup_true_lang-BA0WmvO9.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TITrashSharp.vue_vue_type_script_setup_true_lang-Dh-b4ZEo.cjs");exports.default=e._sfc_main;

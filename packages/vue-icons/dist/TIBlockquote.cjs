@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIBlockquote.vue_vue_type_script_setup_true_lang-Cs0WRTC6.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIBlockquote.vue_vue_type_script_setup_true_lang-CQ6KlUiV.cjs");exports.default=e._sfc_main;

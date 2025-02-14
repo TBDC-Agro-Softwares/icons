@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIFacebookColor.vue_vue_type_script_setup_true_lang-Db8LMXf-.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIFacebookColor.vue_vue_type_script_setup_true_lang-Db2SwvAM.cjs");exports.default=e._sfc_main;

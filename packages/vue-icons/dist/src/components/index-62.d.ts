@@ -1,3 +1,4 @@
+export { default as TIWalkOutline } from './TIWalkOutline.vue';
 export { default as TIWalkSharp } from './TIWalkSharp.vue';
 export { default as TIWalletFill } from './TIWalletFill.vue';
 export { default as TIWalletOutline } from './TIWalletOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIWifiOutline } from './TIWifiOutline.vue';
 export { default as TIWifiSharp } from './TIWifiSharp.vue';
 export { default as TIWomanFill } from './TIWomanFill.vue';
 export { default as TIWomanOutline } from './TIWomanOutline.vue';
-export { default as TIWomanSharp } from './TIWomanSharp.vue';

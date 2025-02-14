@@ -1,4 +1,4 @@
-import { _ as f } from "./TIChevronForwardOutline.vue_vue_type_script_setup_true_lang-CZnyKW5p.js";
+import { _ as f } from "./TIChevronForwardOutline.vue_vue_type_script_setup_true_lang-CMcoaXuz.js";
 export {
   f as default
 };

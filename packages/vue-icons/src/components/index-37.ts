@@ -1,3 +1,4 @@
+export { default as TILogoWebComponent } from './TILogoWebComponent.vue';
 export { default as TILogoWhatsapp } from './TILogoWhatsapp.vue';
 export { default as TILogoWhatsappCircle } from './TILogoWhatsappCircle.vue';
 export { default as TILogoWindows } from './TILogoWindows.vue';
@@ -8,7 +9,6 @@ export { default as TILogoYahoo } from './TILogoYahoo.vue';
 export { default as TILogoYen } from './TILogoYen.vue';
 export { default as TILogoYoutube } from './TILogoYoutube.vue';
 export { default as TILogoYoutubeCircle } from './TILogoYoutubeCircle.vue';
-export { default as TILogout } from './TILogout.vue';
 export { default as TIMagazine } from './TIMagazine.vue';
 export { default as TIMagnetFill } from './TIMagnetFill.vue';
 export { default as TIMagnetOutline } from './TIMagnetOutline.vue';

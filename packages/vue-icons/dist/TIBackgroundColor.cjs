@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIBackgroundColor.vue_vue_type_script_setup_true_lang-DrGG2N8r.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIBackgroundColor.vue_vue_type_script_setup_true_lang-BdvpKGqv.cjs");exports.default=e._sfc_main;

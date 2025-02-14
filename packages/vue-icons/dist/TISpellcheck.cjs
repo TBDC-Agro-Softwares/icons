@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TISpellcheck.vue_vue_type_script_setup_true_lang-wPGE7vit.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TISpellcheck.vue_vue_type_script_setup_true_lang-BG1D7T94.cjs");exports.default=e._sfc_main;

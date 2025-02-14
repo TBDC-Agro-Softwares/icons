@@ -1,4 +1,4 @@
-import { _ as f } from "./TIChatbubbleSharp.vue_vue_type_script_setup_true_lang-D9C0_L96.js";
+import { _ as f } from "./TIChatbubbleSharp.vue_vue_type_script_setup_true_lang-BiEsSW0t.js";
 export {
   f as default
 };

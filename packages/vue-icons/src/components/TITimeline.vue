@@ -22,7 +22,7 @@ const props = defineProps({
     type: String as PropType<IconsSize>,
     default: 'is-default',
     validator(value: string) {
-      return ['is-small', 'is-medium', 'is-large', 'is-default', 'is-12', 'is-14', 'is-26', 'is-28', 'is-36'].indexOf(value) > -1;
+      return ['is-small', 'is-medium', 'is-large', 'is-default', 'is-12', 'is-16', 'is-14', 'is-26', 'is-28', 'is-36'].indexOf(value) > -1;
     }
   },
   type: {

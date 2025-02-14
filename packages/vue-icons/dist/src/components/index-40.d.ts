@@ -1,7 +1,7 @@
 export { default as TIMusicalNoteFill } from './TIMusicalNoteFill.vue';
 export { default as TIMusicalNoteOutline } from './TIMusicalNoteOutline.vue';
-export { default as TIMusicalNoteSharp } from './TIMusicalNoteSharp.vue';
 export { default as TIMusicalNotesFill } from './TIMusicalNotesFill.vue';
+export { default as TIMusicalNoteSharp } from './TIMusicalNoteSharp.vue';
 export { default as TIMusicalNotesOutline } from './TIMusicalNotesOutline.vue';
 export { default as TIMusicalNotesSharp } from './TIMusicalNotesSharp.vue';
 export { default as TINavigateCircleFill } from './TINavigateCircleFill.vue';

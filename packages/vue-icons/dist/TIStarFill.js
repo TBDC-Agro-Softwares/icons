@@ -1,4 +1,4 @@
-import { _ as f } from "./TIStarFill.vue_vue_type_script_setup_true_lang-DsQrTE2A.js";
+import { _ as f } from "./TIStarFill.vue_vue_type_script_setup_true_lang-Bi9k6kMG.js";
 export {
   f as default
 };

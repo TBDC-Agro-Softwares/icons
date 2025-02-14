@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIAlignJustify.vue_vue_type_script_setup_true_lang-BU08gHlG.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIAlignJustify.vue_vue_type_script_setup_true_lang-DPCHsh_O.cjs");exports.default=e._sfc_main;

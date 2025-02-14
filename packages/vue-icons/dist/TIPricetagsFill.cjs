@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIPricetagsFill.vue_vue_type_script_setup_true_lang-BmK4v3i-.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TIPricetagsFill.vue_vue_type_script_setup_true_lang-DebV2k00.cjs");exports.default=e._sfc_main;

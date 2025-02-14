@@ -1,4 +1,4 @@
-import { _ as f } from "./TIStatsChartSharp.vue_vue_type_script_setup_true_lang-DldGhtp7.js";
+import { _ as f } from "./TIStatsChartSharp.vue_vue_type_script_setup_true_lang-BtRXtV8p.js";
 export {
   f as default
 };

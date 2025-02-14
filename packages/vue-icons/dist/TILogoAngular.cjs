@@ -1,1 +1,1 @@
-"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TILogoAngular.vue_vue_type_script_setup_true_lang-K2Bd9M_m.cjs");exports.default=e._sfc_main;
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const e=require("./TILogoAngular.vue_vue_type_script_setup_true_lang-Ct_xt4QO.cjs");exports.default=e._sfc_main;
