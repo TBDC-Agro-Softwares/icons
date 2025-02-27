@@ -1,3 +1,4 @@
+export { default as TIVerticalAlignMiddle } from './TIVerticalAlignMiddle.vue';
 export { default as TIVerticalAlignTop } from './TIVerticalAlignTop.vue';
 export { default as TIVideocamFill } from './TIVideocamFill.vue';
 export { default as TIVideocamOutline } from './TIVideocamOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIVolumeMuteSharp } from './TIVolumeMuteSharp.vue';
 export { default as TIVolumeOffFill } from './TIVolumeOffFill.vue';
 export { default as TIVolumeOffOutline } from './TIVolumeOffOutline.vue';
 export { default as TIVolumeOffSharp } from './TIVolumeOffSharp.vue';
-export { default as TIWalkFill } from './TIWalkFill.vue';

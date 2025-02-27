@@ -1,3 +1,4 @@
+export { default as TIStantReportFill } from './TIStantReportFill.vue';
 export { default as TIStarFill } from './TIStarFill.vue';
 export { default as TIStarHalfFill } from './TIStarHalfFill.vue';
 export { default as TIStarHalfOutline } from './TIStarHalfOutline.vue';
@@ -17,4 +18,3 @@ export { default as TIStopSharp } from './TIStopSharp.vue';
 export { default as TIStopwatchFill } from './TIStopwatchFill.vue';
 export { default as TIStopwatchOutline } from './TIStopwatchOutline.vue';
 export { default as TIStopwatchSharp } from './TIStopwatchSharp.vue';
-export { default as TIStrikeThrough } from './TIStrikeThrough.vue';

@@ -1,3 +1,4 @@
+export { default as TISettingsSharp } from './TISettingsSharp.vue';
 export { default as TIShareFill } from './TIShareFill.vue';
 export { default as TIShareOutline } from './TIShareOutline.vue';
 export { default as TIShareSharp } from './TIShareSharp.vue';
@@ -17,4 +18,3 @@ export { default as TIShuffleSharp } from './TIShuffleSharp.vue';
 export { default as TISidebarHide } from './TISidebarHide.vue';
 export { default as TISidebarShow } from './TISidebarShow.vue';
 export { default as TISideBySide } from './TISideBySide.vue';
-export { default as TISideBySideFill } from './TISideBySideFill.vue';
