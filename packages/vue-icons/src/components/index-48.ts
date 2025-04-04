@@ -1,3 +1,7 @@
+export { default as TIRadioButtonOnSharp } from './TIRadioButtonOnSharp.vue';
+export { default as TIRadioFill } from './TIRadioFill.vue';
+export { default as TIRadioOutline } from './TIRadioOutline.vue';
+export { default as TIRadioSharp } from './TIRadioSharp.vue';
 export { default as TIRainyFill } from './TIRainyFill.vue';
 export { default as TIRainyOutline } from './TIRainyOutline.vue';
 export { default as TIRainySharp } from './TIRainySharp.vue';
@@ -14,7 +18,3 @@ export { default as TIRedo } from './TIRedo.vue';
 export { default as TIRefreshCircleFill } from './TIRefreshCircleFill.vue';
 export { default as TIRefreshCircleOutline } from './TIRefreshCircleOutline.vue';
 export { default as TIRefreshCircleSharp } from './TIRefreshCircleSharp.vue';
-export { default as TIRefreshFill } from './TIRefreshFill.vue';
-export { default as TIRefreshOutline } from './TIRefreshOutline.vue';
-export { default as TIRefreshSharp } from './TIRefreshSharp.vue';
-export { default as TIReloadCircleFill } from './TIReloadCircleFill.vue';

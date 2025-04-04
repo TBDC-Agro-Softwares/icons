@@ -1,3 +1,7 @@
+export { default as TIPlaySkipBackFill } from './TIPlaySkipBackFill.vue';
+export { default as TIPlaySkipBackOutline } from './TIPlaySkipBackOutline.vue';
+export { default as TIPlaySkipBackSharp } from './TIPlaySkipBackSharp.vue';
+export { default as TIPlaySkipForwardCircleFill } from './TIPlaySkipForwardCircleFill.vue';
 export { default as TIPlaySkipForwardCircleOutline } from './TIPlaySkipForwardCircleOutline.vue';
 export { default as TIPlaySkipForwardCircleSharp } from './TIPlaySkipForwardCircleSharp.vue';
 export { default as TIPlaySkipForwardFill } from './TIPlaySkipForwardFill.vue';
@@ -12,9 +16,5 @@ export { default as TIPowerSharp } from './TIPowerSharp.vue';
 export { default as TIPresentationOutline } from './TIPresentationOutline.vue';
 export { default as TIPricetagFill } from './TIPricetagFill.vue';
 export { default as TIPricetagOutline } from './TIPricetagOutline.vue';
-export { default as TIPricetagsFill } from './TIPricetagsFill.vue';
 export { default as TIPricetagSharp } from './TIPricetagSharp.vue';
-export { default as TIPricetagsOutline } from './TIPricetagsOutline.vue';
-export { default as TIPricetagsSharp } from './TIPricetagsSharp.vue';
-export { default as TIPrintFill } from './TIPrintFill.vue';
-export { default as TIPrintOutline } from './TIPrintOutline.vue';
+export { default as TIPricetagsFill } from './TIPricetagsFill.vue';

@@ -1,3 +1,7 @@
+export { default as TIServerOutline } from './TIServerOutline.vue';
+export { default as TIServerSharp } from './TIServerSharp.vue';
+export { default as TISettingsFill } from './TISettingsFill.vue';
+export { default as TISettingsOutline } from './TISettingsOutline.vue';
 export { default as TISettingsSharp } from './TISettingsSharp.vue';
 export { default as TIShareFill } from './TIShareFill.vue';
 export { default as TIShareOutline } from './TIShareOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIShieldSharp } from './TIShieldSharp.vue';
 export { default as TIShirtOutline } from './TIShirtOutline.vue';
 export { default as TIShuffleFill } from './TIShuffleFill.vue';
 export { default as TIShuffleOutline } from './TIShuffleOutline.vue';
-export { default as TIShuffleSharp } from './TIShuffleSharp.vue';
-export { default as TISidebarHide } from './TISidebarHide.vue';
-export { default as TISidebarShow } from './TISidebarShow.vue';
-export { default as TISideBySide } from './TISideBySide.vue';

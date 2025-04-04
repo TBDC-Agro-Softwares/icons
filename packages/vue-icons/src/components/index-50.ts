@@ -1,3 +1,7 @@
+export { default as TIReorderThreeSharp } from './TIReorderThreeSharp.vue';
+export { default as TIReorderTwoFill } from './TIReorderTwoFill.vue';
+export { default as TIReorderTwoOutline } from './TIReorderTwoOutline.vue';
+export { default as TIReorderTwoSharp } from './TIReorderTwoSharp.vue';
 export { default as TIRepeatFill } from './TIRepeatFill.vue';
 export { default as TIRepeatOutline } from './TIRepeatOutline.vue';
 export { default as TIRepeatSharp } from './TIRepeatSharp.vue';
@@ -14,7 +18,3 @@ export { default as TIReturnDownForwardFill } from './TIReturnDownForwardFill.vu
 export { default as TIReturnDownForwardOutline } from './TIReturnDownForwardOutline.vue';
 export { default as TIReturnDownForwardSharp } from './TIReturnDownForwardSharp.vue';
 export { default as TIReturnUpBackFill } from './TIReturnUpBackFill.vue';
-export { default as TIReturnUpBackOutline } from './TIReturnUpBackOutline.vue';
-export { default as TIReturnUpBackSharp } from './TIReturnUpBackSharp.vue';
-export { default as TIReturnUpForwardFill } from './TIReturnUpForwardFill.vue';
-export { default as TIReturnUpForwardOutline } from './TIReturnUpForwardOutline.vue';

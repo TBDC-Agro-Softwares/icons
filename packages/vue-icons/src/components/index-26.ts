@@ -1,3 +1,7 @@
+export { default as TIGitPullRequestOutline } from './TIGitPullRequestOutline.vue';
+export { default as TIGitPullRequestSharp } from './TIGitPullRequestSharp.vue';
+export { default as TIGlobeFill } from './TIGlobeFill.vue';
+export { default as TIGlobeOutline } from './TIGlobeOutline.vue';
 export { default as TIGlobeSharp } from './TIGlobeSharp.vue';
 export { default as TIGoalFill } from './TIGoalFill.vue';
 export { default as TIGolfFill } from './TIGolfFill.vue';
@@ -14,7 +18,3 @@ export { default as TIGrowerFill } from './TIGrowerFill.vue';
 export { default as TIGrowerOutline } from './TIGrowerOutline.vue';
 export { default as TIHammerFill } from './TIHammerFill.vue';
 export { default as TIHammerOutline } from './TIHammerOutline.vue';
-export { default as TIHammerSharp } from './TIHammerSharp.vue';
-export { default as TIHandLeftFill } from './TIHandLeftFill.vue';
-export { default as TIHandLeftOutline } from './TIHandLeftOutline.vue';
-export { default as TIHandLeftSharp } from './TIHandLeftSharp.vue';

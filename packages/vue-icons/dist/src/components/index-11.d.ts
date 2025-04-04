@@ -1,6 +1,10 @@
+export { default as TIChatbubbleEllipsesFill } from './TIChatbubbleEllipsesFill.vue';
+export { default as TIChatbubbleEllipsesOutline } from './TIChatbubbleEllipsesOutline.vue';
+export { default as TIChatbubbleEllipsesSharp } from './TIChatbubbleEllipsesSharp.vue';
+export { default as TIChatbubbleFill } from './TIChatbubbleFill.vue';
 export { default as TIChatbubbleOutline } from './TIChatbubbleOutline.vue';
-export { default as TIChatbubblesFill } from './TIChatbubblesFill.vue';
 export { default as TIChatbubbleSharp } from './TIChatbubbleSharp.vue';
+export { default as TIChatbubblesFill } from './TIChatbubblesFill.vue';
 export { default as TIChatbubblesOutline } from './TIChatbubblesOutline.vue';
 export { default as TIChatbubblesSharp } from './TIChatbubblesSharp.vue';
 export { default as TICheckboxFill } from './TICheckboxFill.vue';
@@ -14,7 +18,3 @@ export { default as TICheckmarkDoneCircleOutline } from './TICheckmarkDoneCircle
 export { default as TICheckmarkDoneCircleSharp } from './TICheckmarkDoneCircleSharp.vue';
 export { default as TICheckmarkDoneFill } from './TICheckmarkDoneFill.vue';
 export { default as TICheckmarkDoneOutline } from './TICheckmarkDoneOutline.vue';
-export { default as TICheckmarkDoneSharp } from './TICheckmarkDoneSharp.vue';
-export { default as TICheckmarkFill } from './TICheckmarkFill.vue';
-export { default as TICheckmarkOutline } from './TICheckmarkOutline.vue';
-export { default as TICheckmarkSharp } from './TICheckmarkSharp.vue';

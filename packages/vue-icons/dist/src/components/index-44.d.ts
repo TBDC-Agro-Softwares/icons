@@ -1,3 +1,7 @@
+export { default as TIPersonRemoveOutline } from './TIPersonRemoveOutline.vue';
+export { default as TIPersonRemoveSharp } from './TIPersonRemoveSharp.vue';
+export { default as TIPersonSharp } from './TIPersonSharp.vue';
+export { default as TIPhenologicalEvent } from './TIPhenologicalEvent.vue';
 export { default as TIPhenologicalStage } from './TIPhenologicalStage.vue';
 export { default as TIPhoneLandscapeFill } from './TIPhoneLandscapeFill.vue';
 export { default as TIPhoneLandscapeOutline } from './TIPhoneLandscapeOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIPinFill } from './TIPinFill.vue';
 export { default as TIPinOutline } from './TIPinOutline.vue';
 export { default as TIPinSharp } from './TIPinSharp.vue';
 export { default as TIPlayBackCircleFill } from './TIPlayBackCircleFill.vue';
-export { default as TIPlayBackCircleOutline } from './TIPlayBackCircleOutline.vue';
-export { default as TIPlayBackCircleSharp } from './TIPlayBackCircleSharp.vue';
-export { default as TIPlayBackFill } from './TIPlayBackFill.vue';
-export { default as TIPlayBackOutline } from './TIPlayBackOutline.vue';

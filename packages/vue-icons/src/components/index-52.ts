@@ -1,3 +1,7 @@
+export { default as TISaveSharp } from './TISaveSharp.vue';
+export { default as TIScanCircleFill } from './TIScanCircleFill.vue';
+export { default as TIScanCircleOutline } from './TIScanCircleOutline.vue';
+export { default as TIScanCircleSharp } from './TIScanCircleSharp.vue';
 export { default as TIScanFill } from './TIScanFill.vue';
 export { default as TIScanOutline } from './TIScanOutline.vue';
 export { default as TIScanSharp } from './TIScanSharp.vue';
@@ -14,7 +18,3 @@ export { default as TISendFill } from './TISendFill.vue';
 export { default as TISendOutline } from './TISendOutline.vue';
 export { default as TISendSharp } from './TISendSharp.vue';
 export { default as TIServerFill } from './TIServerFill.vue';
-export { default as TIServerOutline } from './TIServerOutline.vue';
-export { default as TIServerSharp } from './TIServerSharp.vue';
-export { default as TISettingsFill } from './TISettingsFill.vue';
-export { default as TISettingsOutline } from './TISettingsOutline.vue';

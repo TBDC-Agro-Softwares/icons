@@ -1,3 +1,7 @@
+export { default as TIBarcodeOutline } from './TIBarcodeOutline.vue';
+export { default as TIBarcodeSharp } from './TIBarcodeSharp.vue';
+export { default as TIBasketFill } from './TIBasketFill.vue';
+export { default as TIBasketOutline } from './TIBasketOutline.vue';
 export { default as TIBasketSharp } from './TIBasketSharp.vue';
 export { default as TIBatteryChargingFill } from './TIBatteryChargingFill.vue';
 export { default as TIBatteryChargingOutline } from './TIBatteryChargingOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIBatteryHalfSharp } from './TIBatteryHalfSharp.vue';
 export { default as TIBirthdayCakeFill } from './TIBirthdayCakeFill.vue';
 export { default as TIBirthdayCakeOutline } from './TIBirthdayCakeOutline.vue';
 export { default as TIBlockquote } from './TIBlockquote.vue';
-export { default as TIBluetoothFill } from './TIBluetoothFill.vue';
-export { default as TIBluetoothOutline } from './TIBluetoothOutline.vue';
-export { default as TIBluetoothSharp } from './TIBluetoothSharp.vue';
-export { default as TIBodyFill } from './TIBodyFill.vue';

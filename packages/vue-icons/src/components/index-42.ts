@@ -1,3 +1,7 @@
+export { default as TIOptionsFill } from './TIOptionsFill.vue';
+export { default as TIOptionsOutline } from './TIOptionsOutline.vue';
+export { default as TIOptionsSharp } from './TIOptionsSharp.vue';
+export { default as TIOrderedList } from './TIOrderedList.vue';
 export { default as TIPackage } from './TIPackage.vue';
 export { default as TIPaperPlaneFill } from './TIPaperPlaneFill.vue';
 export { default as TIPaperPlaneOutline } from './TIPaperPlaneOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIPauseCircleFill } from './TIPauseCircleFill.vue';
 export { default as TIPauseCircleOutline } from './TIPauseCircleOutline.vue';
 export { default as TIPauseCircleSharp } from './TIPauseCircleSharp.vue';
 export { default as TIPauseFill } from './TIPauseFill.vue';
-export { default as TIPauseOutline } from './TIPauseOutline.vue';
-export { default as TIPauseSharp } from './TIPauseSharp.vue';
-export { default as TIPdfExport } from './TIPdfExport.vue';
-export { default as TIPencilOutline } from './TIPencilOutline.vue';

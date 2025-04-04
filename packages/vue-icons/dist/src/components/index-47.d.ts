@@ -1,7 +1,11 @@
+export { default as TIPricetagsOutline } from './TIPricetagsOutline.vue';
+export { default as TIPricetagsSharp } from './TIPricetagsSharp.vue';
+export { default as TIPrintFill } from './TIPrintFill.vue';
+export { default as TIPrintOutline } from './TIPrintOutline.vue';
 export { default as TIPrintSharp } from './TIPrintSharp.vue';
 export { default as TIProduct } from './TIProduct.vue';
-export { default as TIProductivity } from './TIProductivity.vue';
 export { default as TIProductPet } from './TIProductPet.vue';
+export { default as TIProductivity } from './TIProductivity.vue';
 export { default as TIProducts } from './TIProducts.vue';
 export { default as TIPushFill } from './TIPushFill.vue';
 export { default as TIPushOutline } from './TIPushOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIRadioButtonOffOutline } from './TIRadioButtonOffOutline.vu
 export { default as TIRadioButtonOffSharp } from './TIRadioButtonOffSharp.vue';
 export { default as TIRadioButtonOnFill } from './TIRadioButtonOnFill.vue';
 export { default as TIRadioButtonOnOutline } from './TIRadioButtonOnOutline.vue';
-export { default as TIRadioButtonOnSharp } from './TIRadioButtonOnSharp.vue';
-export { default as TIRadioFill } from './TIRadioFill.vue';
-export { default as TIRadioOutline } from './TIRadioOutline.vue';
-export { default as TIRadioSharp } from './TIRadioSharp.vue';

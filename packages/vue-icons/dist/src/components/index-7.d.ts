@@ -1,3 +1,7 @@
+export { default as TIBrowsersFill } from './TIBrowsersFill.vue';
+export { default as TIBrowsersMinimizedOutline } from './TIBrowsersMinimizedOutline.vue';
+export { default as TIBrowsersOutline } from './TIBrowsersOutline.vue';
+export { default as TIBrowsersSharp } from './TIBrowsersSharp.vue';
 export { default as TIBrushFill } from './TIBrushFill.vue';
 export { default as TIBrushOutline } from './TIBrushOutline.vue';
 export { default as TIBrushSharp } from './TIBrushSharp.vue';
@@ -14,7 +18,3 @@ export { default as TIBurguerMenu } from './TIBurguerMenu.vue';
 export { default as TIBusinessFill } from './TIBusinessFill.vue';
 export { default as TIBusinessOutline } from './TIBusinessOutline.vue';
 export { default as TIBusinessSharp } from './TIBusinessSharp.vue';
-export { default as TICalculatorFill } from './TICalculatorFill.vue';
-export { default as TICalculatorOutline } from './TICalculatorOutline.vue';
-export { default as TICalculatorSharp } from './TICalculatorSharp.vue';
-export { default as TICalendarCheckOutline } from './TICalendarCheckOutline.vue';

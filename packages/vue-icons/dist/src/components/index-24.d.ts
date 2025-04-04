@@ -1,3 +1,7 @@
+export { default as TIFlashOffSharp } from './TIFlashOffSharp.vue';
+export { default as TIFlashOutline } from './TIFlashOutline.vue';
+export { default as TIFlashSharp } from './TIFlashSharp.vue';
+export { default as TIFlaskFill } from './TIFlaskFill.vue';
 export { default as TIFlaskOutline } from './TIFlaskOutline.vue';
 export { default as TIFlaskSharp } from './TIFlaskSharp.vue';
 export { default as TIFolderFill } from './TIFolderFill.vue';
@@ -14,7 +18,3 @@ export { default as TIFunnelFill } from './TIFunnelFill.vue';
 export { default as TIFunnelNot } from './TIFunnelNot.vue';
 export { default as TIFunnelOutline } from './TIFunnelOutline.vue';
 export { default as TIFunnelSharp } from './TIFunnelSharp.vue';
-export { default as TIGameControllerOutline } from './TIGameControllerOutline.vue';
-export { default as TIGiftFill } from './TIGiftFill.vue';
-export { default as TIGiftOutline } from './TIGiftOutline.vue';
-export { default as TIGiftSharp } from './TIGiftSharp.vue';

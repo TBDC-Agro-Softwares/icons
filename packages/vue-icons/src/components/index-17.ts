@@ -1,3 +1,7 @@
+export { default as TIComparativeOutline } from './TIComparativeOutline.vue';
+export { default as TICompassFill } from './TICompassFill.vue';
+export { default as TICompassOutline } from './TICompassOutline.vue';
+export { default as TICompassSharp } from './TICompassSharp.vue';
 export { default as TIConstructFill } from './TIConstructFill.vue';
 export { default as TIConstructOutline } from './TIConstructOutline.vue';
 export { default as TIConstructSharp } from './TIConstructSharp.vue';
@@ -14,7 +18,3 @@ export { default as TICopySharp } from './TICopySharp.vue';
 export { default as TICorn } from './TICorn.vue';
 export { default as TICountries } from './TICountries.vue';
 export { default as TICreateFill } from './TICreateFill.vue';
-export { default as TICreateOutline } from './TICreateOutline.vue';
-export { default as TICreateSharp } from './TICreateSharp.vue';
-export { default as TICropFill } from './TICropFill.vue';
-export { default as TICropOutline } from './TICropOutline.vue';

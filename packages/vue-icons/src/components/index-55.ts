@@ -1,3 +1,7 @@
+export { default as TIStampCheck } from './TIStampCheck.vue';
+export { default as TIStampExpired } from './TIStampExpired.vue';
+export { default as TIStampPending } from './TIStampPending.vue';
+export { default as TIStampUnsolicited } from './TIStampUnsolicited.vue';
 export { default as TIStantReportFill } from './TIStantReportFill.vue';
 export { default as TIStarFill } from './TIStarFill.vue';
 export { default as TIStarHalfFill } from './TIStarHalfFill.vue';
@@ -14,7 +18,3 @@ export { default as TIStopCircleOutline } from './TIStopCircleOutline.vue';
 export { default as TIStopCircleSharp } from './TIStopCircleSharp.vue';
 export { default as TIStopFill } from './TIStopFill.vue';
 export { default as TIStopOutline } from './TIStopOutline.vue';
-export { default as TIStopSharp } from './TIStopSharp.vue';
-export { default as TIStopwatchFill } from './TIStopwatchFill.vue';
-export { default as TIStopwatchOutline } from './TIStopwatchOutline.vue';
-export { default as TIStopwatchSharp } from './TIStopwatchSharp.vue';

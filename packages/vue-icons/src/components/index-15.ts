@@ -1,3 +1,7 @@
+export { default as TICloudyFill } from './TICloudyFill.vue';
+export { default as TICloudyNightFill } from './TICloudyNightFill.vue';
+export { default as TICloudyNightOutline } from './TICloudyNightOutline.vue';
+export { default as TICloudyNightSharp } from './TICloudyNightSharp.vue';
 export { default as TICloudyOutline } from './TICloudyOutline.vue';
 export { default as TICloudySharp } from './TICloudySharp.vue';
 export { default as TICodeDownloadFill } from './TICodeDownloadFill.vue';
@@ -14,7 +18,3 @@ export { default as TICodeWorkingFill } from './TICodeWorkingFill.vue';
 export { default as TICodeWorkingOutline } from './TICodeWorkingOutline.vue';
 export { default as TICodeWorkingSharp } from './TICodeWorkingSharp.vue';
 export { default as TICogFill } from './TICogFill.vue';
-export { default as TICogOutline } from './TICogOutline.vue';
-export { default as TICogSharp } from './TICogSharp.vue';
-export { default as TICoinFill } from './TICoinFill.vue';
-export { default as TICoinOutline } from './TICoinOutline.vue';

@@ -1,3 +1,7 @@
+export { default as TINewspaperSharp } from './TINewspaperSharp.vue';
+export { default as TINoLocationFill } from './TINoLocationFill.vue';
+export { default as TINoLocationOutline } from './TINoLocationOutline.vue';
+export { default as TINoReactionOutline } from './TINoReactionOutline.vue';
 export { default as TINotificationsCircleFill } from './TINotificationsCircleFill.vue';
 export { default as TINotificationsCircleOutline } from './TINotificationsCircleOutline.vue';
 export { default as TINotificationsCircleSharp } from './TINotificationsCircleSharp.vue';
@@ -14,7 +18,3 @@ export { default as TIOpenFill } from './TIOpenFill.vue';
 export { default as TIOpenLink } from './TIOpenLink.vue';
 export { default as TIOpenOutline } from './TIOpenOutline.vue';
 export { default as TIOpenSharp } from './TIOpenSharp.vue';
-export { default as TIOptionsFill } from './TIOptionsFill.vue';
-export { default as TIOptionsOutline } from './TIOptionsOutline.vue';
-export { default as TIOptionsSharp } from './TIOptionsSharp.vue';
-export { default as TIOrderedList } from './TIOrderedList.vue';

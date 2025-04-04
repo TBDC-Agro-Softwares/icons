@@ -1,3 +1,7 @@
+export { default as TIUseOfImagePending } from './TIUseOfImagePending.vue';
+export { default as TIVariety } from './TIVariety.vue';
+export { default as TIVertical } from './TIVertical.vue';
+export { default as TIVerticalAlignBottom } from './TIVerticalAlignBottom.vue';
 export { default as TIVerticalAlignMiddle } from './TIVerticalAlignMiddle.vue';
 export { default as TIVerticalAlignTop } from './TIVerticalAlignTop.vue';
 export { default as TIVideocamFill } from './TIVideocamFill.vue';
@@ -14,7 +18,3 @@ export { default as TIVolumeMediumOutline } from './TIVolumeMediumOutline.vue';
 export { default as TIVolumeMediumSharp } from './TIVolumeMediumSharp.vue';
 export { default as TIVolumeMuteFill } from './TIVolumeMuteFill.vue';
 export { default as TIVolumeMuteOutline } from './TIVolumeMuteOutline.vue';
-export { default as TIVolumeMuteSharp } from './TIVolumeMuteSharp.vue';
-export { default as TIVolumeOffFill } from './TIVolumeOffFill.vue';
-export { default as TIVolumeOffOutline } from './TIVolumeOffOutline.vue';
-export { default as TIVolumeOffSharp } from './TIVolumeOffSharp.vue';

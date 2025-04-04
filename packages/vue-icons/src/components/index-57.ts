@@ -1,3 +1,7 @@
+export { default as TISyncFill } from './TISyncFill.vue';
+export { default as TISyncOutline } from './TISyncOutline.vue';
+export { default as TISyncSharp } from './TISyncSharp.vue';
+export { default as TITableHeader } from './TITableHeader.vue';
 export { default as TITableStyle } from './TITableStyle.vue';
 export { default as TITabletLandscapeFill } from './TITabletLandscapeFill.vue';
 export { default as TITabletLandscapeOutline } from './TITabletLandscapeOutline.vue';
@@ -14,7 +18,3 @@ export { default as TITextFill } from './TITextFill.vue';
 export { default as TITextMore } from './TITextMore.vue';
 export { default as TITextOutline } from './TITextOutline.vue';
 export { default as TITextSharp } from './TITextSharp.vue';
-export { default as TIThermometerFill } from './TIThermometerFill.vue';
-export { default as TIThermometerOutline } from './TIThermometerOutline.vue';
-export { default as TIThermometerSharp } from './TIThermometerSharp.vue';
-export { default as TIThumbsDownFill } from './TIThumbsDownFill.vue';

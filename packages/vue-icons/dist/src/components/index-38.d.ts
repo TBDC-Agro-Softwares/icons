@@ -1,3 +1,7 @@
+export { default as TIMailLockFill } from './TIMailLockFill.vue';
+export { default as TIMailLockOutline } from './TIMailLockOutline.vue';
+export { default as TIMailOpenFill } from './TIMailOpenFill.vue';
+export { default as TIMailOpenOutline } from './TIMailOpenOutline.vue';
 export { default as TIMailOpenSharp } from './TIMailOpenSharp.vue';
 export { default as TIMailOutline } from './TIMailOutline.vue';
 export { default as TIMailSharp } from './TIMailSharp.vue';
@@ -14,7 +18,3 @@ export { default as TIMedicalFill } from './TIMedicalFill.vue';
 export { default as TIMedicalOutline } from './TIMedicalOutline.vue';
 export { default as TIMedicalSharp } from './TIMedicalSharp.vue';
 export { default as TIMedkitFill } from './TIMedkitFill.vue';
-export { default as TIMedkitOutline } from './TIMedkitOutline.vue';
-export { default as TIMedkitSharp } from './TIMedkitSharp.vue';
-export { default as TIMenuFill } from './TIMenuFill.vue';
-export { default as TIMenuOutline } from './TIMenuOutline.vue';

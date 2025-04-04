@@ -1,3 +1,7 @@
+export { default as TIVolumeMuteSharp } from './TIVolumeMuteSharp.vue';
+export { default as TIVolumeOffFill } from './TIVolumeOffFill.vue';
+export { default as TIVolumeOffOutline } from './TIVolumeOffOutline.vue';
+export { default as TIVolumeOffSharp } from './TIVolumeOffSharp.vue';
 export { default as TIWalkFill } from './TIWalkFill.vue';
 export { default as TIWalkOutline } from './TIWalkOutline.vue';
 export { default as TIWalkSharp } from './TIWalkSharp.vue';
@@ -14,7 +18,3 @@ export { default as TIWaterFill } from './TIWaterFill.vue';
 export { default as TIWaterOutline } from './TIWaterOutline.vue';
 export { default as TIWaterSharp } from './TIWaterSharp.vue';
 export { default as TIWetLeaftOutline } from './TIWetLeaftOutline.vue';
-export { default as TIWifiFill } from './TIWifiFill.vue';
-export { default as TIWifiOutline } from './TIWifiOutline.vue';
-export { default as TIWifiSharp } from './TIWifiSharp.vue';
-export { default as TIWomanFill } from './TIWomanFill.vue';

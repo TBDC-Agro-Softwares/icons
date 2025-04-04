@@ -1,3 +1,7 @@
+export { default as TILeafFill } from './TILeafFill.vue';
+export { default as TILeafFillNdviOutline } from './TILeafFillNdviOutline.vue';
+export { default as TILeafOutline } from './TILeafOutline.vue';
+export { default as TILeafSharp } from './TILeafSharp.vue';
 export { default as TILibraryFill } from './TILibraryFill.vue';
 export { default as TILibraryOutline } from './TILibraryOutline.vue';
 export { default as TILibrarySharp } from './TILibrarySharp.vue';
@@ -14,7 +18,3 @@ export { default as TIListOutline } from './TIListOutline.vue';
 export { default as TIListSharp } from './TIListSharp.vue';
 export { default as TILocateFill } from './TILocateFill.vue';
 export { default as TILocateOutline } from './TILocateOutline.vue';
-export { default as TILocateSharp } from './TILocateSharp.vue';
-export { default as TILocationFill } from './TILocationFill.vue';
-export { default as TILocationOutline } from './TILocationOutline.vue';
-export { default as TILocationSharp } from './TILocationSharp.vue';

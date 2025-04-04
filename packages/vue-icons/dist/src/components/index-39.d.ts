@@ -1,3 +1,7 @@
+export { default as TIMedkitOutline } from './TIMedkitOutline.vue';
+export { default as TIMedkitSharp } from './TIMedkitSharp.vue';
+export { default as TIMenuFill } from './TIMenuFill.vue';
+export { default as TIMenuOutline } from './TIMenuOutline.vue';
 export { default as TIMenuSharp } from './TIMenuSharp.vue';
 export { default as TIMicCircleFill } from './TIMicCircleFill.vue';
 export { default as TIMicCircleOutline } from './TIMicCircleOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIMicSharp } from './TIMicSharp.vue';
 export { default as TIMoney } from './TIMoney.vue';
 export { default as TIMoonFill } from './TIMoonFill.vue';
 export { default as TIMoonOutline } from './TIMoonOutline.vue';
-export { default as TIMoonSharp } from './TIMoonSharp.vue';
-export { default as TIMouseOutline } from './TIMouseOutline.vue';
-export { default as TIMoveGrabber } from './TIMoveGrabber.vue';
-export { default as TIMoveSharp } from './TIMoveSharp.vue';

@@ -1,3 +1,7 @@
+export { default as TIStopSharp } from './TIStopSharp.vue';
+export { default as TIStopwatchFill } from './TIStopwatchFill.vue';
+export { default as TIStopwatchOutline } from './TIStopwatchOutline.vue';
+export { default as TIStopwatchSharp } from './TIStopwatchSharp.vue';
 export { default as TIStrikeThrough } from './TIStrikeThrough.vue';
 export { default as TISubscript } from './TISubscript.vue';
 export { default as TISubtilteIcon } from './TISubtilteIcon.vue';
@@ -14,7 +18,3 @@ export { default as TISwapVerticalSharp } from './TISwapVerticalSharp.vue';
 export { default as TISyncCircleFill } from './TISyncCircleFill.vue';
 export { default as TISyncCircleOutline } from './TISyncCircleOutline.vue';
 export { default as TISyncCircleSharp } from './TISyncCircleSharp.vue';
-export { default as TISyncFill } from './TISyncFill.vue';
-export { default as TISyncOutline } from './TISyncOutline.vue';
-export { default as TISyncSharp } from './TISyncSharp.vue';
-export { default as TITableHeader } from './TITableHeader.vue';

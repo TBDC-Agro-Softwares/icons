@@ -1,3 +1,7 @@
+export { default as TIFilmOutline } from './TIFilmOutline.vue';
+export { default as TIFilmSharp } from './TIFilmSharp.vue';
+export { default as TIFilterFill } from './TIFilterFill.vue';
+export { default as TIFilterOutline } from './TIFilterOutline.vue';
 export { default as TIFilterSharp } from './TIFilterSharp.vue';
 export { default as TIFingerPrintFill } from './TIFingerPrintFill.vue';
 export { default as TIFingerPrintOutline } from './TIFingerPrintOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIFlameSharp } from './TIFlameSharp.vue';
 export { default as TIFlashFill } from './TIFlashFill.vue';
 export { default as TIFlashOffFill } from './TIFlashOffFill.vue';
 export { default as TIFlashOffOutline } from './TIFlashOffOutline.vue';
-export { default as TIFlashOffSharp } from './TIFlashOffSharp.vue';
-export { default as TIFlashOutline } from './TIFlashOutline.vue';
-export { default as TIFlashSharp } from './TIFlashSharp.vue';
-export { default as TIFlaskFill } from './TIFlaskFill.vue';

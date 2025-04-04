@@ -1,3 +1,7 @@
+export { default as TIHeartDislikeCircleSharp } from './TIHeartDislikeCircleSharp.vue';
+export { default as TIHeartDislikeFill } from './TIHeartDislikeFill.vue';
+export { default as TIHeartDislikeOutline } from './TIHeartDislikeOutline.vue';
+export { default as TIHeartDislikeSharp } from './TIHeartDislikeSharp.vue';
 export { default as TIHeartFill } from './TIHeartFill.vue';
 export { default as TIHeartHalfFill } from './TIHeartHalfFill.vue';
 export { default as TIHeartHalfOutline } from './TIHeartHalfOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIHelpFill } from './TIHelpFill.vue';
 export { default as TIHelpOutline } from './TIHelpOutline.vue';
 export { default as TIHelpSharp } from './TIHelpSharp.vue';
 export { default as TIHierarchyFill } from './TIHierarchyFill.vue';
-export { default as TIHierarchyOutline } from './TIHierarchyOutline.vue';
-export { default as TIHomeFill } from './TIHomeFill.vue';
-export { default as TIHomeOutline } from './TIHomeOutline.vue';
-export { default as TIHomeSharp } from './TIHomeSharp.vue';

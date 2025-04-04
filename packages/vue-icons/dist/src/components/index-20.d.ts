@@ -1,3 +1,7 @@
+export { default as TIDuplicateOutline } from './TIDuplicateOutline.vue';
+export { default as TIDuplicateSharp } from './TIDuplicateSharp.vue';
+export { default as TIEarthFill } from './TIEarthFill.vue';
+export { default as TIEarthOutline } from './TIEarthOutline.vue';
 export { default as TIEarthSharp } from './TIEarthSharp.vue';
 export { default as TIEaselFill } from './TIEaselFill.vue';
 export { default as TIEaselOutline } from './TIEaselOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIEllipsisHorizontalFill } from './TIEllipsisHorizontalFill.
 export { default as TIEllipsisHorizontalOutline } from './TIEllipsisHorizontalOutline.vue';
 export { default as TIEllipsisHorizontalSharp } from './TIEllipsisHorizontalSharp.vue';
 export { default as TIEllipsisVerticalCircleFill } from './TIEllipsisVerticalCircleFill.vue';
-export { default as TIEllipsisVerticalCircleOutline } from './TIEllipsisVerticalCircleOutline.vue';
-export { default as TIEllipsisVerticalCircleSharp } from './TIEllipsisVerticalCircleSharp.vue';
-export { default as TIEllipsisVerticalFill } from './TIEllipsisVerticalFill.vue';
-export { default as TIEllipsisVerticalOutline } from './TIEllipsisVerticalOutline.vue';

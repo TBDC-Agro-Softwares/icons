@@ -1,3 +1,7 @@
+export { default as TICreateOutline } from './TICreateOutline.vue';
+export { default as TICreateSharp } from './TICreateSharp.vue';
+export { default as TICropFill } from './TICropFill.vue';
+export { default as TICropOutline } from './TICropOutline.vue';
 export { default as TICropSharp } from './TICropSharp.vue';
 export { default as TICubeFill } from './TICubeFill.vue';
 export { default as TICubeOutline } from './TICubeOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIDiscFill } from './TIDiscFill.vue';
 export { default as TIDiscOutline } from './TIDiscOutline.vue';
 export { default as TIDiscSharp } from './TIDiscSharp.vue';
 export { default as TIDocumentAttachFill } from './TIDocumentAttachFill.vue';
-export { default as TIDocumentAttachOutline } from './TIDocumentAttachOutline.vue';
-export { default as TIDocumentAttachSharp } from './TIDocumentAttachSharp.vue';
-export { default as TIDocumentEdit } from './TIDocumentEdit.vue';
-export { default as TIDocumentFill } from './TIDocumentFill.vue';

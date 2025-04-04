@@ -1,3 +1,7 @@
+export { default as TICogOutline } from './TICogOutline.vue';
+export { default as TICogSharp } from './TICogSharp.vue';
+export { default as TICoinFill } from './TICoinFill.vue';
+export { default as TICoinOutline } from './TICoinOutline.vue';
 export { default as TIColorFillFill } from './TIColorFillFill.vue';
 export { default as TIColorFillOutline } from './TIColorFillOutline.vue';
 export { default as TIColorFillSharp } from './TIColorFillSharp.vue';
@@ -14,7 +18,3 @@ export { default as TIColorWheel } from './TIColorWheel.vue';
 export { default as TIColorWheelOutline } from './TIColorWheelOutline.vue';
 export { default as TIColumns } from './TIColumns.vue';
 export { default as TICompanyOutline } from './TICompanyOutline.vue';
-export { default as TIComparativeOutline } from './TIComparativeOutline.vue';
-export { default as TICompassFill } from './TICompassFill.vue';
-export { default as TICompassOutline } from './TICompassOutline.vue';
-export { default as TICompassSharp } from './TICompassSharp.vue';

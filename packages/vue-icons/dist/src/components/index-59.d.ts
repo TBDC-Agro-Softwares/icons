@@ -1,3 +1,7 @@
+export { default as TITimerOutline } from './TITimerOutline.vue';
+export { default as TITimerSharp } from './TITimerSharp.vue';
+export { default as TITitle } from './TITitle.vue';
+export { default as TITodayFill } from './TITodayFill.vue';
 export { default as TITodayOutline } from './TITodayOutline.vue';
 export { default as TITodaySharp } from './TITodaySharp.vue';
 export { default as TIToggleFill } from './TIToggleFill.vue';
@@ -14,7 +18,3 @@ export { default as TITrashFill } from './TITrashFill.vue';
 export { default as TITrashOutline } from './TITrashOutline.vue';
 export { default as TITrashSharp } from './TITrashSharp.vue';
 export { default as TITrendingDownFill } from './TITrendingDownFill.vue';
-export { default as TITrendingDownOutline } from './TITrendingDownOutline.vue';
-export { default as TITrendingDownSharp } from './TITrendingDownSharp.vue';
-export { default as TITrendingUpFill } from './TITrendingUpFill.vue';
-export { default as TITrendingUpOutline } from './TITrendingUpOutline.vue';

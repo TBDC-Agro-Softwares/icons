@@ -1,3 +1,7 @@
+export { default as TITrendingDownOutline } from './TITrendingDownOutline.vue';
+export { default as TITrendingDownSharp } from './TITrendingDownSharp.vue';
+export { default as TITrendingUpFill } from './TITrendingUpFill.vue';
+export { default as TITrendingUpOutline } from './TITrendingUpOutline.vue';
 export { default as TITrendingUpSharp } from './TITrendingUpSharp.vue';
 export { default as TITriangleFill } from './TITriangleFill.vue';
 export { default as TITriangleOutline } from './TITriangleOutline.vue';
@@ -14,7 +18,3 @@ export { default as TIUndo } from './TIUndo.vue';
 export { default as TIUnlink } from './TIUnlink.vue';
 export { default as TIUnorderedList } from './TIUnorderedList.vue';
 export { default as TIUseOfImageOk } from './TIUseOfImageOk.vue';
-export { default as TIUseOfImagePending } from './TIUseOfImagePending.vue';
-export { default as TIVariety } from './TIVariety.vue';
-export { default as TIVertical } from './TIVertical.vue';
-export { default as TIVerticalAlignBottom } from './TIVerticalAlignBottom.vue';
