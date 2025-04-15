@@ -1,4 +1,3 @@
-export { default as TIImagesFill } from './TIImagesFill.vue';
 export { default as TIImagesOutline } from './TIImagesOutline.vue';
 export { default as TIImagesSharp } from './TIImagesSharp.vue';
 export { default as TIInfiniteFill } from './TIInfiniteFill.vue';
@@ -17,4 +16,5 @@ export { default as TIInsertFile } from './TIInsertFile.vue';
 export { default as TIInsertImage } from './TIInsertImage.vue';
 export { default as TIInsertTable } from './TIInsertTable.vue';
 export { default as TIInsertVideo } from './TIInsertVideo.vue';
+export { default as TIISquareOutline } from './TIISquareOutline.vue';
 export { default as TIItalic } from './TIItalic.vue';

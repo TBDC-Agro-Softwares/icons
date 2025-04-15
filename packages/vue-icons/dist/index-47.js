@@ -4,8 +4,8 @@ import { _ as s } from "./TIPrintFill.vue_vue_type_script_setup_true_lang-Q7ol5V
 import { _ as i } from "./TIPrintOutline.vue_vue_type_script_setup_true_lang-DJnuEn4H.js";
 import { _ as x } from "./TIPrintSharp.vue_vue_type_script_setup_true_lang-D6tXmLrG.js";
 import { _ as T } from "./TIProduct.vue_vue_type_script_setup_true_lang-Ba4j3nPW.js";
-import { _ as u } from "./TIProductPet.vue_vue_type_script_setup_true_lang-D9PDW9cg.js";
-import { _ as n } from "./TIProductivity.vue_vue_type_script_setup_true_lang-kRAh3At1.js";
+import { _ as u } from "./TIProductivity.vue_vue_type_script_setup_true_lang-kRAh3At1.js";
+import { _ as n } from "./TIProductPet.vue_vue_type_script_setup_true_lang-D9PDW9cg.js";
 import { _ as d } from "./TIProducts.vue_vue_type_script_setup_true_lang-DTiXKCmv.js";
 import { _ as h } from "./TIPushFill.vue_vue_type_script_setup_true_lang-BByq5qj2.js";
 import { _ as B } from "./TIPushOutline.vue_vue_type_script_setup_true_lang-Dn27P6if.js";
@@ -25,8 +25,8 @@ export {
   i as TIPrintOutline,
   x as TIPrintSharp,
   T as TIProduct,
-  u as TIProductPet,
-  n as TIProductivity,
+  n as TIProductPet,
+  u as TIProductivity,
   d as TIProducts,
   h as TIPushFill,
   B as TIPushOutline,

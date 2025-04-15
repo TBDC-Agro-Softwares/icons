@@ -3,14 +3,14 @@ import { _ as a } from "./TIDocumentAttachSharp.vue_vue_type_script_setup_true_l
 import { _ as p } from "./TIDocumentEdit.vue_vue_type_script_setup_true_lang-DyBLEIkv.js";
 import { _ as n } from "./TIDocumentFill.vue_vue_type_script_setup_true_lang-DB-AllON.js";
 import { _ as T } from "./TIDocumentOutline.vue_vue_type_script_setup_true_lang-i6KywBlS.js";
-import { _ as f } from "./TIDocumentSharp.vue_vue_type_script_setup_true_lang-DEN9McOT.js";
-import { _ as D } from "./TIDocumentTextFill.vue_vue_type_script_setup_true_lang-CTtbxQqV.js";
-import { _ } from "./TIDocumentTextOutline.vue_vue_type_script_setup_true_lang-CQEVjvW0.js";
-import { _ as i } from "./TIDocumentTextPdf.vue_vue_type_script_setup_true_lang-BhaAtlav.js";
-import { _ as F } from "./TIDocumentTextSharp.vue_vue_type_script_setup_true_lang-wEsqqH-y.js";
-import { _ as O } from "./TIDocumentsFill.vue_vue_type_script_setup_true_lang-CnjfT0YJ.js";
-import { _ as w } from "./TIDocumentsOutline.vue_vue_type_script_setup_true_lang-CG9S9IQc.js";
-import { _ as v } from "./TIDocumentsSharp.vue_vue_type_script_setup_true_lang-hFfCPraB.js";
+import { _ as f } from "./TIDocumentsFill.vue_vue_type_script_setup_true_lang-CnjfT0YJ.js";
+import { _ as D } from "./TIDocumentSharp.vue_vue_type_script_setup_true_lang-DEN9McOT.js";
+import { _ } from "./TIDocumentsOutline.vue_vue_type_script_setup_true_lang-CG9S9IQc.js";
+import { _ as i } from "./TIDocumentsSharp.vue_vue_type_script_setup_true_lang-hFfCPraB.js";
+import { _ as F } from "./TIDocumentTextFill.vue_vue_type_script_setup_true_lang-CTtbxQqV.js";
+import { _ as O } from "./TIDocumentTextOutline.vue_vue_type_script_setup_true_lang-CQEVjvW0.js";
+import { _ as w } from "./TIDocumentTextPdf.vue_vue_type_script_setup_true_lang-BhaAtlav.js";
+import { _ as v } from "./TIDocumentTextSharp.vue_vue_type_script_setup_true_lang-wEsqqH-y.js";
 import { _ as C } from "./TIDoubleChevronBackFill.vue_vue_type_script_setup_true_lang-ZrN4w1gG.js";
 import { _ as B } from "./TIDoubleChevronForwardFill.vue_vue_type_script_setup_true_lang-IB_J3Jrx.js";
 import { _ as P } from "./TIDownloadFill.vue_vue_type_script_setup_true_lang-DvGY1J_6.js";
@@ -24,14 +24,14 @@ export {
   p as TIDocumentEdit,
   n as TIDocumentFill,
   T as TIDocumentOutline,
-  f as TIDocumentSharp,
-  D as TIDocumentTextFill,
-  _ as TIDocumentTextOutline,
-  i as TIDocumentTextPdf,
-  F as TIDocumentTextSharp,
-  O as TIDocumentsFill,
-  w as TIDocumentsOutline,
-  v as TIDocumentsSharp,
+  D as TIDocumentSharp,
+  F as TIDocumentTextFill,
+  O as TIDocumentTextOutline,
+  w as TIDocumentTextPdf,
+  v as TIDocumentTextSharp,
+  f as TIDocumentsFill,
+  _ as TIDocumentsOutline,
+  i as TIDocumentsSharp,
   C as TIDoubleChevronBackFill,
   B as TIDoubleChevronForwardFill,
   P as TIDownloadFill,

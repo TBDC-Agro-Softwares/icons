@@ -1,0 +1,45 @@
+<template>
+  <svg :class="className" :style="color ? `color: ${color} !important` : undefined" width="512" height="512" viewBox="0 0 256 257" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 111.045C24 63.2475 62.7475 24.5 110.546 24.5C158.341 24.503 197.087 63.2485 197.09 111.045C197.09 132.063 189.598 151.331 177.138 166.324L229.657 218.843C232.781 221.967 232.781 227.033 229.657 230.157C226.576 233.238 221.608 233.28 218.474 230.285L218.343 230.157L165.824 177.638C150.831 190.098 131.563 197.59 110.545 197.59C62.7475 197.59 24 158.842 24 111.045ZM181.09 111.046C181.088 72.0853 149.505 40.5025 110.544 40.5C71.5841 40.5 40 72.0841 40 111.045C40 150.006 71.5841 181.59 110.545 181.59C149.506 181.59 181.09 150.006 181.09 111.046ZM113.5 76C115.571 76 119.085 77.6392 119.124 79.6762L119.125 79.75V106H147.25C149.321 106 151 109.788 151 111.859C151 113.906 149.361 117.21 147.324 117.249L147.25 117.25H119.125V147.25C119.125 149.321 115.571 151 113.5 151C111.454 151 107.915 149.361 107.876 147.324L107.875 147.25V117.25H79.75C77.6789 117.25 76 113.93 76 111.859C76 109.813 77.6392 106.04 79.6762 106.001L79.75 106H107.875V79.75C107.875 77.6789 111.429 76 113.5 76Z" fill="currentColor"/>
+</svg>
+</template>
+
+<script lang="ts" setup>
+import { computed, type PropType } from 'vue';
+import type { IconColorClasses, IconsSize } from '@/types';
+
+const props = defineProps({
+  size: {
+    type: String as PropType<IconsSize>,
+    default: 'is-default',
+    validator(value: string) {
+      return ['is-small', 'is-medium', 'is-large', 'is-default', 'is-12', 'is-16', 'is-14', 'is-26', 'is-28', 'is-36'].indexOf(value) > -1;
+    }
+  },
+  type: {
+    type: String as PropType<IconColorClasses>,
+    default: undefined
+  },
+  title: {
+    type: String,
+    default: undefined
+  },
+  color: {
+    type: String,
+    default: undefined
+  },
+  clickable: {
+    type: Boolean,
+    default: false
+  }
+});
+
+const className = computed(() => [
+  'icon',
+  props.size,
+  {
+    [props.type as string]: props.type && !props.color,
+    'is-clickable': props.clickable
+  }
+]);
+</script>

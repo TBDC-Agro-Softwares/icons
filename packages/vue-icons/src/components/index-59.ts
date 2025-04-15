@@ -1,5 +1,5 @@
-export { default as TITimerOutline } from './TITimerOutline.vue';
 export { default as TITimerSharp } from './TITimerSharp.vue';
+export { default as TITimeSharp } from './TITimeSharp.vue';
 export { default as TITitle } from './TITitle.vue';
 export { default as TITodayFill } from './TITodayFill.vue';
 export { default as TITodayOutline } from './TITodayOutline.vue';

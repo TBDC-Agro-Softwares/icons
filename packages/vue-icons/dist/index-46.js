@@ -16,8 +16,8 @@ import { _ as b } from "./TIPowerSharp.vue_vue_type_script_setup_true_lang-LasYK
 import { _ as q } from "./TIPresentationOutline.vue_vue_type_script_setup_true_lang-BoIPDPjg.js";
 import { _ as z } from "./TIPricetagFill.vue_vue_type_script_setup_true_lang-KHo8PcyI.js";
 import { _ as D } from "./TIPricetagOutline.vue_vue_type_script_setup_true_lang-CHxn4434.js";
-import { _ as G } from "./TIPricetagSharp.vue_vue_type_script_setup_true_lang-D9YAG9bT.js";
-import { _ as J } from "./TIPricetagsFill.vue_vue_type_script_setup_true_lang-DtbFRbL5.js";
+import { _ as G } from "./TIPricetagsFill.vue_vue_type_script_setup_true_lang-DtbFRbL5.js";
+import { _ as J } from "./TIPricetagSharp.vue_vue_type_script_setup_true_lang-D9YAG9bT.js";
 export {
   a as TIPlaySkipBackFill,
   p as TIPlaySkipBackOutline,
@@ -37,6 +37,6 @@ export {
   q as TIPresentationOutline,
   z as TIPricetagFill,
   D as TIPricetagOutline,
-  G as TIPricetagSharp,
-  J as TIPricetagsFill
+  J as TIPricetagSharp,
+  G as TIPricetagsFill
 };

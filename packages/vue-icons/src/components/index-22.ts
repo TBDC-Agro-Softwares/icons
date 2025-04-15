@@ -1,10 +1,10 @@
+export { default as TIEyedropSharp } from './TIEyedropSharp.vue';
+export { default as TIEyeFill } from './TIEyeFill.vue';
+export { default as TIEyeOffFill } from './TIEyeOffFill.vue';
 export { default as TIEyeOffOutline } from './TIEyeOffOutline.vue';
 export { default as TIEyeOffSharp } from './TIEyeOffSharp.vue';
 export { default as TIEyeOutline } from './TIEyeOutline.vue';
 export { default as TIEyeSharp } from './TIEyeSharp.vue';
-export { default as TIEyedropFill } from './TIEyedropFill.vue';
-export { default as TIEyedropOutline } from './TIEyedropOutline.vue';
-export { default as TIEyedropSharp } from './TIEyedropSharp.vue';
 export { default as TIFacebookColor } from './TIFacebookColor.vue';
 export { default as TIFarm } from './TIFarm.vue';
 export { default as TIFieldDeploymentOutline } from './TIFieldDeploymentOutline.vue';

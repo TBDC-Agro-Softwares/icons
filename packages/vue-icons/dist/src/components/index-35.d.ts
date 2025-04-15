@@ -1,6 +1,3 @@
-export { default as TILogoFlickr } from './TILogoFlickr.vue';
-export { default as TILogoFoursquare } from './TILogoFoursquare.vue';
-export { default as TILogoGithub } from './TILogoGithub.vue';
 export { default as TILogoGoogle } from './TILogoGoogle.vue';
 export { default as TILogoGooglePlaystore } from './TILogoGooglePlaystore.vue';
 export { default as TILogoHackernews } from './TILogoHackernews.vue';
@@ -14,7 +11,10 @@ export { default as TILogoLaravel } from './TILogoLaravel.vue';
 export { default as TILogoLinkedin } from './TILogoLinkedin.vue';
 export { default as TILogoLinkedinCircle } from './TILogoLinkedinCircle.vue';
 export { default as TILogoMarkdown } from './TILogoMarkdown.vue';
-export { default as TILogoNoSmoking } from './TILogoNoSmoking.vue';
 export { default as TILogoNodejs } from './TILogoNodejs.vue';
+export { default as TILogoNoSmoking } from './TILogoNoSmoking.vue';
 export { default as TILogoNpm } from './TILogoNpm.vue';
 export { default as TILogoOctocat } from './TILogoOctocat.vue';
+export { default as TILogoPinterest } from './TILogoPinterest.vue';
+export { default as TILogoPlaystation } from './TILogoPlaystation.vue';
+export { default as TILogoPwa } from './TILogoPwa.vue';

@@ -1,3 +1,4 @@
+export { default as TILogOutSharp } from './TILogOutSharp.vue';
 export { default as TILogoVimeo } from './TILogoVimeo.vue';
 export { default as TILogoVk } from './TILogoVk.vue';
 export { default as TILogoVue } from './TILogoVue.vue';
@@ -12,7 +13,6 @@ export { default as TILogoYahoo } from './TILogoYahoo.vue';
 export { default as TILogoYen } from './TILogoYen.vue';
 export { default as TILogoYoutube } from './TILogoYoutube.vue';
 export { default as TILogoYoutubeCircle } from './TILogoYoutubeCircle.vue';
-export { default as TILogout } from './TILogout.vue';
 export { default as TIMagazine } from './TIMagazine.vue';
 export { default as TIMagnetFill } from './TIMagnetFill.vue';
 export { default as TIMagnetOutline } from './TIMagnetOutline.vue';

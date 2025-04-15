@@ -4,3 +4,4 @@ export { default as TIWifiSharp } from './TIWifiSharp.vue';
 export { default as TIWomanFill } from './TIWomanFill.vue';
 export { default as TIWomanOutline } from './TIWomanOutline.vue';
 export { default as TIWomanSharp } from './TIWomanSharp.vue';
+export { default as TIzoom } from './TIzoom.vue';

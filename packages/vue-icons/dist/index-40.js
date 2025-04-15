@@ -4,8 +4,8 @@ import { _ as p } from "./TIMoveGrabber.vue_vue_type_script_setup_true_lang-BEgx
 import { _ as l } from "./TIMoveSharp.vue_vue_type_script_setup_true_lang-CgsBSpDT.js";
 import { _ as m } from "./TIMusicalNoteFill.vue_vue_type_script_setup_true_lang-C0jogiav.js";
 import { _ as I } from "./TIMusicalNoteOutline.vue_vue_type_script_setup_true_lang-CvU2_Unl.js";
-import { _ } from "./TIMusicalNoteSharp.vue_vue_type_script_setup_true_lang-C1xeHtb_.js";
-import { _ as u } from "./TIMusicalNotesFill.vue_vue_type_script_setup_true_lang-C6DVAXLK.js";
+import { _ } from "./TIMusicalNotesFill.vue_vue_type_script_setup_true_lang-C6DVAXLK.js";
+import { _ as u } from "./TIMusicalNoteSharp.vue_vue_type_script_setup_true_lang-C1xeHtb_.js";
 import { _ as c } from "./TIMusicalNotesOutline.vue_vue_type_script_setup_true_lang-DMBZEb-F.js";
 import { _ as n } from "./TIMusicalNotesSharp.vue_vue_type_script_setup_true_lang-CPj2NuHM.js";
 import { _ as g } from "./TINavigateCircleFill.vue_vue_type_script_setup_true_lang-Vm48B1vT.js";
@@ -25,8 +25,8 @@ export {
   l as TIMoveSharp,
   m as TIMusicalNoteFill,
   I as TIMusicalNoteOutline,
-  _ as TIMusicalNoteSharp,
-  u as TIMusicalNotesFill,
+  u as TIMusicalNoteSharp,
+  _ as TIMusicalNotesFill,
   c as TIMusicalNotesOutline,
   n as TIMusicalNotesSharp,
   g as TINavigateCircleFill,

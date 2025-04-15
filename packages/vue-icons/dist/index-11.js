@@ -3,8 +3,8 @@ import { _ as l } from "./TIChatbubbleEllipsesOutline.vue_vue_type_script_setup_
 import { _ as b } from "./TIChatbubbleEllipsesSharp.vue_vue_type_script_setup_true_lang-DNgWG35t.js";
 import { _ as s } from "./TIChatbubbleFill.vue_vue_type_script_setup_true_lang-Be-jcM_a.js";
 import { _ as h } from "./TIChatbubbleOutline.vue_vue_type_script_setup_true_lang-B5eWpu5I.js";
-import { _ as i } from "./TIChatbubbleSharp.vue_vue_type_script_setup_true_lang-BiEsSW0t.js";
-import { _ as f } from "./TIChatbubblesFill.vue_vue_type_script_setup_true_lang-CnrsdEL-.js";
+import { _ as i } from "./TIChatbubblesFill.vue_vue_type_script_setup_true_lang-CnrsdEL-.js";
+import { _ as f } from "./TIChatbubbleSharp.vue_vue_type_script_setup_true_lang-BiEsSW0t.js";
 import { _ as T } from "./TIChatbubblesOutline.vue_vue_type_script_setup_true_lang-CKMiwnbM.js";
 import { _ as k } from "./TIChatbubblesSharp.vue_vue_type_script_setup_true_lang-CbW6O6i9.js";
 import { _ as u } from "./TICheckboxFill.vue_vue_type_script_setup_true_lang-Cf6vHlRK.js";
@@ -24,8 +24,8 @@ export {
   b as TIChatbubbleEllipsesSharp,
   s as TIChatbubbleFill,
   h as TIChatbubbleOutline,
-  i as TIChatbubbleSharp,
-  f as TIChatbubblesFill,
+  f as TIChatbubbleSharp,
+  i as TIChatbubblesFill,
   T as TIChatbubblesOutline,
   k as TIChatbubblesSharp,
   u as TICheckboxFill,

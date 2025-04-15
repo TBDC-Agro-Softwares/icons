@@ -1,6 +1,3 @@
-export { default as TILogoApple } from './TILogoApple.vue';
-export { default as TILogoAppleAppstore } from './TILogoAppleAppstore.vue';
-export { default as TILogoBitbucket } from './TILogoBitbucket.vue';
 export { default as TILogoBitcoin } from './TILogoBitcoin.vue';
 export { default as TILogoBuffer } from './TILogoBuffer.vue';
 export { default as TILogoCapacitor } from './TILogoCapacitor.vue';
@@ -18,3 +15,6 @@ export { default as TILogoFacebook } from './TILogoFacebook.vue';
 export { default as TILogoFacebookCircle } from './TILogoFacebookCircle.vue';
 export { default as TILogoFirebase } from './TILogoFirebase.vue';
 export { default as TILogoFirefox } from './TILogoFirefox.vue';
+export { default as TILogoFlickr } from './TILogoFlickr.vue';
+export { default as TILogoFoursquare } from './TILogoFoursquare.vue';
+export { default as TILogoGithub } from './TILogoGithub.vue';

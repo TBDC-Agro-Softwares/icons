@@ -4,10 +4,10 @@ import { _ as s } from "./TIJournalSharp.vue_vue_type_script_setup_true_lang-Dly
 import { _ as f } from "./TIKanban.vue_vue_type_script_setup_true_lang-CUloHezG.js";
 import { _ as x } from "./TIKeyFill.vue_vue_type_script_setup_true_lang-BRKMeRez.js";
 import { _ as T } from "./TIKeyOutline.vue_vue_type_script_setup_true_lang-CquXlutd.js";
-import { _ as n } from "./TIKeySharp.vue_vue_type_script_setup_true_lang-DElulQJZ.js";
-import { _ as u } from "./TIKeypadFill.vue_vue_type_script_setup_true_lang-By2s7uVe.js";
-import { _ as y } from "./TIKeypadOutline.vue_vue_type_script_setup_true_lang-CskJjEog.js";
-import { _ as O } from "./TIKeypadSharp.vue_vue_type_script_setup_true_lang-BeYMmS-H.js";
+import { _ as n } from "./TIKeypadFill.vue_vue_type_script_setup_true_lang-By2s7uVe.js";
+import { _ as u } from "./TIKeypadOutline.vue_vue_type_script_setup_true_lang-CskJjEog.js";
+import { _ as y } from "./TIKeypadSharp.vue_vue_type_script_setup_true_lang-BeYMmS-H.js";
+import { _ as O } from "./TIKeySharp.vue_vue_type_script_setup_true_lang-DElulQJZ.js";
 import { _ as h } from "./TILanguageFill.vue_vue_type_script_setup_true_lang-DrAylNzD.js";
 import { _ as S } from "./TILanguageOutline.vue_vue_type_script_setup_true_lang-B3-k4tJD.js";
 import { _ as J } from "./TILanguageSharp.vue_vue_type_script_setup_true_lang-D28f4Ew3.js";
@@ -25,10 +25,10 @@ export {
   f as TIKanban,
   x as TIKeyFill,
   T as TIKeyOutline,
-  n as TIKeySharp,
-  u as TIKeypadFill,
-  y as TIKeypadOutline,
-  O as TIKeypadSharp,
+  O as TIKeySharp,
+  n as TIKeypadFill,
+  u as TIKeypadOutline,
+  y as TIKeypadSharp,
   h as TILanguageFill,
   S as TILanguageOutline,
   J as TILanguageSharp,

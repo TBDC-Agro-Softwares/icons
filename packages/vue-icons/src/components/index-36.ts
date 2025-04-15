@@ -1,6 +1,3 @@
-export { default as TILogoPinterest } from './TILogoPinterest.vue';
-export { default as TILogoPlaystation } from './TILogoPlaystation.vue';
-export { default as TILogoPwa } from './TILogoPwa.vue';
 export { default as TILogoPython } from './TILogoPython.vue';
 export { default as TILogoReact } from './TILogoReact.vue';
 export { default as TILogoReddit } from './TILogoReddit.vue';
@@ -18,3 +15,6 @@ export { default as TILogoTwitch } from './TILogoTwitch.vue';
 export { default as TILogoTwitter } from './TILogoTwitter.vue';
 export { default as TILogoTwitterCircle } from './TILogoTwitterCircle.vue';
 export { default as TILogoUsd } from './TILogoUsd.vue';
+export { default as TILogout } from './TILogout.vue';
+export { default as TILogOutFill } from './TILogOutFill.vue';
+export { default as TILogOutOutline } from './TILogOutOutline.vue';

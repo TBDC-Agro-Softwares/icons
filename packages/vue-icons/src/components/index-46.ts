@@ -16,5 +16,5 @@ export { default as TIPowerSharp } from './TIPowerSharp.vue';
 export { default as TIPresentationOutline } from './TIPresentationOutline.vue';
 export { default as TIPricetagFill } from './TIPricetagFill.vue';
 export { default as TIPricetagOutline } from './TIPricetagOutline.vue';
-export { default as TIPricetagSharp } from './TIPricetagSharp.vue';
 export { default as TIPricetagsFill } from './TIPricetagsFill.vue';
+export { default as TIPricetagSharp } from './TIPricetagSharp.vue';

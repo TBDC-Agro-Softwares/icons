@@ -60,20 +60,20 @@ import { _ as fo } from "./TIArrowRedoFill.vue_vue_type_script_setup_true_lang-w
 import { _ as Io } from "./TIArrowRedoOutline.vue_vue_type_script_setup_true_lang--ZWiNw-u.js";
 import { _ as _o } from "./TIArrowRedoSharp.vue_vue_type_script_setup_true_lang-C2kcg_y4.js";
 import { _ as uo } from "./TIArrowReprocess.vue_vue_type_script_setup_true_lang-GqJEJt4C.js";
-import { _ as So } from "./TIArrowUndoCircleFill.vue_vue_type_script_setup_true_lang-C9HPR2WR.js";
-import { _ as co } from "./TIArrowUndoCircleOutline.vue_vue_type_script_setup_true_lang-Bohm6qXp.js";
-import { _ as Co } from "./TIArrowUndoCircleSharp.vue_vue_type_script_setup_true_lang-BOujhgeM.js";
-import { _ as ko } from "./TIArrowUndoFill.vue_vue_type_script_setup_true_lang-DPkKAPSE.js";
-import { _ as Lo } from "./TIArrowUndoOutline.vue_vue_type_script_setup_true_lang-BUNKz-ia.js";
-import { _ as Bo } from "./TIArrowUndoSharp.vue_vue_type_script_setup_true_lang-B_THsray.js";
-import { _ as Ao } from "./TIArrowUpCircleFill.vue_vue_type_script_setup_true_lang-BvakAhrg.js";
-import { _ as Ro } from "./TIArrowUpCircleOutline.vue_vue_type_script_setup_true_lang-CDowwqLi.js";
-import { _ as Ho } from "./TIArrowUpCircleSharp.vue_vue_type_script_setup_true_lang-COqvZ7Rq.js";
-import { _ as vo } from "./TIArrowUpDown.vue_vue_type_script_setup_true_lang-DqWPSt_-.js";
-import { _ as Uo } from "./TIArrowUpFill.vue_vue_type_script_setup_true_lang-C22O9AJy.js";
-import { _ as No } from "./TIArrowUpOutline.vue_vue_type_script_setup_true_lang-DTrarKfx.js";
-import { _ as Wo } from "./TIArrowUpSharp.vue_vue_type_script_setup_true_lang-D_tkV1YU.js";
-import { _ as qo } from "./TIArrowsFullscreen.vue_vue_type_script_setup_true_lang-DipeXOx3.js";
+import { _ as So } from "./TIArrowsFullscreen.vue_vue_type_script_setup_true_lang-DipeXOx3.js";
+import { _ as co } from "./TIArrowUndoCircleFill.vue_vue_type_script_setup_true_lang-C9HPR2WR.js";
+import { _ as Co } from "./TIArrowUndoCircleOutline.vue_vue_type_script_setup_true_lang-Bohm6qXp.js";
+import { _ as ko } from "./TIArrowUndoCircleSharp.vue_vue_type_script_setup_true_lang-BOujhgeM.js";
+import { _ as Lo } from "./TIArrowUndoFill.vue_vue_type_script_setup_true_lang-DPkKAPSE.js";
+import { _ as Bo } from "./TIArrowUndoOutline.vue_vue_type_script_setup_true_lang-BUNKz-ia.js";
+import { _ as Ao } from "./TIArrowUndoSharp.vue_vue_type_script_setup_true_lang-B_THsray.js";
+import { _ as Ro } from "./TIArrowUpCircleFill.vue_vue_type_script_setup_true_lang-BvakAhrg.js";
+import { _ as Ho } from "./TIArrowUpCircleOutline.vue_vue_type_script_setup_true_lang-CDowwqLi.js";
+import { _ as vo } from "./TIArrowUpCircleSharp.vue_vue_type_script_setup_true_lang-COqvZ7Rq.js";
+import { _ as Uo } from "./TIArrowUpDown.vue_vue_type_script_setup_true_lang-DqWPSt_-.js";
+import { _ as No } from "./TIArrowUpFill.vue_vue_type_script_setup_true_lang-C22O9AJy.js";
+import { _ as Wo } from "./TIArrowUpOutline.vue_vue_type_script_setup_true_lang-DTrarKfx.js";
+import { _ as qo } from "./TIArrowUpSharp.vue_vue_type_script_setup_true_lang-D_tkV1YU.js";
 import { _ as Jo } from "./TIAtCircleFill.vue_vue_type_script_setup_true_lang-B-0fXHz-.js";
 import { _ as Qo } from "./TIAtCircleOutline.vue_vue_type_script_setup_true_lang-D1pp_P-9.js";
 import { _ as jo } from "./TIAtCircleSharp.vue_vue_type_script_setup_true_lang-Bxmq3UoD.js";
@@ -126,14 +126,14 @@ import { _ as Ha } from "./TIBodyOutline.vue_vue_type_script_setup_true_lang-Dlt
 import { _ as va } from "./TIBodySharp.vue_vue_type_script_setup_true_lang-BsxgSdJN.js";
 import { _ as Ua } from "./TIBold.vue_vue_type_script_setup_true_lang-Cxk5jz3a.js";
 import { _ as Na } from "./TIBookFill.vue_vue_type_script_setup_true_lang-CCTG-pgm.js";
-import { _ as Wa } from "./TIBookOutline.vue_vue_type_script_setup_true_lang-B9C1uJdn.js";
-import { _ as qa } from "./TIBookSharp.vue_vue_type_script_setup_true_lang-B_O9rF1R.js";
-import { _ as Ja } from "./TIBookmarkFill.vue_vue_type_script_setup_true_lang-BHX_Br9S.js";
-import { _ as Qa } from "./TIBookmarkOutline.vue_vue_type_script_setup_true_lang-BmLvuCWs.js";
-import { _ as ja } from "./TIBookmarkSharp.vue_vue_type_script_setup_true_lang-CSl2bJzM.js";
-import { _ as $a } from "./TIBookmarksFill.vue_vue_type_script_setup_true_lang-Cge5VjKG.js";
-import { _ as ot } from "./TIBookmarksOutline.vue_vue_type_script_setup_true_lang-DUvpbf-L.js";
-import { _ as at } from "./TIBookmarksSharp.vue_vue_type_script_setup_true_lang-CfR6nThA.js";
+import { _ as Wa } from "./TIBookmarkFill.vue_vue_type_script_setup_true_lang-BHX_Br9S.js";
+import { _ as qa } from "./TIBookmarkOutline.vue_vue_type_script_setup_true_lang-BmLvuCWs.js";
+import { _ as Ja } from "./TIBookmarksFill.vue_vue_type_script_setup_true_lang-Cge5VjKG.js";
+import { _ as Qa } from "./TIBookmarkSharp.vue_vue_type_script_setup_true_lang-CSl2bJzM.js";
+import { _ as ja } from "./TIBookmarksOutline.vue_vue_type_script_setup_true_lang-DUvpbf-L.js";
+import { _ as $a } from "./TIBookmarksSharp.vue_vue_type_script_setup_true_lang-CfR6nThA.js";
+import { _ as ot } from "./TIBookOutline.vue_vue_type_script_setup_true_lang-B9C1uJdn.js";
+import { _ as at } from "./TIBookSharp.vue_vue_type_script_setup_true_lang-B_O9rF1R.js";
 import { _ as pt } from "./TIBrasil.vue_vue_type_script_setup_true_lang-B0cohR-G.js";
 import { _ as st } from "./TIBriefcaseFill.vue_vue_type_script_setup_true_lang-BQlQRPuN.js";
 import { _ as it } from "./TIBriefcaseOtline.vue_vue_type_script_setup_true_lang-BrSDRzg4.js";
@@ -223,8 +223,8 @@ import { _ as xs } from "./TIChatbubbleEllipsesOutline.vue_vue_type_script_setup
 import { _ as ns } from "./TIChatbubbleEllipsesSharp.vue_vue_type_script_setup_true_lang-DNgWG35t.js";
 import { _ as hs } from "./TIChatbubbleFill.vue_vue_type_script_setup_true_lang-Be-jcM_a.js";
 import { _ as Fs } from "./TIChatbubbleOutline.vue_vue_type_script_setup_true_lang-B5eWpu5I.js";
-import { _ as Os } from "./TIChatbubbleSharp.vue_vue_type_script_setup_true_lang-BiEsSW0t.js";
-import { _ as ds } from "./TIChatbubblesFill.vue_vue_type_script_setup_true_lang-CnrsdEL-.js";
+import { _ as Os } from "./TIChatbubblesFill.vue_vue_type_script_setup_true_lang-CnrsdEL-.js";
+import { _ as ds } from "./TIChatbubbleSharp.vue_vue_type_script_setup_true_lang-BiEsSW0t.js";
 import { _ as ks } from "./TIChatbubblesOutline.vue_vue_type_script_setup_true_lang-CKMiwnbM.js";
 import { _ as Ls } from "./TIChatbubblesSharp.vue_vue_type_script_setup_true_lang-CbW6O6i9.js";
 import { _ as Bs } from "./TICheckboxFill.vue_vue_type_script_setup_true_lang-Cf6vHlRK.js";
@@ -383,14 +383,14 @@ import { _ as fx } from "./TIDocumentAttachSharp.vue_vue_type_script_setup_true_
 import { _ as Ix } from "./TIDocumentEdit.vue_vue_type_script_setup_true_lang-DyBLEIkv.js";
 import { _ as _x } from "./TIDocumentFill.vue_vue_type_script_setup_true_lang-DB-AllON.js";
 import { _ as ux } from "./TIDocumentOutline.vue_vue_type_script_setup_true_lang-i6KywBlS.js";
-import { _ as Sx } from "./TIDocumentSharp.vue_vue_type_script_setup_true_lang-DEN9McOT.js";
-import { _ as cx } from "./TIDocumentTextFill.vue_vue_type_script_setup_true_lang-CTtbxQqV.js";
-import { _ as Cx } from "./TIDocumentTextOutline.vue_vue_type_script_setup_true_lang-CQEVjvW0.js";
-import { _ as gx } from "./TIDocumentTextPdf.vue_vue_type_script_setup_true_lang-BhaAtlav.js";
-import { _ as wx } from "./TIDocumentTextSharp.vue_vue_type_script_setup_true_lang-wEsqqH-y.js";
-import { _ as yx } from "./TIDocumentsFill.vue_vue_type_script_setup_true_lang-CnjfT0YJ.js";
-import { _ as Px } from "./TIDocumentsOutline.vue_vue_type_script_setup_true_lang-CG9S9IQc.js";
-import { _ as bx } from "./TIDocumentsSharp.vue_vue_type_script_setup_true_lang-hFfCPraB.js";
+import { _ as Sx } from "./TIDocumentsFill.vue_vue_type_script_setup_true_lang-CnjfT0YJ.js";
+import { _ as cx } from "./TIDocumentSharp.vue_vue_type_script_setup_true_lang-DEN9McOT.js";
+import { _ as Cx } from "./TIDocumentsOutline.vue_vue_type_script_setup_true_lang-CG9S9IQc.js";
+import { _ as gx } from "./TIDocumentsSharp.vue_vue_type_script_setup_true_lang-hFfCPraB.js";
+import { _ as wx } from "./TIDocumentTextFill.vue_vue_type_script_setup_true_lang-CTtbxQqV.js";
+import { _ as yx } from "./TIDocumentTextOutline.vue_vue_type_script_setup_true_lang-CQEVjvW0.js";
+import { _ as Px } from "./TIDocumentTextPdf.vue_vue_type_script_setup_true_lang-BhaAtlav.js";
+import { _ as bx } from "./TIDocumentTextSharp.vue_vue_type_script_setup_true_lang-wEsqqH-y.js";
 import { _ as Dx } from "./TIDoubleChevronBackFill.vue_vue_type_script_setup_true_lang-ZrN4w1gG.js";
 import { _ as Mx } from "./TIDoubleChevronForwardFill.vue_vue_type_script_setup_true_lang-IB_J3Jrx.js";
 import { _ as Ex } from "./TIDownloadFill.vue_vue_type_script_setup_true_lang-DvGY1J_6.js";
@@ -436,15 +436,15 @@ import { _ as mn } from "./TIExitSharp.vue_vue_type_script_setup_true_lang-O7EsB
 import { _ as Tn } from "./TIExpandFill.vue_vue_type_script_setup_true_lang-CPEpMQGV.js";
 import { _ as xn } from "./TIExpandOutline.vue_vue_type_script_setup_true_lang-BtfH-0nT.js";
 import { _ as nn } from "./TIExpandSharp.vue_vue_type_script_setup_true_lang-Cv9YFg5D.js";
-import { _ as hn } from "./TIEyeFill.vue_vue_type_script_setup_true_lang-BJz7dXTl.js";
-import { _ as Fn } from "./TIEyeOffFill.vue_vue_type_script_setup_true_lang-C_zE1rv4.js";
-import { _ as On } from "./TIEyeOffOutline.vue_vue_type_script_setup_true_lang-DuHkxlHo.js";
-import { _ as dn } from "./TIEyeOffSharp.vue_vue_type_script_setup_true_lang-DFciLw3b.js";
-import { _ as kn } from "./TIEyeOutline.vue_vue_type_script_setup_true_lang-BM_GnUdl.js";
-import { _ as Ln } from "./TIEyeSharp.vue_vue_type_script_setup_true_lang-CtS-PtEm.js";
-import { _ as Bn } from "./TIEyedropFill.vue_vue_type_script_setup_true_lang-8gMAkQwJ.js";
-import { _ as An } from "./TIEyedropOutline.vue_vue_type_script_setup_true_lang-DPaekkll.js";
-import { _ as Rn } from "./TIEyedropSharp.vue_vue_type_script_setup_true_lang-BhkbZrcx.js";
+import { _ as hn } from "./TIEyedropFill.vue_vue_type_script_setup_true_lang-8gMAkQwJ.js";
+import { _ as Fn } from "./TIEyedropOutline.vue_vue_type_script_setup_true_lang-DPaekkll.js";
+import { _ as On } from "./TIEyedropSharp.vue_vue_type_script_setup_true_lang-BhkbZrcx.js";
+import { _ as dn } from "./TIEyeFill.vue_vue_type_script_setup_true_lang-BJz7dXTl.js";
+import { _ as kn } from "./TIEyeOffFill.vue_vue_type_script_setup_true_lang-C_zE1rv4.js";
+import { _ as Ln } from "./TIEyeOffOutline.vue_vue_type_script_setup_true_lang-DuHkxlHo.js";
+import { _ as Bn } from "./TIEyeOffSharp.vue_vue_type_script_setup_true_lang-DFciLw3b.js";
+import { _ as An } from "./TIEyeOutline.vue_vue_type_script_setup_true_lang-BM_GnUdl.js";
+import { _ as Rn } from "./TIEyeSharp.vue_vue_type_script_setup_true_lang-CtS-PtEm.js";
 import { _ as Hn } from "./TIFacebookColor.vue_vue_type_script_setup_true_lang-Bas5o2zT.js";
 import { _ as vn } from "./TIFarm.vue_vue_type_script_setup_true_lang-BCm24jBO.js";
 import { _ as Un } from "./TIFieldDeploymentOutline.vue_vue_type_script_setup_true_lang-D-HSFmFF.js";
@@ -548,8 +548,8 @@ import { _ as hF } from "./TIHandRightSharp.vue_vue_type_script_setup_true_lang-
 import { _ as FF } from "./TIHappyFill.vue_vue_type_script_setup_true_lang-Chv0EXga.js";
 import { _ as OF } from "./TIHappyOutline.vue_vue_type_script_setup_true_lang-rZ5k8bCU.js";
 import { _ as dF } from "./TIHappySharp.vue_vue_type_script_setup_true_lang-Cf_eXrcx.js";
-import { _ as kF } from "./TIHarvestFill.vue_vue_type_script_setup_true_lang-DmA7hFqe.js";
-import { _ as LF } from "./TIHarvester.vue_vue_type_script_setup_true_lang-NyN_bQA1.js";
+import { _ as kF } from "./TIHarvester.vue_vue_type_script_setup_true_lang-NyN_bQA1.js";
+import { _ as LF } from "./TIHarvestFill.vue_vue_type_script_setup_true_lang-DmA7hFqe.js";
 import { _ as BF } from "./TIHeadsetFill.vue_vue_type_script_setup_true_lang-BYNfYJOb.js";
 import { _ as AF } from "./TIHeadsetOutline.vue_vue_type_script_setup_true_lang-CxtQGKHK.js";
 import { _ as RF } from "./TIHeadsetSharp.vue_vue_type_script_setup_true_lang-8RcVvk_O.js";
@@ -587,36 +587,36 @@ import { _ as Nc } from "./TIHourglassFill.vue_vue_type_script_setup_true_lang-D
 import { _ as Wc } from "./TIHourglassOutline.vue_vue_type_script_setup_true_lang-CCYOFJMZ.js";
 import { _ as qc } from "./TIHourglassSharp.vue_vue_type_script_setup_true_lang-BOw3P3ll.js";
 import { _ as Jc } from "./TIICircleOutline.vue_vue_type_script_setup_true_lang-B5bdDjQZ.js";
-import { _ as Qc } from "./TIISquareOutline.vue_vue_type_script_setup_true_lang-CEezZNvh.js";
-import { _ as jc } from "./TIIconsFill.vue_vue_type_script_setup_true_lang-BoAEVzbd.js";
-import { _ as $c } from "./TIIconsOutline.vue_vue_type_script_setup_true_lang-e47OvWm7.js";
-import { _ as oO } from "./TIIconsSharp.vue_vue_type_script_setup_true_lang-DCb-dI1n.js";
-import { _ as aO } from "./TIIdentification.vue_vue_type_script_setup_true_lang-48cWc_gX.js";
-import { _ as pO } from "./TIImageCaption.vue_vue_type_script_setup_true_lang-CvoIzCGa.js";
-import { _ as sO } from "./TIImageFill.vue_vue_type_script_setup_true_lang-AqQJadIV.js";
-import { _ as iO } from "./TIImageManager.vue_vue_type_script_setup_true_lang-DUNq_Ixc.js";
-import { _ as TO } from "./TIImageOutline.vue_vue_type_script_setup_true_lang-C7oz1AQN.js";
+import { _ as Qc } from "./TIIconsFill.vue_vue_type_script_setup_true_lang-BoAEVzbd.js";
+import { _ as jc } from "./TIIconsOutline.vue_vue_type_script_setup_true_lang-e47OvWm7.js";
+import { _ as $c } from "./TIIconsSharp.vue_vue_type_script_setup_true_lang-DCb-dI1n.js";
+import { _ as oO } from "./TIIdentification.vue_vue_type_script_setup_true_lang-48cWc_gX.js";
+import { _ as aO } from "./TIImageCaption.vue_vue_type_script_setup_true_lang-CvoIzCGa.js";
+import { _ as pO } from "./TIImageFill.vue_vue_type_script_setup_true_lang-AqQJadIV.js";
+import { _ as sO } from "./TIImageManager.vue_vue_type_script_setup_true_lang-DUNq_Ixc.js";
+import { _ as iO } from "./TIImageOutline.vue_vue_type_script_setup_true_lang-C7oz1AQN.js";
+import { _ as TO } from "./TIImagesFill.vue_vue_type_script_setup_true_lang-B-vBm9cO.js";
 import { _ as xO } from "./TIImageSharp.vue_vue_type_script_setup_true_lang-CQk_p9h3.js";
 import { _ as nO } from "./TIImageSize.vue_vue_type_script_setup_true_lang-DlU-BUJm.js";
-import { _ as hO } from "./TIImagesFill.vue_vue_type_script_setup_true_lang-B-vBm9cO.js";
-import { _ as FO } from "./TIImagesOutline.vue_vue_type_script_setup_true_lang-BKsfiE7I.js";
-import { _ as OO } from "./TIImagesSharp.vue_vue_type_script_setup_true_lang-CD7rK1-w.js";
-import { _ as dO } from "./TIInfiniteFill.vue_vue_type_script_setup_true_lang-6Jqx1DLg.js";
-import { _ as kO } from "./TIInfiniteOutline.vue_vue_type_script_setup_true_lang-7Sn7TGG8.js";
-import { _ as LO } from "./TIInfiniteSharp.vue_vue_type_script_setup_true_lang-Cc7KI77c.js";
-import { _ as BO } from "./TIInformationCircleFill.vue_vue_type_script_setup_true_lang-D7MGexiJ.js";
-import { _ as AO } from "./TIInformationCircleOutline.vue_vue_type_script_setup_true_lang-DH1BREkj.js";
-import { _ as RO } from "./TIInformationCircleSharp.vue_vue_type_script_setup_true_lang-CKt-PCES.js";
-import { _ as HO } from "./TIInformationFill.vue_vue_type_script_setup_true_lang-BmTUwtYA.js";
-import { _ as vO } from "./TIInformationOutline.vue_vue_type_script_setup_true_lang-CRYTKUb4.js";
-import { _ as UO } from "./TIInformationSharp.vue_vue_type_script_setup_true_lang-DncewEvH.js";
-import { _ as NO } from "./TIInlineClass.vue_vue_type_script_setup_true_lang-D3TnguOZ.js";
-import { _ as WO } from "./TIInlineStyle.vue_vue_type_script_setup_true_lang-C2izrYQP.js";
-import { _ as qO } from "./TIInsertEmbed.vue_vue_type_script_setup_true_lang-Cjfx1Ott.js";
-import { _ as JO } from "./TIInsertFile.vue_vue_type_script_setup_true_lang-BQ13yiyS.js";
-import { _ as QO } from "./TIInsertImage.vue_vue_type_script_setup_true_lang-Cguy5lYw.js";
-import { _ as jO } from "./TIInsertTable.vue_vue_type_script_setup_true_lang-oNyHCVJG.js";
-import { _ as $O } from "./TIInsertVideo.vue_vue_type_script_setup_true_lang-6L6O220b.js";
+import { _ as hO } from "./TIImagesOutline.vue_vue_type_script_setup_true_lang-BKsfiE7I.js";
+import { _ as FO } from "./TIImagesSharp.vue_vue_type_script_setup_true_lang-CD7rK1-w.js";
+import { _ as OO } from "./TIInfiniteFill.vue_vue_type_script_setup_true_lang-6Jqx1DLg.js";
+import { _ as dO } from "./TIInfiniteOutline.vue_vue_type_script_setup_true_lang-7Sn7TGG8.js";
+import { _ as kO } from "./TIInfiniteSharp.vue_vue_type_script_setup_true_lang-Cc7KI77c.js";
+import { _ as LO } from "./TIInformationCircleFill.vue_vue_type_script_setup_true_lang-D7MGexiJ.js";
+import { _ as BO } from "./TIInformationCircleOutline.vue_vue_type_script_setup_true_lang-DH1BREkj.js";
+import { _ as AO } from "./TIInformationCircleSharp.vue_vue_type_script_setup_true_lang-CKt-PCES.js";
+import { _ as RO } from "./TIInformationFill.vue_vue_type_script_setup_true_lang-BmTUwtYA.js";
+import { _ as HO } from "./TIInformationOutline.vue_vue_type_script_setup_true_lang-CRYTKUb4.js";
+import { _ as vO } from "./TIInformationSharp.vue_vue_type_script_setup_true_lang-DncewEvH.js";
+import { _ as UO } from "./TIInlineClass.vue_vue_type_script_setup_true_lang-D3TnguOZ.js";
+import { _ as NO } from "./TIInlineStyle.vue_vue_type_script_setup_true_lang-C2izrYQP.js";
+import { _ as WO } from "./TIInsertEmbed.vue_vue_type_script_setup_true_lang-Cjfx1Ott.js";
+import { _ as qO } from "./TIInsertFile.vue_vue_type_script_setup_true_lang-BQ13yiyS.js";
+import { _ as JO } from "./TIInsertImage.vue_vue_type_script_setup_true_lang-Cguy5lYw.js";
+import { _ as QO } from "./TIInsertTable.vue_vue_type_script_setup_true_lang-oNyHCVJG.js";
+import { _ as jO } from "./TIInsertVideo.vue_vue_type_script_setup_true_lang-6L6O220b.js";
+import { _ as $O } from "./TIISquareOutline.vue_vue_type_script_setup_true_lang-CEezZNvh.js";
 import { _ as oC } from "./TIItalic.vue_vue_type_script_setup_true_lang-BRYRQg1B.js";
 import { _ as aC } from "./TIJournalFill.vue_vue_type_script_setup_true_lang-BtyTYXgb.js";
 import { _ as pC } from "./TIJournalOutline.vue_vue_type_script_setup_true_lang-D08Lwzbu.js";
@@ -624,10 +624,10 @@ import { _ as sC } from "./TIJournalSharp.vue_vue_type_script_setup_true_lang-Dl
 import { _ as iC } from "./TIKanban.vue_vue_type_script_setup_true_lang-CUloHezG.js";
 import { _ as TC } from "./TIKeyFill.vue_vue_type_script_setup_true_lang-BRKMeRez.js";
 import { _ as xC } from "./TIKeyOutline.vue_vue_type_script_setup_true_lang-CquXlutd.js";
-import { _ as nC } from "./TIKeySharp.vue_vue_type_script_setup_true_lang-DElulQJZ.js";
-import { _ as hC } from "./TIKeypadFill.vue_vue_type_script_setup_true_lang-By2s7uVe.js";
-import { _ as FC } from "./TIKeypadOutline.vue_vue_type_script_setup_true_lang-CskJjEog.js";
-import { _ as OC } from "./TIKeypadSharp.vue_vue_type_script_setup_true_lang-BeYMmS-H.js";
+import { _ as nC } from "./TIKeypadFill.vue_vue_type_script_setup_true_lang-By2s7uVe.js";
+import { _ as hC } from "./TIKeypadOutline.vue_vue_type_script_setup_true_lang-CskJjEog.js";
+import { _ as FC } from "./TIKeypadSharp.vue_vue_type_script_setup_true_lang-BeYMmS-H.js";
+import { _ as OC } from "./TIKeySharp.vue_vue_type_script_setup_true_lang-DElulQJZ.js";
 import { _ as dC } from "./TILanguageFill.vue_vue_type_script_setup_true_lang-DrAylNzD.js";
 import { _ as kC } from "./TILanguageOutline.vue_vue_type_script_setup_true_lang-B3-k4tJD.js";
 import { _ as LC } from "./TILanguageSharp.vue_vue_type_script_setup_true_lang-D28f4Ew3.js";
@@ -671,88 +671,88 @@ import { _ as Jd } from "./TILockOpenSharp.vue_vue_type_script_setup_true_lang-K
 import { _ as Qd } from "./TILogInFill.vue_vue_type_script_setup_true_lang-CsV3MkuI.js";
 import { _ as jd } from "./TILogInOutline.vue_vue_type_script_setup_true_lang-WiDC0XMC.js";
 import { _ as $d } from "./TILogInSharp.vue_vue_type_script_setup_true_lang-DVFM7umm.js";
-import { _ as og } from "./TILogOutFill.vue_vue_type_script_setup_true_lang-YdlRROTx.js";
-import { _ as ag } from "./TILogOutOutline.vue_vue_type_script_setup_true_lang-CP3la4yF.js";
-import { _ as pg } from "./TILogOutSharp.vue_vue_type_script_setup_true_lang-ZXg0qu_P.js";
-import { _ as sg } from "./TILogoAmazon.vue_vue_type_script_setup_true_lang-Ddjw1nJz.js";
-import { _ as ig } from "./TILogoAmplify.vue_vue_type_script_setup_true_lang-DCWnCz1u.js";
-import { _ as Tg } from "./TILogoAndroid.vue_vue_type_script_setup_true_lang-D5MihGuw.js";
-import { _ as xg } from "./TILogoAngular.vue_vue_type_script_setup_true_lang-CpCpevsN.js";
-import { _ as ng } from "./TILogoApple.vue_vue_type_script_setup_true_lang-BNeGPiX5.js";
-import { _ as hg } from "./TILogoAppleAppstore.vue_vue_type_script_setup_true_lang-DyLrDSW_.js";
-import { _ as Fg } from "./TILogoBitbucket.vue_vue_type_script_setup_true_lang-BYsj6-J5.js";
-import { _ as Og } from "./TILogoBitcoin.vue_vue_type_script_setup_true_lang-DVKVxeER.js";
-import { _ as dg } from "./TILogoBuffer.vue_vue_type_script_setup_true_lang-UDHyFun-.js";
-import { _ as kg } from "./TILogoCapacitor.vue_vue_type_script_setup_true_lang-D1mBlcPI.js";
-import { _ as Lg } from "./TILogoChrome.vue_vue_type_script_setup_true_lang-CDZkH_QE.js";
-import { _ as Bg } from "./TILogoClosedCaptioning.vue_vue_type_script_setup_true_lang-k0nMh0X1.js";
-import { _ as Ag } from "./TILogoCodepen.vue_vue_type_script_setup_true_lang-Btqud88u.js";
-import { _ as Rg } from "./TILogoCss3.vue_vue_type_script_setup_true_lang-DGAdoEYB.js";
-import { _ as Hg } from "./TILogoDesignernews.vue_vue_type_script_setup_true_lang-BHLCP9qq.js";
-import { _ as vg } from "./TILogoDribbble.vue_vue_type_script_setup_true_lang-DWxaWjnm.js";
-import { _ as Ug } from "./TILogoDropbox.vue_vue_type_script_setup_true_lang--j2ET05H.js";
-import { _ as Ng } from "./TILogoEdge.vue_vue_type_script_setup_true_lang-wF3bizLU.js";
-import { _ as Wg } from "./TILogoElectron.vue_vue_type_script_setup_true_lang-CKHkOica.js";
-import { _ as qg } from "./TILogoEuro.vue_vue_type_script_setup_true_lang-CpmJQ93I.js";
-import { _ as Jg } from "./TILogoFacebook.vue_vue_type_script_setup_true_lang-DotoR4rb.js";
-import { _ as Qg } from "./TILogoFacebookCircle.vue_vue_type_script_setup_true_lang-TPRNhPN2.js";
-import { _ as jg } from "./TILogoFirebase.vue_vue_type_script_setup_true_lang-Brj9aGiD.js";
-import { _ as $g } from "./TILogoFirefox.vue_vue_type_script_setup_true_lang-Ve54Dm2L.js";
-import { _ as ok } from "./TILogoFlickr.vue_vue_type_script_setup_true_lang-Dp-qftOw.js";
-import { _ as ak } from "./TILogoFoursquare.vue_vue_type_script_setup_true_lang-CkpsCd17.js";
-import { _ as pk } from "./TILogoGithub.vue_vue_type_script_setup_true_lang-CUA8dKSG.js";
-import { _ as sk } from "./TILogoGoogle.vue_vue_type_script_setup_true_lang-CtCQ0TTP.js";
-import { _ as ik } from "./TILogoGooglePlaystore.vue_vue_type_script_setup_true_lang-BJYrY6TJ.js";
-import { _ as Tk } from "./TILogoHackernews.vue_vue_type_script_setup_true_lang-BeWKqtyw.js";
-import { _ as xk } from "./TILogoHtml5.vue_vue_type_script_setup_true_lang-7UQ9U585.js";
-import { _ as nk } from "./TILogoInstagram.vue_vue_type_script_setup_true_lang-CME7_zeu.js";
-import { _ as hk } from "./TILogoInstagramCircle.vue_vue_type_script_setup_true_lang-BSfuZnI_.js";
-import { _ as Fk } from "./TILogoIonic.vue_vue_type_script_setup_true_lang-jj01cOH_.js";
-import { _ as Ok } from "./TILogoIonitron.vue_vue_type_script_setup_true_lang-xy9qP1u6.js";
-import { _ as dk } from "./TILogoJavascript.vue_vue_type_script_setup_true_lang-CyCvUZzg.js";
-import { _ as kk } from "./TILogoLaravel.vue_vue_type_script_setup_true_lang-D_GJlP7Q.js";
-import { _ as Lk } from "./TILogoLinkedin.vue_vue_type_script_setup_true_lang-CFr-CUVN.js";
-import { _ as Bk } from "./TILogoLinkedinCircle.vue_vue_type_script_setup_true_lang-CGzXrvmc.js";
-import { _ as Ak } from "./TILogoMarkdown.vue_vue_type_script_setup_true_lang-DkQzT_xj.js";
-import { _ as Rk } from "./TILogoNoSmoking.vue_vue_type_script_setup_true_lang-DRg-JUf4.js";
-import { _ as Hk } from "./TILogoNodejs.vue_vue_type_script_setup_true_lang-Dq-MeUQ-.js";
-import { _ as vk } from "./TILogoNpm.vue_vue_type_script_setup_true_lang-Cc-cUQ5V.js";
-import { _ as Uk } from "./TILogoOctocat.vue_vue_type_script_setup_true_lang-DgjXMVmY.js";
-import { _ as Nk } from "./TILogoPinterest.vue_vue_type_script_setup_true_lang-BijjeLQE.js";
-import { _ as Wk } from "./TILogoPlaystation.vue_vue_type_script_setup_true_lang-CNrqt7bX.js";
-import { _ as qk } from "./TILogoPwa.vue_vue_type_script_setup_true_lang-CmIXx87u.js";
-import { _ as Jk } from "./TILogoPython.vue_vue_type_script_setup_true_lang-CsM8JuUu.js";
-import { _ as Qk } from "./TILogoReact.vue_vue_type_script_setup_true_lang-sozzsrkE.js";
-import { _ as jk } from "./TILogoReddit.vue_vue_type_script_setup_true_lang-CT1ceZP_.js";
-import { _ as $k } from "./TILogoRss.vue_vue_type_script_setup_true_lang-CzWEyAC_.js";
-import { _ as ow } from "./TILogoSass.vue_vue_type_script_setup_true_lang-Ct12k4oe.js";
-import { _ as aw } from "./TILogoSkype.vue_vue_type_script_setup_true_lang-CHX4iSbs.js";
-import { _ as pw } from "./TILogoSlack.vue_vue_type_script_setup_true_lang-vhvPOOv1.js";
-import { _ as sw } from "./TILogoSnapchat.vue_vue_type_script_setup_true_lang-BSbWFUZS.js";
-import { _ as iw } from "./TILogoStackoverflow.vue_vue_type_script_setup_true_lang-CXuMwUcl.js";
-import { _ as Tw } from "./TILogoSteam.vue_vue_type_script_setup_true_lang-BYtSYz75.js";
-import { _ as xw } from "./TILogoStencil.vue_vue_type_script_setup_true_lang-D4v5_E4O.js";
-import { _ as nw } from "./TILogoTumblr.vue_vue_type_script_setup_true_lang-CR5kWbPa.js";
-import { _ as hw } from "./TILogoTux.vue_vue_type_script_setup_true_lang-DN6u4-y8.js";
-import { _ as Fw } from "./TILogoTwitch.vue_vue_type_script_setup_true_lang-B8bJxubW.js";
-import { _ as Ow } from "./TILogoTwitter.vue_vue_type_script_setup_true_lang-BRJcyIvL.js";
-import { _ as dw } from "./TILogoTwitterCircle.vue_vue_type_script_setup_true_lang-vctPHkBH.js";
-import { _ as kw } from "./TILogoUsd.vue_vue_type_script_setup_true_lang-e8iRZMPF.js";
-import { _ as Lw } from "./TILogoVimeo.vue_vue_type_script_setup_true_lang-BXuduH-r.js";
-import { _ as Bw } from "./TILogoVk.vue_vue_type_script_setup_true_lang-C42kAO4E.js";
-import { _ as Aw } from "./TILogoVue.vue_vue_type_script_setup_true_lang-B1PlcoD4.js";
-import { _ as Rw } from "./TILogoWebComponent.vue_vue_type_script_setup_true_lang-CvHP1C97.js";
-import { _ as Hw } from "./TILogoWhatsapp.vue_vue_type_script_setup_true_lang-CWudApt9.js";
-import { _ as vw } from "./TILogoWhatsappCircle.vue_vue_type_script_setup_true_lang-Bc25y7ah.js";
-import { _ as Uw } from "./TILogoWindows.vue_vue_type_script_setup_true_lang-DBLZD6Kp.js";
-import { _ as Nw } from "./TILogoWordpress.vue_vue_type_script_setup_true_lang-B8s1VwZ1.js";
-import { _ as Ww } from "./TILogoXbox.vue_vue_type_script_setup_true_lang-D135FYRq.js";
-import { _ as qw } from "./TILogoXing.vue_vue_type_script_setup_true_lang-Sxg0Hh2a.js";
-import { _ as Jw } from "./TILogoYahoo.vue_vue_type_script_setup_true_lang-n4cXq1cU.js";
-import { _ as Qw } from "./TILogoYen.vue_vue_type_script_setup_true_lang-BtEK3Azo.js";
-import { _ as jw } from "./TILogoYoutube.vue_vue_type_script_setup_true_lang-Bgre4zQd.js";
-import { _ as $w } from "./TILogoYoutubeCircle.vue_vue_type_script_setup_true_lang-7lnlOEuI.js";
-import { _ as oL } from "./TILogout.vue_vue_type_script_setup_true_lang-D0jJew0_.js";
+import { _ as og } from "./TILogoAmazon.vue_vue_type_script_setup_true_lang-Ddjw1nJz.js";
+import { _ as ag } from "./TILogoAmplify.vue_vue_type_script_setup_true_lang-DCWnCz1u.js";
+import { _ as pg } from "./TILogoAndroid.vue_vue_type_script_setup_true_lang-D5MihGuw.js";
+import { _ as sg } from "./TILogoAngular.vue_vue_type_script_setup_true_lang-CpCpevsN.js";
+import { _ as ig } from "./TILogoApple.vue_vue_type_script_setup_true_lang-BNeGPiX5.js";
+import { _ as Tg } from "./TILogoAppleAppstore.vue_vue_type_script_setup_true_lang-DyLrDSW_.js";
+import { _ as xg } from "./TILogoBitbucket.vue_vue_type_script_setup_true_lang-BYsj6-J5.js";
+import { _ as ng } from "./TILogoBitcoin.vue_vue_type_script_setup_true_lang-DVKVxeER.js";
+import { _ as hg } from "./TILogoBuffer.vue_vue_type_script_setup_true_lang-UDHyFun-.js";
+import { _ as Fg } from "./TILogoCapacitor.vue_vue_type_script_setup_true_lang-D1mBlcPI.js";
+import { _ as Og } from "./TILogoChrome.vue_vue_type_script_setup_true_lang-CDZkH_QE.js";
+import { _ as dg } from "./TILogoClosedCaptioning.vue_vue_type_script_setup_true_lang-k0nMh0X1.js";
+import { _ as kg } from "./TILogoCodepen.vue_vue_type_script_setup_true_lang-Btqud88u.js";
+import { _ as Lg } from "./TILogoCss3.vue_vue_type_script_setup_true_lang-DGAdoEYB.js";
+import { _ as Bg } from "./TILogoDesignernews.vue_vue_type_script_setup_true_lang-BHLCP9qq.js";
+import { _ as Ag } from "./TILogoDribbble.vue_vue_type_script_setup_true_lang-DWxaWjnm.js";
+import { _ as Rg } from "./TILogoDropbox.vue_vue_type_script_setup_true_lang--j2ET05H.js";
+import { _ as Hg } from "./TILogoEdge.vue_vue_type_script_setup_true_lang-wF3bizLU.js";
+import { _ as vg } from "./TILogoElectron.vue_vue_type_script_setup_true_lang-CKHkOica.js";
+import { _ as Ug } from "./TILogoEuro.vue_vue_type_script_setup_true_lang-CpmJQ93I.js";
+import { _ as Ng } from "./TILogoFacebook.vue_vue_type_script_setup_true_lang-DotoR4rb.js";
+import { _ as Wg } from "./TILogoFacebookCircle.vue_vue_type_script_setup_true_lang-TPRNhPN2.js";
+import { _ as qg } from "./TILogoFirebase.vue_vue_type_script_setup_true_lang-Brj9aGiD.js";
+import { _ as Jg } from "./TILogoFirefox.vue_vue_type_script_setup_true_lang-Ve54Dm2L.js";
+import { _ as Qg } from "./TILogoFlickr.vue_vue_type_script_setup_true_lang-Dp-qftOw.js";
+import { _ as jg } from "./TILogoFoursquare.vue_vue_type_script_setup_true_lang-CkpsCd17.js";
+import { _ as $g } from "./TILogoGithub.vue_vue_type_script_setup_true_lang-CUA8dKSG.js";
+import { _ as ok } from "./TILogoGoogle.vue_vue_type_script_setup_true_lang-CtCQ0TTP.js";
+import { _ as ak } from "./TILogoGooglePlaystore.vue_vue_type_script_setup_true_lang-BJYrY6TJ.js";
+import { _ as pk } from "./TILogoHackernews.vue_vue_type_script_setup_true_lang-BeWKqtyw.js";
+import { _ as sk } from "./TILogoHtml5.vue_vue_type_script_setup_true_lang-7UQ9U585.js";
+import { _ as ik } from "./TILogoInstagram.vue_vue_type_script_setup_true_lang-CME7_zeu.js";
+import { _ as Tk } from "./TILogoInstagramCircle.vue_vue_type_script_setup_true_lang-BSfuZnI_.js";
+import { _ as xk } from "./TILogoIonic.vue_vue_type_script_setup_true_lang-jj01cOH_.js";
+import { _ as nk } from "./TILogoIonitron.vue_vue_type_script_setup_true_lang-xy9qP1u6.js";
+import { _ as hk } from "./TILogoJavascript.vue_vue_type_script_setup_true_lang-CyCvUZzg.js";
+import { _ as Fk } from "./TILogoLaravel.vue_vue_type_script_setup_true_lang-D_GJlP7Q.js";
+import { _ as Ok } from "./TILogoLinkedin.vue_vue_type_script_setup_true_lang-CFr-CUVN.js";
+import { _ as dk } from "./TILogoLinkedinCircle.vue_vue_type_script_setup_true_lang-CGzXrvmc.js";
+import { _ as kk } from "./TILogoMarkdown.vue_vue_type_script_setup_true_lang-DkQzT_xj.js";
+import { _ as Lk } from "./TILogoNodejs.vue_vue_type_script_setup_true_lang-Dq-MeUQ-.js";
+import { _ as Bk } from "./TILogoNoSmoking.vue_vue_type_script_setup_true_lang-DRg-JUf4.js";
+import { _ as Ak } from "./TILogoNpm.vue_vue_type_script_setup_true_lang-Cc-cUQ5V.js";
+import { _ as Rk } from "./TILogoOctocat.vue_vue_type_script_setup_true_lang-DgjXMVmY.js";
+import { _ as Hk } from "./TILogoPinterest.vue_vue_type_script_setup_true_lang-BijjeLQE.js";
+import { _ as vk } from "./TILogoPlaystation.vue_vue_type_script_setup_true_lang-CNrqt7bX.js";
+import { _ as Uk } from "./TILogoPwa.vue_vue_type_script_setup_true_lang-CmIXx87u.js";
+import { _ as Nk } from "./TILogoPython.vue_vue_type_script_setup_true_lang-CsM8JuUu.js";
+import { _ as Wk } from "./TILogoReact.vue_vue_type_script_setup_true_lang-sozzsrkE.js";
+import { _ as qk } from "./TILogoReddit.vue_vue_type_script_setup_true_lang-CT1ceZP_.js";
+import { _ as Jk } from "./TILogoRss.vue_vue_type_script_setup_true_lang-CzWEyAC_.js";
+import { _ as Qk } from "./TILogoSass.vue_vue_type_script_setup_true_lang-Ct12k4oe.js";
+import { _ as jk } from "./TILogoSkype.vue_vue_type_script_setup_true_lang-CHX4iSbs.js";
+import { _ as $k } from "./TILogoSlack.vue_vue_type_script_setup_true_lang-vhvPOOv1.js";
+import { _ as ow } from "./TILogoSnapchat.vue_vue_type_script_setup_true_lang-BSbWFUZS.js";
+import { _ as aw } from "./TILogoStackoverflow.vue_vue_type_script_setup_true_lang-CXuMwUcl.js";
+import { _ as pw } from "./TILogoSteam.vue_vue_type_script_setup_true_lang-BYtSYz75.js";
+import { _ as sw } from "./TILogoStencil.vue_vue_type_script_setup_true_lang-D4v5_E4O.js";
+import { _ as iw } from "./TILogoTumblr.vue_vue_type_script_setup_true_lang-CR5kWbPa.js";
+import { _ as Tw } from "./TILogoTux.vue_vue_type_script_setup_true_lang-DN6u4-y8.js";
+import { _ as xw } from "./TILogoTwitch.vue_vue_type_script_setup_true_lang-B8bJxubW.js";
+import { _ as nw } from "./TILogoTwitter.vue_vue_type_script_setup_true_lang-BRJcyIvL.js";
+import { _ as hw } from "./TILogoTwitterCircle.vue_vue_type_script_setup_true_lang-vctPHkBH.js";
+import { _ as Fw } from "./TILogoUsd.vue_vue_type_script_setup_true_lang-e8iRZMPF.js";
+import { _ as Ow } from "./TILogout.vue_vue_type_script_setup_true_lang-D0jJew0_.js";
+import { _ as dw } from "./TILogOutFill.vue_vue_type_script_setup_true_lang-YdlRROTx.js";
+import { _ as kw } from "./TILogOutOutline.vue_vue_type_script_setup_true_lang-CP3la4yF.js";
+import { _ as Lw } from "./TILogOutSharp.vue_vue_type_script_setup_true_lang-ZXg0qu_P.js";
+import { _ as Bw } from "./TILogoVimeo.vue_vue_type_script_setup_true_lang-BXuduH-r.js";
+import { _ as Aw } from "./TILogoVk.vue_vue_type_script_setup_true_lang-C42kAO4E.js";
+import { _ as Rw } from "./TILogoVue.vue_vue_type_script_setup_true_lang-B1PlcoD4.js";
+import { _ as Hw } from "./TILogoWebComponent.vue_vue_type_script_setup_true_lang-CvHP1C97.js";
+import { _ as vw } from "./TILogoWhatsapp.vue_vue_type_script_setup_true_lang-CWudApt9.js";
+import { _ as Uw } from "./TILogoWhatsappCircle.vue_vue_type_script_setup_true_lang-Bc25y7ah.js";
+import { _ as Nw } from "./TILogoWindows.vue_vue_type_script_setup_true_lang-DBLZD6Kp.js";
+import { _ as Ww } from "./TILogoWordpress.vue_vue_type_script_setup_true_lang-B8s1VwZ1.js";
+import { _ as qw } from "./TILogoXbox.vue_vue_type_script_setup_true_lang-D135FYRq.js";
+import { _ as Jw } from "./TILogoXing.vue_vue_type_script_setup_true_lang-Sxg0Hh2a.js";
+import { _ as Qw } from "./TILogoYahoo.vue_vue_type_script_setup_true_lang-n4cXq1cU.js";
+import { _ as jw } from "./TILogoYen.vue_vue_type_script_setup_true_lang-BtEK3Azo.js";
+import { _ as $w } from "./TILogoYoutube.vue_vue_type_script_setup_true_lang-Bgre4zQd.js";
+import { _ as oL } from "./TILogoYoutubeCircle.vue_vue_type_script_setup_true_lang-7lnlOEuI.js";
 import { _ as aL } from "./TIMagazine.vue_vue_type_script_setup_true_lang-BPGeR6LX.js";
 import { _ as pL } from "./TIMagnetFill.vue_vue_type_script_setup_true_lang-DA3g5UEY.js";
 import { _ as sL } from "./TIMagnetOutline.vue_vue_type_script_setup_true_lang-q18TOQHo.js";
@@ -804,8 +804,8 @@ import { _ as Wy } from "./TIMoveGrabber.vue_vue_type_script_setup_true_lang-BEg
 import { _ as qy } from "./TIMoveSharp.vue_vue_type_script_setup_true_lang-CgsBSpDT.js";
 import { _ as Jy } from "./TIMusicalNoteFill.vue_vue_type_script_setup_true_lang-C0jogiav.js";
 import { _ as Qy } from "./TIMusicalNoteOutline.vue_vue_type_script_setup_true_lang-CvU2_Unl.js";
-import { _ as jy } from "./TIMusicalNoteSharp.vue_vue_type_script_setup_true_lang-C1xeHtb_.js";
-import { _ as $y } from "./TIMusicalNotesFill.vue_vue_type_script_setup_true_lang-C6DVAXLK.js";
+import { _ as jy } from "./TIMusicalNotesFill.vue_vue_type_script_setup_true_lang-C6DVAXLK.js";
+import { _ as $y } from "./TIMusicalNoteSharp.vue_vue_type_script_setup_true_lang-C1xeHtb_.js";
 import { _ as oB } from "./TIMusicalNotesOutline.vue_vue_type_script_setup_true_lang-DMBZEb-F.js";
 import { _ as aB } from "./TIMusicalNotesSharp.vue_vue_type_script_setup_true_lang-CPj2NuHM.js";
 import { _ as pB } from "./TINavigateCircleFill.vue_vue_type_script_setup_true_lang-Vm48B1vT.js";
@@ -936,16 +936,16 @@ import { _ as vR } from "./TIPowerSharp.vue_vue_type_script_setup_true_lang-LasY
 import { _ as UR } from "./TIPresentationOutline.vue_vue_type_script_setup_true_lang-BoIPDPjg.js";
 import { _ as NR } from "./TIPricetagFill.vue_vue_type_script_setup_true_lang-KHo8PcyI.js";
 import { _ as WR } from "./TIPricetagOutline.vue_vue_type_script_setup_true_lang-CHxn4434.js";
-import { _ as qR } from "./TIPricetagSharp.vue_vue_type_script_setup_true_lang-D9YAG9bT.js";
-import { _ as JR } from "./TIPricetagsFill.vue_vue_type_script_setup_true_lang-DtbFRbL5.js";
+import { _ as qR } from "./TIPricetagsFill.vue_vue_type_script_setup_true_lang-DtbFRbL5.js";
+import { _ as JR } from "./TIPricetagSharp.vue_vue_type_script_setup_true_lang-D9YAG9bT.js";
 import { _ as QR } from "./TIPricetagsOutline.vue_vue_type_script_setup_true_lang-BTycGHqB.js";
 import { _ as jR } from "./TIPricetagsSharp.vue_vue_type_script_setup_true_lang-D8HgYAD0.js";
 import { _ as $R } from "./TIPrintFill.vue_vue_type_script_setup_true_lang-Q7ol5VXw.js";
 import { _ as oD } from "./TIPrintOutline.vue_vue_type_script_setup_true_lang-DJnuEn4H.js";
 import { _ as aD } from "./TIPrintSharp.vue_vue_type_script_setup_true_lang-D6tXmLrG.js";
 import { _ as pD } from "./TIProduct.vue_vue_type_script_setup_true_lang-Ba4j3nPW.js";
-import { _ as sD } from "./TIProductPet.vue_vue_type_script_setup_true_lang-D9PDW9cg.js";
-import { _ as iD } from "./TIProductivity.vue_vue_type_script_setup_true_lang-kRAh3At1.js";
+import { _ as sD } from "./TIProductivity.vue_vue_type_script_setup_true_lang-kRAh3At1.js";
+import { _ as iD } from "./TIProductPet.vue_vue_type_script_setup_true_lang-D9PDW9cg.js";
 import { _ as TD } from "./TIProducts.vue_vue_type_script_setup_true_lang-DTiXKCmv.js";
 import { _ as xD } from "./TIPushFill.vue_vue_type_script_setup_true_lang-BByq5qj2.js";
 import { _ as nD } from "./TIPushOutline.vue_vue_type_script_setup_true_lang-Dn27P6if.js";
@@ -1079,10 +1079,10 @@ import { _ as $E } from "./TIShirtOutline.vue_vue_type_script_setup_true_lang-CV
 import { _ as oU } from "./TIShuffleFill.vue_vue_type_script_setup_true_lang-Bf6nFhJK.js";
 import { _ as aU } from "./TIShuffleOutline.vue_vue_type_script_setup_true_lang-DKqzHUKJ.js";
 import { _ as pU } from "./TIShuffleSharp.vue_vue_type_script_setup_true_lang-SU_vD7_h.js";
-import { _ as sU } from "./TISideBySide.vue_vue_type_script_setup_true_lang-CtRF5vXI.js";
-import { _ as iU } from "./TISideBySideFill.vue_vue_type_script_setup_true_lang-9i2EI4Fz.js";
-import { _ as TU } from "./TISidebarHide.vue_vue_type_script_setup_true_lang-CAAkld5l.js";
-import { _ as xU } from "./TISidebarShow.vue_vue_type_script_setup_true_lang-MxmXdgzF.js";
+import { _ as sU } from "./TISidebarHide.vue_vue_type_script_setup_true_lang-CAAkld5l.js";
+import { _ as iU } from "./TISidebarShow.vue_vue_type_script_setup_true_lang-MxmXdgzF.js";
+import { _ as TU } from "./TISideBySide.vue_vue_type_script_setup_true_lang-CtRF5vXI.js";
+import { _ as xU } from "./TISideBySideFill.vue_vue_type_script_setup_true_lang-9i2EI4Fz.js";
 import { _ as nU } from "./TISnowFill.vue_vue_type_script_setup_true_lang-C47Z0iSK.js";
 import { _ as hU } from "./TISnowOutline.vue_vue_type_script_setup_true_lang-B11CsakG.js";
 import { _ as FU } from "./TISnowSharp.vue_vue_type_script_setup_true_lang-D7G2f4H9.js";
@@ -1174,12 +1174,12 @@ import { _ as LV } from "./TITime.vue_vue_type_script_setup_true_lang-CmYez5cD.j
 import { _ as BV } from "./TITimeAddOutline.vue_vue_type_script_setup_true_lang-B8ggwFn9.js";
 import { _ as AV } from "./TITimeFill.vue_vue_type_script_setup_true_lang-DGudH5Ry.js";
 import { _ as RV } from "./TITimeHistoric.vue_vue_type_script_setup_true_lang-CvjfvUWZ.js";
-import { _ as HV } from "./TITimeOutline.vue_vue_type_script_setup_true_lang-BtwC3qDJ.js";
-import { _ as vV } from "./TITimeSharp.vue_vue_type_script_setup_true_lang-CqOCIvi2.js";
-import { _ as UV } from "./TITimeline.vue_vue_type_script_setup_true_lang-BehHeXrZ.js";
-import { _ as NV } from "./TITimerFill.vue_vue_type_script_setup_true_lang-BHLdpTOD.js";
-import { _ as WV } from "./TITimerOutline.vue_vue_type_script_setup_true_lang-B7oynSqj.js";
-import { _ as qV } from "./TITimerSharp.vue_vue_type_script_setup_true_lang-C337PXr5.js";
+import { _ as HV } from "./TITimeline.vue_vue_type_script_setup_true_lang-BehHeXrZ.js";
+import { _ as vV } from "./TITimeOutline.vue_vue_type_script_setup_true_lang-BtwC3qDJ.js";
+import { _ as UV } from "./TITimerFill.vue_vue_type_script_setup_true_lang-BHLdpTOD.js";
+import { _ as NV } from "./TITimerOutline.vue_vue_type_script_setup_true_lang-B7oynSqj.js";
+import { _ as WV } from "./TITimerSharp.vue_vue_type_script_setup_true_lang-C337PXr5.js";
+import { _ as qV } from "./TITimeSharp.vue_vue_type_script_setup_true_lang-CqOCIvi2.js";
 import { _ as JV } from "./TITitle.vue_vue_type_script_setup_true_lang-C14wG__z.js";
 import { _ as QV } from "./TITodayFill.vue_vue_type_script_setup_true_lang-CEWXJXBh.js";
 import { _ as jV } from "./TITodayOutline.vue_vue_type_script_setup_true_lang-COOxRSWo.js";
@@ -1264,6 +1264,7 @@ import { _ as qq } from "./TIWifiSharp.vue_vue_type_script_setup_true_lang-xw5OR
 import { _ as Jq } from "./TIWomanFill.vue_vue_type_script_setup_true_lang-BfmXqd1O.js";
 import { _ as Qq } from "./TIWomanOutline.vue_vue_type_script_setup_true_lang-Dy_TAfFT.js";
 import { _ as jq } from "./TIWomanSharp.vue_vue_type_script_setup_true_lang-Ro77Dr_f.js";
+import { _ as $q } from "./TIzoom.vue_vue_type_script_setup_true_lang-HnqC0ujD.js";
 export {
   e as TIAddCircleOutline,
   t as TIAddCircleSharp,
@@ -1327,20 +1328,20 @@ export {
   Io as TIArrowRedoOutline,
   _o as TIArrowRedoSharp,
   uo as TIArrowReprocess,
-  So as TIArrowUndoCircleFill,
-  co as TIArrowUndoCircleOutline,
-  Co as TIArrowUndoCircleSharp,
-  ko as TIArrowUndoFill,
-  Lo as TIArrowUndoOutline,
-  Bo as TIArrowUndoSharp,
-  Ao as TIArrowUpCircleFill,
-  Ro as TIArrowUpCircleOutline,
-  Ho as TIArrowUpCircleSharp,
-  vo as TIArrowUpDown,
-  Uo as TIArrowUpFill,
-  No as TIArrowUpOutline,
-  Wo as TIArrowUpSharp,
-  qo as TIArrowsFullscreen,
+  co as TIArrowUndoCircleFill,
+  Co as TIArrowUndoCircleOutline,
+  ko as TIArrowUndoCircleSharp,
+  Lo as TIArrowUndoFill,
+  Bo as TIArrowUndoOutline,
+  Ao as TIArrowUndoSharp,
+  Ro as TIArrowUpCircleFill,
+  Ho as TIArrowUpCircleOutline,
+  vo as TIArrowUpCircleSharp,
+  Uo as TIArrowUpDown,
+  No as TIArrowUpFill,
+  Wo as TIArrowUpOutline,
+  qo as TIArrowUpSharp,
+  So as TIArrowsFullscreen,
   Jo as TIAtCircleFill,
   Qo as TIAtCircleOutline,
   jo as TIAtCircleSharp,
@@ -1393,14 +1394,14 @@ export {
   va as TIBodySharp,
   Ua as TIBold,
   Na as TIBookFill,
-  Wa as TIBookOutline,
-  qa as TIBookSharp,
-  Ja as TIBookmarkFill,
-  Qa as TIBookmarkOutline,
-  ja as TIBookmarkSharp,
-  $a as TIBookmarksFill,
-  ot as TIBookmarksOutline,
-  at as TIBookmarksSharp,
+  ot as TIBookOutline,
+  at as TIBookSharp,
+  Wa as TIBookmarkFill,
+  qa as TIBookmarkOutline,
+  Qa as TIBookmarkSharp,
+  Ja as TIBookmarksFill,
+  ja as TIBookmarksOutline,
+  $a as TIBookmarksSharp,
   pt as TIBrasil,
   st as TIBriefcaseFill,
   it as TIBriefcaseOtline,
@@ -1490,8 +1491,8 @@ export {
   ns as TIChatbubbleEllipsesSharp,
   hs as TIChatbubbleFill,
   Fs as TIChatbubbleOutline,
-  Os as TIChatbubbleSharp,
-  ds as TIChatbubblesFill,
+  ds as TIChatbubbleSharp,
+  Os as TIChatbubblesFill,
   ks as TIChatbubblesOutline,
   Ls as TIChatbubblesSharp,
   Bs as TICheckboxFill,
@@ -1650,14 +1651,14 @@ export {
   Ix as TIDocumentEdit,
   _x as TIDocumentFill,
   ux as TIDocumentOutline,
-  Sx as TIDocumentSharp,
-  cx as TIDocumentTextFill,
-  Cx as TIDocumentTextOutline,
-  gx as TIDocumentTextPdf,
-  wx as TIDocumentTextSharp,
-  yx as TIDocumentsFill,
-  Px as TIDocumentsOutline,
-  bx as TIDocumentsSharp,
+  cx as TIDocumentSharp,
+  wx as TIDocumentTextFill,
+  yx as TIDocumentTextOutline,
+  Px as TIDocumentTextPdf,
+  bx as TIDocumentTextSharp,
+  Sx as TIDocumentsFill,
+  Cx as TIDocumentsOutline,
+  gx as TIDocumentsSharp,
   Dx as TIDoubleChevronBackFill,
   Mx as TIDoubleChevronForwardFill,
   Ex as TIDownloadFill,
@@ -1703,15 +1704,15 @@ export {
   Tn as TIExpandFill,
   xn as TIExpandOutline,
   nn as TIExpandSharp,
-  hn as TIEyeFill,
-  Fn as TIEyeOffFill,
-  On as TIEyeOffOutline,
-  dn as TIEyeOffSharp,
-  kn as TIEyeOutline,
-  Ln as TIEyeSharp,
-  Bn as TIEyedropFill,
-  An as TIEyedropOutline,
-  Rn as TIEyedropSharp,
+  dn as TIEyeFill,
+  kn as TIEyeOffFill,
+  Ln as TIEyeOffOutline,
+  Bn as TIEyeOffSharp,
+  An as TIEyeOutline,
+  Rn as TIEyeSharp,
+  hn as TIEyedropFill,
+  Fn as TIEyedropOutline,
+  On as TIEyedropSharp,
   Hn as TIFacebookColor,
   vn as TIFarm,
   Un as TIFieldDeploymentOutline,
@@ -1815,8 +1816,8 @@ export {
   FF as TIHappyFill,
   OF as TIHappyOutline,
   dF as TIHappySharp,
-  kF as TIHarvestFill,
-  LF as TIHarvester,
+  LF as TIHarvestFill,
+  kF as TIHarvester,
   BF as TIHeadsetFill,
   AF as TIHeadsetOutline,
   RF as TIHeadsetSharp,
@@ -1854,36 +1855,36 @@ export {
   Wc as TIHourglassOutline,
   qc as TIHourglassSharp,
   Jc as TIICircleOutline,
-  Qc as TIISquareOutline,
-  jc as TIIconsFill,
-  $c as TIIconsOutline,
-  oO as TIIconsSharp,
-  aO as TIIdentification,
-  pO as TIImageCaption,
-  sO as TIImageFill,
-  iO as TIImageManager,
-  TO as TIImageOutline,
+  $O as TIISquareOutline,
+  Qc as TIIconsFill,
+  jc as TIIconsOutline,
+  $c as TIIconsSharp,
+  oO as TIIdentification,
+  aO as TIImageCaption,
+  pO as TIImageFill,
+  sO as TIImageManager,
+  iO as TIImageOutline,
   xO as TIImageSharp,
   nO as TIImageSize,
-  hO as TIImagesFill,
-  FO as TIImagesOutline,
-  OO as TIImagesSharp,
-  dO as TIInfiniteFill,
-  kO as TIInfiniteOutline,
-  LO as TIInfiniteSharp,
-  BO as TIInformationCircleFill,
-  AO as TIInformationCircleOutline,
-  RO as TIInformationCircleSharp,
-  HO as TIInformationFill,
-  vO as TIInformationOutline,
-  UO as TIInformationSharp,
-  NO as TIInlineClass,
-  WO as TIInlineStyle,
-  qO as TIInsertEmbed,
-  JO as TIInsertFile,
-  QO as TIInsertImage,
-  jO as TIInsertTable,
-  $O as TIInsertVideo,
+  TO as TIImagesFill,
+  hO as TIImagesOutline,
+  FO as TIImagesSharp,
+  OO as TIInfiniteFill,
+  dO as TIInfiniteOutline,
+  kO as TIInfiniteSharp,
+  LO as TIInformationCircleFill,
+  BO as TIInformationCircleOutline,
+  AO as TIInformationCircleSharp,
+  RO as TIInformationFill,
+  HO as TIInformationOutline,
+  vO as TIInformationSharp,
+  UO as TIInlineClass,
+  NO as TIInlineStyle,
+  WO as TIInsertEmbed,
+  qO as TIInsertFile,
+  JO as TIInsertImage,
+  QO as TIInsertTable,
+  jO as TIInsertVideo,
   oC as TIItalic,
   aC as TIJournalFill,
   pC as TIJournalOutline,
@@ -1891,10 +1892,10 @@ export {
   iC as TIKanban,
   TC as TIKeyFill,
   xC as TIKeyOutline,
-  nC as TIKeySharp,
-  hC as TIKeypadFill,
-  FC as TIKeypadOutline,
-  OC as TIKeypadSharp,
+  OC as TIKeySharp,
+  nC as TIKeypadFill,
+  hC as TIKeypadOutline,
+  FC as TIKeypadSharp,
   dC as TILanguageFill,
   kC as TILanguageOutline,
   LC as TILanguageSharp,
@@ -1938,88 +1939,88 @@ export {
   Qd as TILogInFill,
   jd as TILogInOutline,
   $d as TILogInSharp,
-  og as TILogOutFill,
-  ag as TILogOutOutline,
-  pg as TILogOutSharp,
-  sg as TILogoAmazon,
-  ig as TILogoAmplify,
-  Tg as TILogoAndroid,
-  xg as TILogoAngular,
-  ng as TILogoApple,
-  hg as TILogoAppleAppstore,
-  Fg as TILogoBitbucket,
-  Og as TILogoBitcoin,
-  dg as TILogoBuffer,
-  kg as TILogoCapacitor,
-  Lg as TILogoChrome,
-  Bg as TILogoClosedCaptioning,
-  Ag as TILogoCodepen,
-  Rg as TILogoCss3,
-  Hg as TILogoDesignernews,
-  vg as TILogoDribbble,
-  Ug as TILogoDropbox,
-  Ng as TILogoEdge,
-  Wg as TILogoElectron,
-  qg as TILogoEuro,
-  Jg as TILogoFacebook,
-  Qg as TILogoFacebookCircle,
-  jg as TILogoFirebase,
-  $g as TILogoFirefox,
-  ok as TILogoFlickr,
-  ak as TILogoFoursquare,
-  pk as TILogoGithub,
-  sk as TILogoGoogle,
-  ik as TILogoGooglePlaystore,
-  Tk as TILogoHackernews,
-  xk as TILogoHtml5,
-  nk as TILogoInstagram,
-  hk as TILogoInstagramCircle,
-  Fk as TILogoIonic,
-  Ok as TILogoIonitron,
-  dk as TILogoJavascript,
-  kk as TILogoLaravel,
-  Lk as TILogoLinkedin,
-  Bk as TILogoLinkedinCircle,
-  Ak as TILogoMarkdown,
-  Rk as TILogoNoSmoking,
-  Hk as TILogoNodejs,
-  vk as TILogoNpm,
-  Uk as TILogoOctocat,
-  Nk as TILogoPinterest,
-  Wk as TILogoPlaystation,
-  qk as TILogoPwa,
-  Jk as TILogoPython,
-  Qk as TILogoReact,
-  jk as TILogoReddit,
-  $k as TILogoRss,
-  ow as TILogoSass,
-  aw as TILogoSkype,
-  pw as TILogoSlack,
-  sw as TILogoSnapchat,
-  iw as TILogoStackoverflow,
-  Tw as TILogoSteam,
-  xw as TILogoStencil,
-  nw as TILogoTumblr,
-  hw as TILogoTux,
-  Fw as TILogoTwitch,
-  Ow as TILogoTwitter,
-  dw as TILogoTwitterCircle,
-  kw as TILogoUsd,
-  Lw as TILogoVimeo,
-  Bw as TILogoVk,
-  Aw as TILogoVue,
-  Rw as TILogoWebComponent,
-  Hw as TILogoWhatsapp,
-  vw as TILogoWhatsappCircle,
-  Uw as TILogoWindows,
-  Nw as TILogoWordpress,
-  Ww as TILogoXbox,
-  qw as TILogoXing,
-  Jw as TILogoYahoo,
-  Qw as TILogoYen,
-  jw as TILogoYoutube,
-  $w as TILogoYoutubeCircle,
-  oL as TILogout,
+  dw as TILogOutFill,
+  kw as TILogOutOutline,
+  Lw as TILogOutSharp,
+  og as TILogoAmazon,
+  ag as TILogoAmplify,
+  pg as TILogoAndroid,
+  sg as TILogoAngular,
+  ig as TILogoApple,
+  Tg as TILogoAppleAppstore,
+  xg as TILogoBitbucket,
+  ng as TILogoBitcoin,
+  hg as TILogoBuffer,
+  Fg as TILogoCapacitor,
+  Og as TILogoChrome,
+  dg as TILogoClosedCaptioning,
+  kg as TILogoCodepen,
+  Lg as TILogoCss3,
+  Bg as TILogoDesignernews,
+  Ag as TILogoDribbble,
+  Rg as TILogoDropbox,
+  Hg as TILogoEdge,
+  vg as TILogoElectron,
+  Ug as TILogoEuro,
+  Ng as TILogoFacebook,
+  Wg as TILogoFacebookCircle,
+  qg as TILogoFirebase,
+  Jg as TILogoFirefox,
+  Qg as TILogoFlickr,
+  jg as TILogoFoursquare,
+  $g as TILogoGithub,
+  ok as TILogoGoogle,
+  ak as TILogoGooglePlaystore,
+  pk as TILogoHackernews,
+  sk as TILogoHtml5,
+  ik as TILogoInstagram,
+  Tk as TILogoInstagramCircle,
+  xk as TILogoIonic,
+  nk as TILogoIonitron,
+  hk as TILogoJavascript,
+  Fk as TILogoLaravel,
+  Ok as TILogoLinkedin,
+  dk as TILogoLinkedinCircle,
+  kk as TILogoMarkdown,
+  Bk as TILogoNoSmoking,
+  Lk as TILogoNodejs,
+  Ak as TILogoNpm,
+  Rk as TILogoOctocat,
+  Hk as TILogoPinterest,
+  vk as TILogoPlaystation,
+  Uk as TILogoPwa,
+  Nk as TILogoPython,
+  Wk as TILogoReact,
+  qk as TILogoReddit,
+  Jk as TILogoRss,
+  Qk as TILogoSass,
+  jk as TILogoSkype,
+  $k as TILogoSlack,
+  ow as TILogoSnapchat,
+  aw as TILogoStackoverflow,
+  pw as TILogoSteam,
+  sw as TILogoStencil,
+  iw as TILogoTumblr,
+  Tw as TILogoTux,
+  xw as TILogoTwitch,
+  nw as TILogoTwitter,
+  hw as TILogoTwitterCircle,
+  Fw as TILogoUsd,
+  Bw as TILogoVimeo,
+  Aw as TILogoVk,
+  Rw as TILogoVue,
+  Hw as TILogoWebComponent,
+  vw as TILogoWhatsapp,
+  Uw as TILogoWhatsappCircle,
+  Nw as TILogoWindows,
+  Ww as TILogoWordpress,
+  qw as TILogoXbox,
+  Jw as TILogoXing,
+  Qw as TILogoYahoo,
+  jw as TILogoYen,
+  $w as TILogoYoutube,
+  oL as TILogoYoutubeCircle,
+  Ow as TILogout,
   aL as TIMagazine,
   pL as TIMagnetFill,
   sL as TIMagnetOutline,
@@ -2071,8 +2072,8 @@ export {
   qy as TIMoveSharp,
   Jy as TIMusicalNoteFill,
   Qy as TIMusicalNoteOutline,
-  jy as TIMusicalNoteSharp,
-  $y as TIMusicalNotesFill,
+  $y as TIMusicalNoteSharp,
+  jy as TIMusicalNotesFill,
   oB as TIMusicalNotesOutline,
   aB as TIMusicalNotesSharp,
   pB as TINavigateCircleFill,
@@ -2203,16 +2204,16 @@ export {
   UR as TIPresentationOutline,
   NR as TIPricetagFill,
   WR as TIPricetagOutline,
-  qR as TIPricetagSharp,
-  JR as TIPricetagsFill,
+  JR as TIPricetagSharp,
+  qR as TIPricetagsFill,
   QR as TIPricetagsOutline,
   jR as TIPricetagsSharp,
   $R as TIPrintFill,
   oD as TIPrintOutline,
   aD as TIPrintSharp,
   pD as TIProduct,
-  sD as TIProductPet,
-  iD as TIProductivity,
+  iD as TIProductPet,
+  sD as TIProductivity,
   TD as TIProducts,
   xD as TIPushFill,
   nD as TIPushOutline,
@@ -2346,10 +2347,10 @@ export {
   oU as TIShuffleFill,
   aU as TIShuffleOutline,
   pU as TIShuffleSharp,
-  sU as TISideBySide,
-  iU as TISideBySideFill,
-  TU as TISidebarHide,
-  xU as TISidebarShow,
+  TU as TISideBySide,
+  xU as TISideBySideFill,
+  sU as TISidebarHide,
+  iU as TISidebarShow,
   nU as TISnowFill,
   hU as TISnowOutline,
   FU as TISnowSharp,
@@ -2441,12 +2442,12 @@ export {
   BV as TITimeAddOutline,
   AV as TITimeFill,
   RV as TITimeHistoric,
-  HV as TITimeOutline,
-  vV as TITimeSharp,
-  UV as TITimeline,
-  NV as TITimerFill,
-  WV as TITimerOutline,
-  qV as TITimerSharp,
+  vV as TITimeOutline,
+  qV as TITimeSharp,
+  HV as TITimeline,
+  UV as TITimerFill,
+  NV as TITimerOutline,
+  WV as TITimerSharp,
   JV as TITitle,
   QV as TITodayFill,
   jV as TITodayOutline,
@@ -2530,5 +2531,6 @@ export {
   qq as TIWifiSharp,
   Jq as TIWomanFill,
   Qq as TIWomanOutline,
-  jq as TIWomanSharp
+  jq as TIWomanSharp,
+  $q as TIzoom
 };

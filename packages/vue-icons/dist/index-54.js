@@ -1,8 +1,8 @@
 import { _ as o } from "./TIShuffleSharp.vue_vue_type_script_setup_true_lang-SU_vD7_h.js";
-import { _ as p } from "./TISideBySide.vue_vue_type_script_setup_true_lang-CtRF5vXI.js";
-import { _ as S } from "./TISideBySideFill.vue_vue_type_script_setup_true_lang-9i2EI4Fz.js";
-import { _ as s } from "./TISidebarHide.vue_vue_type_script_setup_true_lang-CAAkld5l.js";
-import { _ as x } from "./TISidebarShow.vue_vue_type_script_setup_true_lang-MxmXdgzF.js";
+import { _ as p } from "./TISidebarHide.vue_vue_type_script_setup_true_lang-CAAkld5l.js";
+import { _ as S } from "./TISidebarShow.vue_vue_type_script_setup_true_lang-MxmXdgzF.js";
+import { _ as s } from "./TISideBySide.vue_vue_type_script_setup_true_lang-CtRF5vXI.js";
+import { _ as x } from "./TISideBySideFill.vue_vue_type_script_setup_true_lang-9i2EI4Fz.js";
 import { _ as T } from "./TISnowFill.vue_vue_type_script_setup_true_lang-C47Z0iSK.js";
 import { _ as i } from "./TISnowOutline.vue_vue_type_script_setup_true_lang-B11CsakG.js";
 import { _ as d } from "./TISnowSharp.vue_vue_type_script_setup_true_lang-D7G2f4H9.js";
@@ -20,10 +20,10 @@ import { _ as G } from "./TISquareOutline.vue_vue_type_script_setup_true_lang-D-
 import { _ as K } from "./TISquareSharp.vue_vue_type_script_setup_true_lang-B-X0JG2k.js";
 export {
   o as TIShuffleSharp,
-  p as TISideBySide,
-  S as TISideBySideFill,
-  s as TISidebarHide,
-  x as TISidebarShow,
+  s as TISideBySide,
+  x as TISideBySideFill,
+  p as TISidebarHide,
+  S as TISidebarShow,
   T as TISnowFill,
   i as TISnowOutline,
   d as TISnowSharp,
